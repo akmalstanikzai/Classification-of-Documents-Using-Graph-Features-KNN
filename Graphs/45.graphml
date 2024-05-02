@@ -1,0 +1,972 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="idea"/>
+<node id="tennis"/>
+<node id="australia"/>
+<node id="chief"/>
+<node id="executive"/>
+<node id="craig"/>
+<node id="tiley"/>
+<node id="worried"/>
+<node id="threat"/>
+<node id="saudi"/>
+<node id="master"/>
+<node id="first"/>
+<node id="week"/>
+<node id="january"/>
+<node id="would"/>
+<node id="pose"/>
+<node id="australian"/>
+<node id="summer"/>
+<node id="discreet"/>
+<node id="initial"/>
+<node id="meeting"/>
+<node id="grand"/>
+<node id="slam"/>
+<node id="including"/>
+<node id="one"/>
+<node id="london"/>
+<node id="year"/>
+<node id="open"/>
+<node id="vested"/>
+<node id="interest"/>
+<node id="invited"/>
+<node id="summit"/>
+<node id="indian"/>
+<node id="well"/>
+<node id="march"/>
+<node id="best"/>
+<node id="remembered"/>
+<node id="intervention"/>
+<node id="atp"/>
+<node id="chairman"/>
+<node id="andrea"/>
+<node id="gaudenzi"/>
+<node id="revealed"/>
+<node id="alternative"/>
+<node id="billion"/>
+<node id="offer"/>
+<node id="arabia"/>
+<node id="reported"/>
+<node id="external"/>
+<node id="actually"/>
+<node id="worth"/>
+<node id="sport"/>
+<node id="hard"/>
+<node id="quantify"/>
+<node id="primarily"/>
+<node id="bid"/>
+<node id="combined"/>
+<node id="event"/>
+<node id="understood"/>
+<node id="factored"/>
+<node id="several"/>
+<node id="prize"/>
+<node id="money"/>
+<node id="may"/>
+<node id="also"/>
+<node id="incorporated"/>
+<node id="element"/>
+<node id="deal"/>
+<node id="wta"/>
+<node id="final"/>
+<node id="particular"/>
+<node id="longer"/>
+<node id="table"/>
+<node id="start"/>
+<node id="bidding"/>
+<node id="process"/>
+<node id="confirmation"/>
+<node id="riyadh"/>
+<node id="host"/>
+<node id="way"/>
+<node id="introduced"/>
+<node id="went"/>
+<node id="badly"/>
+<node id="since"/>
+<node id="though"/>
+<node id="discussion"/>
+<node id="become"/>
+<node id="collaborative"/>
+<node id="cordial"/>
+<node id="chair"/>
+<node id="steve"/>
+<node id="simon"/>
+<node id="four"/>
+<node id="recently"/>
+<node id="begun"/>
+<node id="regularly"/>
+<node id="jointly"/>
+<node id="stage"/>
+<node id="tournament"/>
+<node id="madrid"/>
+<node id="time"/>
+<node id="anyone"/>
+<node id="remember"/>
+<node id="could"/>
+<node id="brewing"/>
+<node id="rivalry"/>
+<node id="growing"/>
+<node id="organically"/>
+<node id="two"/>
+<node id="player"/>
+<node id="implying"/>
+<node id="beat"/>
+<node id="simply"/>
+<node id="leaving"/>
+<node id="name"/>
+<node id="asked"/>
+<node id="tour"/>
+<node id="organic"/>
+<node id="kind"/>
+<node id="mean"/>
+<node id="depth"/>
+<node id="last"/>
+<node id="long"/>
+<node id="good"/>
+<node id="case"/>
+<node id="blooming"/>
+<node id="iga"/>
+<node id="swiatek"/>
+<node id="coco"/>
+<node id="gauff"/>
+<node id="maybe"/>
+<node id="neither"/>
+<node id="feel"/>
+<node id="maliciousness"/>
+<node id="toward"/>
+<node id="yet"/>
+<node id="chance"/>
+<node id="winning"/>
+<node id="french"/>
+<node id="might"/>
+<node id="interpreted"/>
+<node id="word"/>
+<node id="saying"/>
+<node id="right"/>
+<node id="win"/>
+<node id="spent"/>
+<node id="much"/>
+<node id="city"/>
+<node id="never"/>
+<node id="mind"/>
+<node id="three"/>
+<node id="title"/>
+<node id="roland"/>
+<node id="garros"/>
+<node id="speaking"/>
+<node id="developing"/>
+<node id="jannik"/>
+<node id="sinner"/>
+<node id="certainly"/>
+<node id="currently"/>
+<node id="ranked"/>
+<node id="fairly"/>
+<node id="decent"/>
+<node id="continue"/>
+<node id="play"/>
+<node id="reach"/>
+<node id="current"/>
+<node id="novak"/>
+<node id="djokovic"/>
+<node id="withdrawing"/>
+<node id="playing"/>
+<node id="lately"/>
+<node id="give"/>
+<node id="overtake"/>
+<node id="ranking"/>
+<node id="great"/>
+<node id="boris"/>
+<node id="becker"/>
+<node id="recent"/>
+<node id="form"/>
+<node id="press"/>
+<node id="conference"/>
+<node id="laureus"/>
+<node id="world"/>
+<node id="award"/>
+<node id="answer"/>
+<node id="amusing"/>
+<node id="insightful"/>
+<node id="classic"/>
+<edge source="idea" target="tennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="tennis" target="australia">
+  <data key="d0">1</data>
+</edge>
+<edge source="tennis" target="summer">
+  <data key="d0">1</data>
+</edge>
+<edge source="tennis" target="case">
+  <data key="d0">1</data>
+</edge>
+<edge source="tennis" target="great">
+  <data key="d0">1</data>
+</edge>
+<edge source="australia" target="chief">
+  <data key="d0">1</data>
+</edge>
+<edge source="chief" target="executive">
+  <data key="d0">2</data>
+</edge>
+<edge source="executive" target="craig">
+  <data key="d0">1</data>
+</edge>
+<edge source="executive" target="steve">
+  <data key="d0">1</data>
+</edge>
+<edge source="craig" target="tiley">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiley" target="worried">
+  <data key="d0">1</data>
+</edge>
+<edge source="worried" target="threat">
+  <data key="d0">1</data>
+</edge>
+<edge source="threat" target="saudi">
+  <data key="d0">1</data>
+</edge>
+<edge source="saudi" target="master">
+  <data key="d0">1</data>
+</edge>
+<edge source="saudi" target="arabia">
+  <data key="d0">1</data>
+</edge>
+<edge source="master" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="reported">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="january">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="gauff">
+  <data key="d0">1</data>
+</edge>
+<edge source="january" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="pose">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="host">
+  <data key="d0">1</data>
+</edge>
+<edge source="pose" target="australian">
+  <data key="d0">1</data>
+</edge>
+<edge source="australian" target="tennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="australian" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="summer" target="discreet">
+  <data key="d0">1</data>
+</edge>
+<edge source="summer" target="current">
+  <data key="d0">1</data>
+</edge>
+<edge source="discreet" target="initial">
+  <data key="d0">1</data>
+</edge>
+<edge source="initial" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="grand">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="went">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="regularly">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="grand" target="slam">
+  <data key="d0">4</data>
+</edge>
+<edge source="slam" target="including">
+  <data key="d0">1</data>
+</edge>
+<edge source="slam" target="since">
+  <data key="d0">1</data>
+</edge>
+<edge source="slam" target="recently">
+  <data key="d0">1</data>
+</edge>
+<edge source="slam" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="including" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="london">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="london" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="australian">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="prize">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="currently">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="reach">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="vested">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="might">
+  <data key="d0">1</data>
+</edge>
+<edge source="vested" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="interest" target="invited">
+  <data key="d0">1</data>
+</edge>
+<edge source="invited" target="summit">
+  <data key="d0">1</data>
+</edge>
+<edge source="summit" target="indian">
+  <data key="d0">1</data>
+</edge>
+<edge source="indian" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="march">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="march" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="remembered">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="kind">
+  <data key="d0">1</data>
+</edge>
+<edge source="remembered" target="intervention">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervention" target="atp">
+  <data key="d0">1</data>
+</edge>
+<edge source="atp" target="chairman">
+  <data key="d0">1</data>
+</edge>
+<edge source="atp" target="bidding">
+  <data key="d0">1</data>
+</edge>
+<edge source="atp" target="wta">
+  <data key="d0">1</data>
+</edge>
+<edge source="atp" target="tour">
+  <data key="d0">1</data>
+</edge>
+<edge source="chairman" target="andrea">
+  <data key="d0">1</data>
+</edge>
+<edge source="andrea" target="gaudenzi">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaudenzi" target="revealed">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaudenzi" target="wta">
+  <data key="d0">1</data>
+</edge>
+<edge source="revealed" target="alternative">
+  <data key="d0">1</data>
+</edge>
+<edge source="alternative" target="billion">
+  <data key="d0">1</data>
+</edge>
+<edge source="billion" target="offer">
+  <data key="d0">1</data>
+</edge>
+<edge source="offer" target="saudi">
+  <data key="d0">1</data>
+</edge>
+<edge source="offer" target="actually">
+  <data key="d0">1</data>
+</edge>
+<edge source="offer" target="longer">
+  <data key="d0">1</data>
+</edge>
+<edge source="arabia" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="reported" target="external">
+  <data key="d0">1</data>
+</edge>
+<edge source="external" target="offer">
+  <data key="d0">1</data>
+</edge>
+<edge source="actually" target="worth">
+  <data key="d0">1</data>
+</edge>
+<edge source="worth" target="sport">
+  <data key="d0">1</data>
+</edge>
+<edge source="sport" target="hard">
+  <data key="d0">1</data>
+</edge>
+<edge source="sport" target="tennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="sport" target="award">
+  <data key="d0">1</data>
+</edge>
+<edge source="hard" target="quantify">
+  <data key="d0">1</data>
+</edge>
+<edge source="quantify" target="primarily">
+  <data key="d0">1</data>
+</edge>
+<edge source="primarily" target="bid">
+  <data key="d0">1</data>
+</edge>
+<edge source="bid" target="combined">
+  <data key="d0">1</data>
+</edge>
+<edge source="combined" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="understood">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="since">
+  <data key="d0">1</data>
+</edge>
+<edge source="understood" target="factored">
+  <data key="d0">1</data>
+</edge>
+<edge source="factored" target="several">
+  <data key="d0">1</data>
+</edge>
+<edge source="several" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="prize" target="money">
+  <data key="d0">1</data>
+</edge>
+<edge source="money" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="incorporated">
+  <data key="d0">1</data>
+</edge>
+<edge source="incorporated" target="element">
+  <data key="d0">1</data>
+</edge>
+<edge source="element" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="wta">
+  <data key="d0">1</data>
+</edge>
+<edge source="wta" target="final">
+  <data key="d0">2</data>
+</edge>
+<edge source="wta" target="chair">
+  <data key="d0">1</data>
+</edge>
+<edge source="wta" target="jointly">
+  <data key="d0">1</data>
+</edge>
+<edge source="wta" target="could">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="particular">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="particular" target="offer">
+  <data key="d0">1</data>
+</edge>
+<edge source="longer" target="table">
+  <data key="d0">1</data>
+</edge>
+<edge source="table" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="atp">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="bidding" target="process">
+  <data key="d0">1</data>
+</edge>
+<edge source="process" target="confirmation">
+  <data key="d0">1</data>
+</edge>
+<edge source="confirmation" target="riyadh">
+  <data key="d0">1</data>
+</edge>
+<edge source="riyadh" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="host" target="wta">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="introduced">
+  <data key="d0">1</data>
+</edge>
+<edge source="introduced" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="went" target="badly">
+  <data key="d0">1</data>
+</edge>
+<edge source="badly" target="grand">
+  <data key="d0">1</data>
+</edge>
+<edge source="since" target="though">
+  <data key="d0">1</data>
+</edge>
+<edge source="since" target="spent">
+  <data key="d0">1</data>
+</edge>
+<edge source="though" target="discussion">
+  <data key="d0">1</data>
+</edge>
+<edge source="discussion" target="become">
+  <data key="d0">1</data>
+</edge>
+<edge source="become" target="collaborative">
+  <data key="d0">1</data>
+</edge>
+<edge source="collaborative" target="cordial">
+  <data key="d0">1</data>
+</edge>
+<edge source="cordial" target="gaudenzi">
+  <data key="d0">1</data>
+</edge>
+<edge source="chair" target="chief">
+  <data key="d0">1</data>
+</edge>
+<edge source="chair" target="four">
+  <data key="d0">1</data>
+</edge>
+<edge source="steve" target="simon">
+  <data key="d0">1</data>
+</edge>
+<edge source="simon" target="chair">
+  <data key="d0">1</data>
+</edge>
+<edge source="four" target="grand">
+  <data key="d0">1</data>
+</edge>
+<edge source="four" target="title">
+  <data key="d0">1</data>
+</edge>
+<edge source="recently" target="begun">
+  <data key="d0">1</data>
+</edge>
+<edge source="recently" target="asked">
+  <data key="d0">1</data>
+</edge>
+<edge source="begun" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="regularly" target="atp">
+  <data key="d0">1</data>
+</edge>
+<edge source="jointly" target="stage">
+  <data key="d0">1</data>
+</edge>
+<edge source="stage" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="playing">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="anyone">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="city">
+  <data key="d0">1</data>
+</edge>
+<edge source="anyone" target="remember">
+  <data key="d0">1</data>
+</edge>
+<edge source="remember" target="wta">
+  <data key="d0">1</data>
+</edge>
+<edge source="could" target="brewing">
+  <data key="d0">1</data>
+</edge>
+<edge source="could" target="depth">
+  <data key="d0">1</data>
+</edge>
+<edge source="could" target="blooming">
+  <data key="d0">1</data>
+</edge>
+<edge source="brewing" target="rivalry">
+  <data key="d0">1</data>
+</edge>
+<edge source="rivalry" target="growing">
+  <data key="d0">1</data>
+</edge>
+<edge source="rivalry" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="rivalry" target="could">
+  <data key="d0">1</data>
+</edge>
+<edge source="growing" target="organically">
+  <data key="d0">1</data>
+</edge>
+<edge source="organically" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="implying">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="simply">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="tour">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="implying" target="beat">
+  <data key="d0">1</data>
+</edge>
+<edge source="beat" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="simply" target="leaving">
+  <data key="d0">1</data>
+</edge>
+<edge source="leaving" target="name">
+  <data key="d0">1</data>
+</edge>
+<edge source="name" target="asked">
+  <data key="d0">1</data>
+</edge>
+<edge source="asked" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="asked" target="chance">
+  <data key="d0">1</data>
+</edge>
+<edge source="asked" target="sinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="tour" target="organic">
+  <data key="d0">1</data>
+</edge>
+<edge source="tour" target="fairly">
+  <data key="d0">1</data>
+</edge>
+<edge source="organic" target="rivalry">
+  <data key="d0">1</data>
+</edge>
+<edge source="kind" target="mean">
+  <data key="d0">1</data>
+</edge>
+<edge source="mean" target="could">
+  <data key="d0">1</data>
+</edge>
+<edge source="depth" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="four">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="good" target="sport">
+  <data key="d0">1</data>
+</edge>
+<edge source="case" target="rivalry">
+  <data key="d0">1</data>
+</edge>
+<edge source="blooming" target="iga">
+  <data key="d0">1</data>
+</edge>
+<edge source="iga" target="swiatek">
+  <data key="d0">1</data>
+</edge>
+<edge source="swiatek" target="coco">
+  <data key="d0">1</data>
+</edge>
+<edge source="swiatek" target="three">
+  <data key="d0">1</data>
+</edge>
+<edge source="coco" target="gauff">
+  <data key="d0">1</data>
+</edge>
+<edge source="gauff" target="maybe">
+  <data key="d0">1</data>
+</edge>
+<edge source="gauff" target="asked">
+  <data key="d0">1</data>
+</edge>
+<edge source="maybe" target="neither">
+  <data key="d0">1</data>
+</edge>
+<edge source="neither" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="maliciousness">
+  <data key="d0">1</data>
+</edge>
+<edge source="maliciousness" target="toward">
+  <data key="d0">1</data>
+</edge>
+<edge source="toward" target="yet">
+  <data key="d0">1</data>
+</edge>
+<edge source="yet" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="chance" target="winning">
+  <data key="d0">1</data>
+</edge>
+<edge source="chance" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="chance" target="overtake">
+  <data key="d0">1</data>
+</edge>
+<edge source="winning" target="french">
+  <data key="d0">1</data>
+</edge>
+<edge source="french" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="might" target="interpreted">
+  <data key="d0">1</data>
+</edge>
+<edge source="interpreted" target="word">
+  <data key="d0">1</data>
+</edge>
+<edge source="word" target="saying">
+  <data key="d0">1</data>
+</edge>
+<edge source="word" target="classic">
+  <data key="d0">1</data>
+</edge>
+<edge source="saying" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="win" target="grand">
+  <data key="d0">1</data>
+</edge>
+<edge source="spent" target="much">
+  <data key="d0">1</data>
+</edge>
+<edge source="much" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="city" target="never">
+  <data key="d0">1</data>
+</edge>
+<edge source="never" target="mind">
+  <data key="d0">1</data>
+</edge>
+<edge source="mind" target="swiatek">
+  <data key="d0">1</data>
+</edge>
+<edge source="three" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="title" target="roland">
+  <data key="d0">1</data>
+</edge>
+<edge source="roland" target="garros">
+  <data key="d0">1</data>
+</edge>
+<edge source="garros" target="speaking">
+  <data key="d0">1</data>
+</edge>
+<edge source="speaking" target="developing">
+  <data key="d0">1</data>
+</edge>
+<edge source="developing" target="jannik">
+  <data key="d0">1</data>
+</edge>
+<edge source="jannik" target="sinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="sinner" target="certainly">
+  <data key="d0">1</data>
+</edge>
+<edge source="sinner" target="chance">
+  <data key="d0">1</data>
+</edge>
+<edge source="sinner" target="recent">
+  <data key="d0">1</data>
+</edge>
+<edge source="certainly" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="currently" target="ranked">
+  <data key="d0">1</data>
+</edge>
+<edge source="ranked" target="atp">
+  <data key="d0">1</data>
+</edge>
+<edge source="fairly" target="decent">
+  <data key="d0">1</data>
+</edge>
+<edge source="decent" target="chance">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="play">
+  <data key="d0">1</data>
+</edge>
+<edge source="play" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="reach" target="summer">
+  <data key="d0">1</data>
+</edge>
+<edge source="current" target="novak">
+  <data key="d0">1</data>
+</edge>
+<edge source="novak" target="djokovic">
+  <data key="d0">1</data>
+</edge>
+<edge source="djokovic" target="withdrawing">
+  <data key="d0">1</data>
+</edge>
+<edge source="djokovic" target="ranking">
+  <data key="d0">1</data>
+</edge>
+<edge source="withdrawing" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="playing" target="lately">
+  <data key="d0">1</data>
+</edge>
+<edge source="lately" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="sinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="overtake" target="djokovic">
+  <data key="d0">1</data>
+</edge>
+<edge source="ranking" target="tennis">
+  <data key="d0">1</data>
+</edge>
+<edge source="great" target="boris">
+  <data key="d0">1</data>
+</edge>
+<edge source="boris" target="becker">
+  <data key="d0">1</data>
+</edge>
+<edge source="becker" target="recently">
+  <data key="d0">1</data>
+</edge>
+<edge source="becker" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="recent" target="form">
+  <data key="d0">1</data>
+</edge>
+<edge source="form" target="press">
+  <data key="d0">1</data>
+</edge>
+<edge source="press" target="conference">
+  <data key="d0">1</data>
+</edge>
+<edge source="conference" target="laureus">
+  <data key="d0">1</data>
+</edge>
+<edge source="laureus" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="sport">
+  <data key="d0">1</data>
+</edge>
+<edge source="award" target="becker">
+  <data key="d0">1</data>
+</edge>
+<edge source="answer" target="amusing">
+  <data key="d0">1</data>
+</edge>
+<edge source="amusing" target="insightful">
+  <data key="d0">1</data>
+</edge>
+<edge source="insightful" target="word">
+  <data key="d0">1</data>
+</edge>
+<edge source="classic" target="becker">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

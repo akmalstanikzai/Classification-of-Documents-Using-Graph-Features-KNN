@@ -1,0 +1,912 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="would"/>
+<node id="say"/>
+<node id="way"/>
+<node id="forward"/>
+<node id="science"/>
+<node id="indian"/>
+<node id="context"/>
+<node id="gave"/>
+<node id="tedx"/>
+<node id="talk"/>
+<node id="iit"/>
+<node id="bombay"/>
+<node id="call"/>
+<node id="vernacular"/>
+<node id="look"/>
+<node id="architecture"/>
+<node id="something"/>
+<node id="functional"/>
+<node id="similarly"/>
+<node id="delivery"/>
+<node id="material"/>
+<node id="answer"/>
+<node id="think"/>
+<node id="claim"/>
+<node id="study"/>
+<node id="reality"/>
+<node id="socially"/>
+<node id="administered"/>
+<node id="need"/>
+<node id="treat"/>
+<node id="kind"/>
+<node id="also"/>
+<node id="part"/>
+<node id="immediate"/>
+<node id="question"/>
+<node id="try"/>
+<node id="apply"/>
+<node id="method"/>
+<node id="like"/>
+<node id="well"/>
+<node id="dry"/>
+<node id="system"/>
+<node id="extraction"/>
+<node id="layer"/>
+<node id="dig"/>
+<node id="really"/>
+<node id="worry"/>
+<node id="know"/>
+<node id="buy"/>
+<node id="cornflakes"/>
+<node id="come"/>
+<node id="kanpur"/>
+<node id="social"/>
+<node id="economic"/>
+<node id="condition"/>
+<node id="made"/>
+<node id="manufacturing"/>
+<node id="hub"/>
+<node id="live"/>
+<node id="word"/>
+<node id="saying"/>
+<node id="interesting"/>
+<node id="example"/>
+<node id="student"/>
+<node id="knee"/>
+<node id="injury"/>
+<node id="hurting"/>
+<node id="got"/>
+<node id="mri"/>
+<node id="doctor"/>
+<node id="suggested"/>
+<node id="operation"/>
+<node id="okay"/>
+<node id="relied"/>
+<node id="uncle"/>
+<node id="advice"/>
+<node id="whether"/>
+<node id="even"/>
+<node id="consumption"/>
+<node id="cultural"/>
+<node id="third"/>
+<node id="party"/>
+<node id="make"/>
+<node id="acceptable"/>
+<node id="otherwise"/>
+<node id="going"/>
+<node id="rising"/>
+<node id="argument"/>
+<node id="medical"/>
+<node id="pluralism"/>
+<node id="one"/>
+<node id="integrates"/>
+<node id="local"/>
+<node id="health"/>
+<node id="knowledge"/>
+<node id="public"/>
+<node id="paradigm"/>
+<node id="pure"/>
+<node id="could"/>
+<node id="ready"/>
+<node id="kaadha"/>
+<node id="homemade"/>
+<node id="medicinal"/>
+<node id="decoction"/>
+<node id="work"/>
+<node id="take"/>
+<node id="tulsi"/>
+<node id="prevents"/>
+<node id="congestion"/>
+<node id="scientific"/>
+<node id="point"/>
+<node id="view"/>
+<node id="unnecessary"/>
+<node id="dichotomy"/>
+<node id="feel"/>
+<node id="let"/>
+<node id="rewind"/>
+<node id="two"/>
+<node id="second"/>
+<node id="thing"/>
+<node id="reason"/>
+<node id="separation"/>
+<node id="explain"/>
+<node id="important"/>
+<node id="step"/>
+<node id="western"/>
+<node id="took"/>
+<node id="long"/>
+<node id="time"/>
+<node id="understand"/>
+<node id="particular"/>
+<node id="surgeon"/>
+<node id="europe"/>
+<node id="noticed"/>
+<node id="washing"/>
+<node id="hand"/>
+<node id="surgery"/>
+<node id="actually"/>
+<node id="helped"/>
+<node id="reduce"/>
+<node id="mortality"/>
+<node id="explanation"/>
+<node id="senior"/>
+<node id="said"/>
+<node id="true"/>
+<node id="year"/>
+<node id="bacteria"/>
+<node id="discovered"/>
+<node id="found"/>
+<node id="right"/>
+<node id="scientist"/>
+<node id="accept"/>
+<node id="many"/>
+<node id="still"/>
+<node id="hold"/>
+<node id="empirically"/>
+<node id="sometimes"/>
+<node id="park"/>
+<node id="carry"/>
+<node id="maybe"/>
+<node id="later"/>
+<node id="find"/>
+<node id="body"/>
+<node id="quite"/>
+<node id="different"/>
+<node id="people"/>
+<node id="culture"/>
+<node id="japan"/>
+<node id="self"/>
+<node id="always"/>
+<node id="nose"/>
+<node id="breath"/>
+<node id="heart"/>
+<node id="mein"/>
+<edge source="would" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="okay">
+  <data key="d0">2</data>
+</edge>
+<edge source="say" target="mein">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="forward">
+  <data key="d0">1</data>
+</edge>
+<edge source="forward" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="indian">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="look">
+  <data key="d0">2</data>
+</edge>
+<edge source="science" target="delivery">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="claim">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="material">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="worry">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="functional">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="could">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="took">
+  <data key="d0">1</data>
+</edge>
+<edge source="indian" target="context">
+  <data key="d0">1</data>
+</edge>
+<edge source="indian" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="context" target="gave">
+  <data key="d0">1</data>
+</edge>
+<edge source="gave" target="tedx">
+  <data key="d0">1</data>
+</edge>
+<edge source="tedx" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="iit">
+  <data key="d0">1</data>
+</edge>
+<edge source="iit" target="bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="bombay" target="call">
+  <data key="d0">1</data>
+</edge>
+<edge source="call" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="vernacular" target="science">
+  <data key="d0">3</data>
+</edge>
+<edge source="vernacular" target="architecture">
+  <data key="d0">1</data>
+</edge>
+<edge source="vernacular" target="word">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="immediate">
+  <data key="d0">1</data>
+</edge>
+<edge source="architecture" target="something">
+  <data key="d0">1</data>
+</edge>
+<edge source="something" target="functional">
+  <data key="d0">1</data>
+</edge>
+<edge source="something" target="pure">
+  <data key="d0">1</data>
+</edge>
+<edge source="something" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="functional" target="similarly">
+  <data key="d0">1</data>
+</edge>
+<edge source="functional" target="interesting">
+  <data key="d0">1</data>
+</edge>
+<edge source="similarly" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="delivery" target="material">
+  <data key="d0">1</data>
+</edge>
+<edge source="delivery" target="question">
+  <data key="d0">1</data>
+</edge>
+<edge source="material" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="material" target="question">
+  <data key="d0">2</data>
+</edge>
+<edge source="answer" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="breath">
+  <data key="d0">1</data>
+</edge>
+<edge source="claim" target="study">
+  <data key="d0">1</data>
+</edge>
+<edge source="study" target="reality">
+  <data key="d0">1</data>
+</edge>
+<edge source="reality" target="reality">
+  <data key="d0">1</data>
+</edge>
+<edge source="reality" target="socially">
+  <data key="d0">1</data>
+</edge>
+<edge source="reality" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="socially" target="administered">
+  <data key="d0">1</data>
+</edge>
+<edge source="administered" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="treat">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="cultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="treat" target="kind">
+  <data key="d0">1</data>
+</edge>
+<edge source="kind" target="reality">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="part">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="accept">
+  <data key="d0">1</data>
+</edge>
+<edge source="part" target="science">
+  <data key="d0">2</data>
+</edge>
+<edge source="immediate" target="material">
+  <data key="d0">1</data>
+</edge>
+<edge source="question" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="question" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="question" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="apply">
+  <data key="d0">1</data>
+</edge>
+<edge source="apply" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="method" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="dry">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="dry" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="extraction">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="public">
+  <data key="d0">1</data>
+</edge>
+<edge source="extraction" target="layer">
+  <data key="d0">1</data>
+</edge>
+<edge source="layer" target="dig">
+  <data key="d0">1</data>
+</edge>
+<edge source="dig" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="saying">
+  <data key="d0">1</data>
+</edge>
+<edge source="worry" target="delivery">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="buy">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="reason">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="still">
+  <data key="d0">1</data>
+</edge>
+<edge source="buy" target="cornflakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="cornflakes" target="come">
+  <data key="d0">1</data>
+</edge>
+<edge source="come" target="kanpur">
+  <data key="d0">1</data>
+</edge>
+<edge source="kanpur" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="kanpur" target="manufacturing">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="condition">
+  <data key="d0">1</data>
+</edge>
+<edge source="condition" target="made">
+  <data key="d0">1</data>
+</edge>
+<edge source="made" target="kanpur">
+  <data key="d0">1</data>
+</edge>
+<edge source="manufacturing" target="hub">
+  <data key="d0">1</data>
+</edge>
+<edge source="hub" target="live">
+  <data key="d0">1</data>
+</edge>
+<edge source="live" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="word" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="saying" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="interesting" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="knee">
+  <data key="d0">1</data>
+</edge>
+<edge source="knee" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="hurting">
+  <data key="d0">1</data>
+</edge>
+<edge source="hurting" target="got">
+  <data key="d0">1</data>
+</edge>
+<edge source="got" target="mri">
+  <data key="d0">1</data>
+</edge>
+<edge source="mri" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="suggested">
+  <data key="d0">1</data>
+</edge>
+<edge source="suggested" target="operation">
+  <data key="d0">1</data>
+</edge>
+<edge source="operation" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="okay" target="relied">
+  <data key="d0">1</data>
+</edge>
+<edge source="okay" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="relied" target="uncle">
+  <data key="d0">1</data>
+</edge>
+<edge source="uncle" target="advice">
+  <data key="d0">1</data>
+</edge>
+<edge source="advice" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="kaadha">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="something">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="explain">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="consumption">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="western">
+  <data key="d0">1</data>
+</edge>
+<edge source="consumption" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="cultural" target="third">
+  <data key="d0">1</data>
+</edge>
+<edge source="cultural" target="explain">
+  <data key="d0">1</data>
+</edge>
+<edge source="third" target="party">
+  <data key="d0">1</data>
+</edge>
+<edge source="party" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="acceptable">
+  <data key="d0">1</data>
+</edge>
+<edge source="acceptable" target="otherwise">
+  <data key="d0">1</data>
+</edge>
+<edge source="acceptable" target="rising">
+  <data key="d0">1</data>
+</edge>
+<edge source="otherwise" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="acceptable">
+  <data key="d0">1</data>
+</edge>
+<edge source="rising" target="argument">
+  <data key="d0">1</data>
+</edge>
+<edge source="argument" target="medical">
+  <data key="d0">1</data>
+</edge>
+<edge source="medical" target="pluralism">
+  <data key="d0">1</data>
+</edge>
+<edge source="pluralism" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="integrates">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="particular">
+  <data key="d0">1</data>
+</edge>
+<edge source="integrates" target="local">
+  <data key="d0">1</data>
+</edge>
+<edge source="local" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="knowledge">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="system">
+  <data key="d0">1</data>
+</edge>
+<edge source="public" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="paradigm" target="something">
+  <data key="d0">1</data>
+</edge>
+<edge source="pure" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="could" target="ready">
+  <data key="d0">1</data>
+</edge>
+<edge source="ready" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="kaadha" target="homemade">
+  <data key="d0">1</data>
+</edge>
+<edge source="homemade" target="medicinal">
+  <data key="d0">1</data>
+</edge>
+<edge source="medicinal" target="decoction">
+  <data key="d0">1</data>
+</edge>
+<edge source="decoction" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="separation">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="empirically">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="tulsi">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="tulsi" target="prevents">
+  <data key="d0">1</data>
+</edge>
+<edge source="prevents" target="congestion">
+  <data key="d0">1</data>
+</edge>
+<edge source="congestion" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientific" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="view">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="self">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="nose">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="heart">
+  <data key="d0">1</data>
+</edge>
+<edge source="view" target="unnecessary">
+  <data key="d0">1</data>
+</edge>
+<edge source="unnecessary" target="dichotomy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dichotomy" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="let" target="rewind">
+  <data key="d0">1</data>
+</edge>
+<edge source="let" target="park">
+  <data key="d0">1</data>
+</edge>
+<edge source="rewind" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="part">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="reason" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="separation" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="explain" target="important">
+  <data key="d0">1</data>
+</edge>
+<edge source="explain" target="body">
+  <data key="d0">1</data>
+</edge>
+<edge source="important" target="step">
+  <data key="d0">1</data>
+</edge>
+<edge source="step" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="western" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="took" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="understand">
+  <data key="d0">1</data>
+</edge>
+<edge source="understand" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="particular" target="surgeon">
+  <data key="d0">1</data>
+</edge>
+<edge source="surgeon" target="europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="surgeon" target="said">
+  <data key="d0">1</data>
+</edge>
+<edge source="europe" target="noticed">
+  <data key="d0">1</data>
+</edge>
+<edge source="noticed" target="washing">
+  <data key="d0">1</data>
+</edge>
+<edge source="washing" target="hand">
+  <data key="d0">1</data>
+</edge>
+<edge source="hand" target="surgery">
+  <data key="d0">1</data>
+</edge>
+<edge source="surgery" target="actually">
+  <data key="d0">1</data>
+</edge>
+<edge source="actually" target="helped">
+  <data key="d0">1</data>
+</edge>
+<edge source="actually" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="helped" target="reduce">
+  <data key="d0">1</data>
+</edge>
+<edge source="reduce" target="mortality">
+  <data key="d0">1</data>
+</edge>
+<edge source="mortality" target="explanation">
+  <data key="d0">1</data>
+</edge>
+<edge source="explanation" target="senior">
+  <data key="d0">1</data>
+</edge>
+<edge source="explanation" target="cultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="senior" target="surgeon">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="true">
+  <data key="d0">1</data>
+</edge>
+<edge source="true" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="true" target="scientist">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="bacteria">
+  <data key="d0">1</data>
+</edge>
+<edge source="bacteria" target="discovered">
+  <data key="d0">1</data>
+</edge>
+<edge source="discovered" target="found">
+  <data key="d0">1</data>
+</edge>
+<edge source="found" target="actually">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="scientist">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientist" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientist" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="accept" target="many">
+  <data key="d0">1</data>
+</edge>
+<edge source="many" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="still" target="hold">
+  <data key="d0">1</data>
+</edge>
+<edge source="hold" target="true">
+  <data key="d0">1</data>
+</edge>
+<edge source="empirically" target="sometimes">
+  <data key="d0">1</data>
+</edge>
+<edge source="sometimes" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="park" target="carry">
+  <data key="d0">1</data>
+</edge>
+<edge source="carry" target="maybe">
+  <data key="d0">1</data>
+</edge>
+<edge source="maybe" target="later">
+  <data key="d0">1</data>
+</edge>
+<edge source="later" target="find">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="explanation">
+  <data key="d0">1</data>
+</edge>
+<edge source="body" target="quite">
+  <data key="d0">1</data>
+</edge>
+<edge source="quite" target="different">
+  <data key="d0">1</data>
+</edge>
+<edge source="different" target="different">
+  <data key="d0">1</data>
+</edge>
+<edge source="different" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="different" target="culture">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="different">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="self" target="always">
+  <data key="d0">1</data>
+</edge>
+<edge source="always" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="nose" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="breath" target="indian">
+  <data key="d0">1</data>
+</edge>
+<edge source="heart" target="say">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

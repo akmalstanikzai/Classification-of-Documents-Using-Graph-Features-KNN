@@ -1,0 +1,1084 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="past"/>
+<node id="year"/>
+<node id="beauty"/>
+<node id="industry"/>
+<node id="experiencing"/>
+<node id="significant"/>
+<node id="change"/>
+<node id="launch"/>
+<node id="brand"/>
+<node id="setting"/>
+<node id="storm"/>
+<node id="estimated"/>
+<node id="value"/>
+<node id="billion"/>
+<node id="expected"/>
+<node id="continue"/>
+<node id="rising"/>
+<node id="path"/>
+<node id="makeup"/>
+<node id="artist"/>
+<node id="influencers"/>
+<node id="play"/>
+<node id="important"/>
+<node id="role"/>
+<node id="defining"/>
+<node id="next"/>
+<node id="big"/>
+<node id="trend"/>
+<node id="subsequently"/>
+<node id="cosmetic"/>
+<node id="benefit"/>
+<node id="influence"/>
+<node id="furthermore"/>
+<node id="great"/>
+<node id="deal"/>
+<node id="content"/>
+<node id="creator"/>
+<node id="hefty"/>
+<node id="online"/>
+<node id="following"/>
+<node id="shy"/>
+<node id="away"/>
+<node id="posting"/>
+<node id="fashion"/>
+<node id="françois"/>
+<node id="nars"/>
+<node id="founder"/>
+<node id="said"/>
+<node id="accessory"/>
+<node id="buy"/>
+<node id="bag"/>
+<node id="shoe"/>
+<node id="put"/>
+<node id="eyeliner"/>
+<node id="lipstick"/>
+<node id="compliment"/>
+<node id="collaborate"/>
+<node id="expand"/>
+<node id="reach"/>
+<node id="impact"/>
+<node id="answer"/>
+<node id="interviewed"/>
+<node id="christina"/>
+<node id="kassi"/>
+<node id="houston"/>
+<node id="based"/>
+<node id="lifestyle"/>
+<node id="blogger"/>
+<node id="creates"/>
+<node id="related"/>
+<node id="marie"/>
+<node id="thomsen"/>
+<node id="professional"/>
+<node id="copenhagen"/>
+<node id="worked"/>
+<node id="like"/>
+<node id="ganni"/>
+<node id="stine"/>
+<node id="goya"/>
+<node id="malene"/>
+<node id="birger"/>
+<node id="elle"/>
+<node id="magazine"/>
+<node id="growing"/>
+<node id="interest"/>
+<node id="celebrity"/>
+<node id="icon"/>
+<node id="rihanna"/>
+<node id="lady"/>
+<node id="gaga"/>
+<node id="successfully"/>
+<node id="launched"/>
+<node id="also"/>
+<node id="rapidly"/>
+<node id="gaining"/>
+<node id="strong"/>
+<node id="social"/>
+<node id="platform"/>
+<node id="notably"/>
+<node id="increasing"/>
+<node id="digital"/>
+<node id="momentum"/>
+<node id="evident"/>
+<node id="work"/>
+<node id="veteran"/>
+<node id="pat"/>
+<node id="mcgrath"/>
+<node id="maison"/>
+<node id="margiela"/>
+<node id="givenchy"/>
+<node id="louis"/>
+<node id="vuitton"/>
+<node id="valentino"/>
+<node id="seeing"/>
+<node id="enthusiast"/>
+<node id="going"/>
+<node id="behind"/>
+<node id="scene"/>
+<node id="global"/>
+<node id="week"/>
+<node id="vogue"/>
+<node id="reporting"/>
+<node id="backstage"/>
+<node id="confirms"/>
+<node id="definite"/>
+<node id="interview"/>
+<node id="general"/>
+<node id="public"/>
+<node id="steven"/>
+<node id="kolb"/>
+<node id="executive"/>
+<node id="director"/>
+<node id="designer"/>
+<node id="america"/>
+<node id="explains"/>
+<node id="article"/>
+<node id="consumer"/>
+<node id="news"/>
+<node id="business"/>
+<node id="channel"/>
+<node id="look"/>
+<node id="collection"/>
+<node id="styling"/>
+<node id="presentation"/>
+<node id="dependent"/>
+<node id="complete"/>
+<node id="right"/>
+<node id="hair"/>
+<node id="extension"/>
+<node id="aesthetic"/>
+<node id="really"/>
+<node id="mind"/>
+<node id="use"/>
+<node id="give"/>
+<node id="extra"/>
+<node id="added"/>
+<node id="created"/>
+<node id="major"/>
+<node id="house"/>
+<node id="line"/>
+<node id="always"/>
+<node id="intimate"/>
+<node id="connection"/>
+<node id="current"/>
+<node id="rtw"/>
+<node id="product"/>
+<node id="released"/>
+<node id="season"/>
+<node id="help"/>
+<node id="idea"/>
+<node id="make"/>
+<node id="wearable"/>
+<node id="incorporate"/>
+<node id="dress"/>
+<node id="outfit"/>
+<node id="final"/>
+<node id="signal"/>
+<node id="kind"/>
+<node id="woman"/>
+<node id="would"/>
+<node id="wear"/>
+<node id="example"/>
+<node id="last"/>
+<node id="runway"/>
+<node id="show"/>
+<node id="wanted"/>
+<node id="magnify"/>
+<node id="vibrant"/>
+<node id="color"/>
+<node id="translated"/>
+<node id="onto"/>
+<node id="bold"/>
+<node id="colored"/>
+<node id="lip"/>
+<node id="create"/>
+<node id="funky"/>
+<node id="funny"/>
+<node id="accentuate"/>
+<node id="clothes"/>
+<node id="emphasize"/>
+<node id="silhouette"/>
+<node id="red"/>
+<node id="super"/>
+<node id="slick"/>
+<node id="tight"/>
+<node id="represent"/>
+<node id="powerful"/>
+<node id="bos"/>
+<edge source="past" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="industry">
+  <data key="d0">2</data>
+</edge>
+<edge source="beauty" target="influencers">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="trend">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="content">
+  <data key="d0">4</data>
+</edge>
+<edge source="beauty" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="celebrity">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="line">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="dress">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="industry" target="experiencing">
+  <data key="d0">1</data>
+</edge>
+<edge source="industry" target="storm">
+  <data key="d0">1</data>
+</edge>
+<edge source="industry" target="expected">
+  <data key="d0">1</data>
+</edge>
+<edge source="experiencing" target="significant">
+  <data key="d0">1</data>
+</edge>
+<edge source="significant" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="launch">
+  <data key="d0">1</data>
+</edge>
+<edge source="launch" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="setting">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="collaborate">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="use">
+  <data key="d0">1</data>
+</edge>
+<edge source="setting" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="storm" target="estimated">
+  <data key="d0">1</data>
+</edge>
+<edge source="estimated" target="value">
+  <data key="d0">1</data>
+</edge>
+<edge source="value" target="billion">
+  <data key="d0">1</data>
+</edge>
+<edge source="value" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="billion" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="expected" target="continue">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="rising">
+  <data key="d0">1</data>
+</edge>
+<edge source="continue" target="benefit">
+  <data key="d0">1</data>
+</edge>
+<edge source="rising" target="path">
+  <data key="d0">1</data>
+</edge>
+<edge source="path" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="makeup" target="artist">
+  <data key="d0">5</data>
+</edge>
+<edge source="makeup" target="accessory">
+  <data key="d0">1</data>
+</edge>
+<edge source="makeup" target="compliment">
+  <data key="d0">1</data>
+</edge>
+<edge source="makeup" target="hair">
+  <data key="d0">1</data>
+</edge>
+<edge source="makeup" target="bold">
+  <data key="d0">1</data>
+</edge>
+<edge source="artist" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="artist" target="founder">
+  <data key="d0">1</data>
+</edge>
+<edge source="artist" target="based">
+  <data key="d0">1</data>
+</edge>
+<edge source="artist" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="artist" target="pat">
+  <data key="d0">1</data>
+</edge>
+<edge source="influencers" target="play">
+  <data key="d0">1</data>
+</edge>
+<edge source="play" target="important">
+  <data key="d0">1</data>
+</edge>
+<edge source="important" target="role">
+  <data key="d0">1</data>
+</edge>
+<edge source="role" target="defining">
+  <data key="d0">1</data>
+</edge>
+<edge source="defining" target="next">
+  <data key="d0">1</data>
+</edge>
+<edge source="next" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="trend" target="subsequently">
+  <data key="d0">1</data>
+</edge>
+<edge source="subsequently" target="cosmetic">
+  <data key="d0">1</data>
+</edge>
+<edge source="cosmetic" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="cosmetic" target="said">
+  <data key="d0">1</data>
+</edge>
+<edge source="benefit" target="influence">
+  <data key="d0">1</data>
+</edge>
+<edge source="influence" target="furthermore">
+  <data key="d0">1</data>
+</edge>
+<edge source="furthermore" target="great">
+  <data key="d0">1</data>
+</edge>
+<edge source="great" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="great" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="content" target="creator">
+  <data key="d0">3</data>
+</edge>
+<edge source="content" target="françois">
+  <data key="d0">1</data>
+</edge>
+<edge source="content" target="marie">
+  <data key="d0">1</data>
+</edge>
+<edge source="content" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="creator" target="hefty">
+  <data key="d0">1</data>
+</edge>
+<edge source="creator" target="expand">
+  <data key="d0">1</data>
+</edge>
+<edge source="creator" target="help">
+  <data key="d0">1</data>
+</edge>
+<edge source="hefty" target="online">
+  <data key="d0">1</data>
+</edge>
+<edge source="online" target="following">
+  <data key="d0">1</data>
+</edge>
+<edge source="following" target="shy">
+  <data key="d0">1</data>
+</edge>
+<edge source="shy" target="away">
+  <data key="d0">1</data>
+</edge>
+<edge source="away" target="posting">
+  <data key="d0">1</data>
+</edge>
+<edge source="posting" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="content">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="buy">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="brand">
+  <data key="d0">2</data>
+</edge>
+<edge source="fashion" target="related">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="icon">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="enthusiast">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="designer">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="house">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="françois" target="nars">
+  <data key="d0">1</data>
+</edge>
+<edge source="nars" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="nars" target="cosmetic">
+  <data key="d0">1</data>
+</edge>
+<edge source="founder" target="nars">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="accessory" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="buy" target="bag">
+  <data key="d0">1</data>
+</edge>
+<edge source="buy" target="shoe">
+  <data key="d0">1</data>
+</edge>
+<edge source="buy" target="lipstick">
+  <data key="d0">1</data>
+</edge>
+<edge source="bag" target="buy">
+  <data key="d0">1</data>
+</edge>
+<edge source="shoe" target="put">
+  <data key="d0">1</data>
+</edge>
+<edge source="put" target="eyeliner">
+  <data key="d0">1</data>
+</edge>
+<edge source="eyeliner" target="buy">
+  <data key="d0">1</data>
+</edge>
+<edge source="lipstick" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="compliment" target="fashion">
+  <data key="d0">2</data>
+</edge>
+<edge source="collaborate" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="expand" target="reach">
+  <data key="d0">1</data>
+</edge>
+<edge source="reach" target="impact">
+  <data key="d0">1</data>
+</edge>
+<edge source="impact" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="answer" target="interviewed">
+  <data key="d0">1</data>
+</edge>
+<edge source="interviewed" target="christina">
+  <data key="d0">1</data>
+</edge>
+<edge source="christina" target="kassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="kassi" target="houston">
+  <data key="d0">1</data>
+</edge>
+<edge source="kassi" target="major">
+  <data key="d0">1</data>
+</edge>
+<edge source="houston" target="based">
+  <data key="d0">1</data>
+</edge>
+<edge source="based" target="lifestyle">
+  <data key="d0">1</data>
+</edge>
+<edge source="based" target="copenhagen">
+  <data key="d0">1</data>
+</edge>
+<edge source="lifestyle" target="blogger">
+  <data key="d0">1</data>
+</edge>
+<edge source="blogger" target="creates">
+  <data key="d0">1</data>
+</edge>
+<edge source="creates" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="related" target="content">
+  <data key="d0">1</data>
+</edge>
+<edge source="marie" target="thomsen">
+  <data key="d0">2</data>
+</edge>
+<edge source="thomsen" target="professional">
+  <data key="d0">1</data>
+</edge>
+<edge source="thomsen" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="professional" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="copenhagen" target="worked">
+  <data key="d0">1</data>
+</edge>
+<edge source="worked" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="ganni">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="vogue">
+  <data key="d0">1</data>
+</edge>
+<edge source="ganni" target="stine">
+  <data key="d0">1</data>
+</edge>
+<edge source="stine" target="goya">
+  <data key="d0">2</data>
+</edge>
+<edge source="goya" target="malene">
+  <data key="d0">1</data>
+</edge>
+<edge source="goya" target="runway">
+  <data key="d0">1</data>
+</edge>
+<edge source="malene" target="birger">
+  <data key="d0">2</data>
+</edge>
+<edge source="birger" target="elle">
+  <data key="d0">1</data>
+</edge>
+<edge source="birger" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="elle" target="magazine">
+  <data key="d0">1</data>
+</edge>
+<edge source="elle" target="reporting">
+  <data key="d0">1</data>
+</edge>
+<edge source="magazine" target="growing">
+  <data key="d0">1</data>
+</edge>
+<edge source="magazine" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="growing" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="interest" target="beauty">
+  <data key="d0">2</data>
+</edge>
+<edge source="interest" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="interest" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="interest" target="backstage">
+  <data key="d0">1</data>
+</edge>
+<edge source="celebrity" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="icon" target="rihanna">
+  <data key="d0">1</data>
+</edge>
+<edge source="rihanna" target="lady">
+  <data key="d0">1</data>
+</edge>
+<edge source="lady" target="gaga">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaga" target="successfully">
+  <data key="d0">1</data>
+</edge>
+<edge source="successfully" target="launched">
+  <data key="d0">1</data>
+</edge>
+<edge source="launched" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="rapidly">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="seeing">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidly" target="gaining">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaining" target="strong">
+  <data key="d0">1</data>
+</edge>
+<edge source="strong" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="strong" target="silhouette">
+  <data key="d0">1</data>
+</edge>
+<edge source="strong" target="red">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="platform">
+  <data key="d0">1</data>
+</edge>
+<edge source="platform" target="notably">
+  <data key="d0">1</data>
+</edge>
+<edge source="notably" target="increasing">
+  <data key="d0">1</data>
+</edge>
+<edge source="increasing" target="digital">
+  <data key="d0">1</data>
+</edge>
+<edge source="increasing" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="digital" target="momentum">
+  <data key="d0">1</data>
+</edge>
+<edge source="momentum" target="evident">
+  <data key="d0">1</data>
+</edge>
+<edge source="evident" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="veteran">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="maison">
+  <data key="d0">1</data>
+</edge>
+<edge source="veteran" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="pat" target="mcgrath">
+  <data key="d0">2</data>
+</edge>
+<edge source="mcgrath" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="mcgrath" target="confirms">
+  <data key="d0">1</data>
+</edge>
+<edge source="maison" target="margiela">
+  <data key="d0">1</data>
+</edge>
+<edge source="margiela" target="givenchy">
+  <data key="d0">1</data>
+</edge>
+<edge source="givenchy" target="louis">
+  <data key="d0">1</data>
+</edge>
+<edge source="louis" target="vuitton">
+  <data key="d0">1</data>
+</edge>
+<edge source="vuitton" target="valentino">
+  <data key="d0">1</data>
+</edge>
+<edge source="valentino" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="seeing" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="enthusiast" target="great">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="behind">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="backstage">
+  <data key="d0">1</data>
+</edge>
+<edge source="behind" target="scene">
+  <data key="d0">1</data>
+</edge>
+<edge source="scene" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="magazine">
+  <data key="d0">1</data>
+</edge>
+<edge source="vogue" target="elle">
+  <data key="d0">1</data>
+</edge>
+<edge source="reporting" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="backstage" target="pat">
+  <data key="d0">1</data>
+</edge>
+<edge source="backstage" target="interview">
+  <data key="d0">1</data>
+</edge>
+<edge source="confirms" target="definite">
+  <data key="d0">1</data>
+</edge>
+<edge source="definite" target="interest">
+  <data key="d0">1</data>
+</edge>
+<edge source="interview" target="general">
+  <data key="d0">1</data>
+</edge>
+<edge source="general" target="public">
+  <data key="d0">1</data>
+</edge>
+<edge source="public" target="steven">
+  <data key="d0">1</data>
+</edge>
+<edge source="steven" target="kolb">
+  <data key="d0">1</data>
+</edge>
+<edge source="kolb" target="executive">
+  <data key="d0">1</data>
+</edge>
+<edge source="executive" target="director">
+  <data key="d0">1</data>
+</edge>
+<edge source="director" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="designer" target="america">
+  <data key="d0">1</data>
+</edge>
+<edge source="designer" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="america" target="explains">
+  <data key="d0">1</data>
+</edge>
+<edge source="explains" target="article">
+  <data key="d0">1</data>
+</edge>
+<edge source="article" target="consumer">
+  <data key="d0">1</data>
+</edge>
+<edge source="consumer" target="news">
+  <data key="d0">1</data>
+</edge>
+<edge source="news" target="business">
+  <data key="d0">1</data>
+</edge>
+<edge source="business" target="channel">
+  <data key="d0">1</data>
+</edge>
+<edge source="channel" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="designer">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="wearable">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="accentuate">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="styling">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="dependent">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="aesthetic">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="created">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="rtw">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="collection" target="translated">
+  <data key="d0">1</data>
+</edge>
+<edge source="styling" target="presentation">
+  <data key="d0">1</data>
+</edge>
+<edge source="presentation" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="dependent" target="complete">
+  <data key="d0">1</data>
+</edge>
+<edge source="complete" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="hair" target="extension">
+  <data key="d0">1</data>
+</edge>
+<edge source="hair" target="represent">
+  <data key="d0">1</data>
+</edge>
+<edge source="extension" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="aesthetic" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="mind">
+  <data key="d0">1</data>
+</edge>
+<edge source="mind" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="use" target="increasing">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="extra">
+  <data key="d0">2</data>
+</edge>
+<edge source="give" target="idea">
+  <data key="d0">2</data>
+</edge>
+<edge source="extra" target="added">
+  <data key="d0">1</data>
+</edge>
+<edge source="extra" target="signal">
+  <data key="d0">1</data>
+</edge>
+<edge source="added" target="value">
+  <data key="d0">1</data>
+</edge>
+<edge source="created" target="christina">
+  <data key="d0">1</data>
+</edge>
+<edge source="major" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="house" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="line" target="always">
+  <data key="d0">1</data>
+</edge>
+<edge source="always" target="intimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="intimate" target="connection">
+  <data key="d0">1</data>
+</edge>
+<edge source="connection" target="current">
+  <data key="d0">1</data>
+</edge>
+<edge source="current" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="rtw" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="released">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="final">
+  <data key="d0">1</data>
+</edge>
+<edge source="released" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="help" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="idea" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="idea" target="marie">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="wearable" target="incorporate">
+  <data key="d0">1</data>
+</edge>
+<edge source="incorporate" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="dress" target="outfit">
+  <data key="d0">1</data>
+</edge>
+<edge source="outfit" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="compliment">
+  <data key="d0">1</data>
+</edge>
+<edge source="signal" target="kind">
+  <data key="d0">1</data>
+</edge>
+<edge source="kind" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="wear">
+  <data key="d0">1</data>
+</edge>
+<edge source="wear" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="stine">
+  <data key="d0">1</data>
+</edge>
+<edge source="runway" target="show">
+  <data key="d0">1</data>
+</edge>
+<edge source="show" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanted" target="magnify">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanted" target="emphasize">
+  <data key="d0">1</data>
+</edge>
+<edge source="magnify" target="vibrant">
+  <data key="d0">1</data>
+</edge>
+<edge source="vibrant" target="color">
+  <data key="d0">1</data>
+</edge>
+<edge source="color" target="collection">
+  <data key="d0">1</data>
+</edge>
+<edge source="color" target="clothes">
+  <data key="d0">1</data>
+</edge>
+<edge source="translated" target="onto">
+  <data key="d0">1</data>
+</edge>
+<edge source="onto" target="makeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="bold" target="colored">
+  <data key="d0">1</data>
+</edge>
+<edge source="colored" target="lip">
+  <data key="d0">1</data>
+</edge>
+<edge source="lip" target="create">
+  <data key="d0">1</data>
+</edge>
+<edge source="lip" target="super">
+  <data key="d0">1</data>
+</edge>
+<edge source="create" target="funky">
+  <data key="d0">1</data>
+</edge>
+<edge source="funky" target="funny">
+  <data key="d0">1</data>
+</edge>
+<edge source="funny" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="accentuate" target="color">
+  <data key="d0">1</data>
+</edge>
+<edge source="clothes" target="malene">
+  <data key="d0">1</data>
+</edge>
+<edge source="emphasize" target="strong">
+  <data key="d0">1</data>
+</edge>
+<edge source="silhouette" target="strong">
+  <data key="d0">1</data>
+</edge>
+<edge source="red" target="lip">
+  <data key="d0">1</data>
+</edge>
+<edge source="super" target="slick">
+  <data key="d0">1</data>
+</edge>
+<edge source="slick" target="tight">
+  <data key="d0">1</data>
+</edge>
+<edge source="tight" target="hair">
+  <data key="d0">1</data>
+</edge>
+<edge source="represent" target="powerful">
+  <data key="d0">1</data>
+</edge>
+<edge source="powerful" target="bos">
+  <data key="d0">1</data>
+</edge>
+<edge source="bos" target="woman">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

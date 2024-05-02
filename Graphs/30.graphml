@@ -1,0 +1,1035 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="make"/>
+<node id="clear"/>
+<node id="cbc"/>
+<node id="approach"/>
+<node id="mean"/>
+<node id="complete"/>
+<node id="abandonment"/>
+<node id="teaching"/>
+<node id="algorithmic"/>
+<node id="knowledge"/>
+<node id="otherwise"/>
+<node id="instead"/>
+<node id="strategy"/>
+<node id="complement"/>
+<node id="helping"/>
+<node id="student"/>
+<node id="explicitly"/>
+<node id="deal"/>
+<node id="cultural"/>
+<node id="influence"/>
+<node id="situational"/>
+<node id="construction"/>
+<node id="ibse"/>
+<node id="method"/>
+<node id="useful"/>
+<node id="talking"/>
+<node id="science"/>
+<node id="example"/>
+<node id="may"/>
+<node id="enable"/>
+<node id="reflect"/>
+<node id="skepticism"/>
+<node id="toward"/>
+<node id="scientific"/>
+<node id="medicine"/>
+<node id="learning"/>
+<node id="provides"/>
+<node id="opportunity"/>
+<node id="search"/>
+<node id="document"/>
+<node id="literature"/>
+<node id="medium"/>
+<node id="find"/>
+<node id="confirm"/>
+<node id="reject"/>
+<node id="personal"/>
+<node id="assumption"/>
+<node id="culture"/>
+<node id="result"/>
+<node id="investigation"/>
+<node id="presented"/>
+<node id="event"/>
+<node id="context"/>
+<node id="teacher"/>
+<node id="health"/>
+<node id="professional"/>
+<node id="take"/>
+<node id="different"/>
+<node id="role"/>
+<node id="usually"/>
+<node id="process"/>
+<node id="broker"/>
+<node id="aikenhead"/>
+<node id="aim"/>
+<node id="directly"/>
+<node id="transmit"/>
+<node id="head"/>
+<node id="advise"/>
+<node id="guide"/>
+<node id="encourage"/>
+<node id="crossing"/>
+<node id="border"/>
+<node id="medical"/>
+<node id="goal"/>
+<node id="autonomous"/>
+<node id="acculturation"/>
+<node id="principle"/>
+<node id="leaf"/>
+<node id="insight"/>
+<node id="technique"/>
+<node id="want"/>
+<node id="home"/>
+<node id="visited"/>
+<node id="prefer"/>
+<node id="connect"/>
+<node id="finding"/>
+<node id="everyday"/>
+<node id="vaccination"/>
+<node id="case"/>
+<node id="well"/>
+<node id="spite"/>
+<node id="substantial"/>
+<node id="biomedical"/>
+<node id="decides"/>
+<node id="adhere"/>
+<node id="alternative"/>
+<node id="concept"/>
+<node id="nature"/>
+<node id="nevertheless"/>
+<node id="reevaluate"/>
+<node id="position"/>
+<node id="least"/>
+<node id="get"/>
+<node id="know"/>
+<node id="term"/>
+<node id="hybrid"/>
+<node id="world"/>
+<node id="accepting"/>
+<node id="one"/>
+<node id="seen"/>
+<node id="failure"/>
+<node id="indeed"/>
+<node id="success"/>
+<node id="roth"/>
+<node id="rise"/>
+<node id="stem"/>
+<node id="education"/>
+<node id="thomas"/>
+<node id="robert"/>
+<node id="audrey"/>
+<node id="conway"/>
+<node id="international"/>
+<node id="encyclopedia"/>
+<node id="fourth"/>
+<node id="edition"/>
+<node id="introduction"/>
+<node id="technology"/>
+<node id="engineering"/>
+<node id="mathematics"/>
+<node id="increased"/>
+<node id="popularity"/>
+<node id="moore"/>
+<node id="et"/>
+<node id="ehlert"/>
+<node id="around"/>
+<node id="research"/>
+<node id="policy"/>
+<node id="focused"/>
+<node id="increasing"/>
+<node id="access"/>
+<node id="exist"/>
+<node id="many"/>
+<node id="country"/>
+<node id="including"/>
+<node id="united"/>
+<node id="state"/>
+<node id="national"/>
+<node id="council"/>
+<node id="kingdom"/>
+<node id="laconte"/>
+<node id="ethiopia"/>
+<node id="melak"/>
+<node id="singh"/>
+<node id="south"/>
+<node id="korea"/>
+<node id="kang"/>
+<node id="korean"/>
+<node id="ministry"/>
+<node id="australia"/>
+<node id="office"/>
+<node id="chief"/>
+<node id="scientist"/>
+<node id="indonesia"/>
+<node id="arivina"/>
+<node id="jailani"/>
+<node id="pakistan"/>
+<node id="ramzan"/>
+<node id="positioned"/>
+<node id="solution"/>
+<node id="societal"/>
+<node id="economic"/>
+<node id="need"/>
+<node id="argue"/>
+<node id="necessary"/>
+<node id="people"/>
+<node id="function"/>
+<node id="rapidly"/>
+<node id="changing"/>
+<node id="increasingly"/>
+<node id="driven"/>
+<node id="educator"/>
+<node id="association"/>
+<node id="iteea"/>
+<node id="others"/>
+<node id="emphasized"/>
+<node id="meet"/>
+<node id="security"/>
+<node id="workforce"/>
+<node id="board"/>
+<node id="maiorca"/>
+<node id="general"/>
+<node id="fear"/>
+<node id="falling"/>
+<node id="behind"/>
+<node id="test"/>
+<node id="score"/>
+<node id="also"/>
+<node id="drive"/>
+<node id="emphasis"/>
+<node id="fleischman"/>
+<node id="competing"/>
+<node id="rationale"/>
+<node id="preview"/>
+<node id="diverse"/>
+<node id="perception"/>
+<node id="found"/>
+<node id="current"/>
+<edge source="make" target="clear">
+  <data key="d0">1</data>
+</edge>
+<edge source="clear" target="cbc">
+  <data key="d0">1</data>
+</edge>
+<edge source="cbc" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="cbc" target="context">
+  <data key="d0">1</data>
+</edge>
+<edge source="cbc" target="autonomous">
+  <data key="d0">1</data>
+</edge>
+<edge source="cbc" target="hybrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="approach" target="mean">
+  <data key="d0">1</data>
+</edge>
+<edge source="mean" target="complete">
+  <data key="d0">1</data>
+</edge>
+<edge source="complete" target="abandonment">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandonment" target="teaching">
+  <data key="d0">1</data>
+</edge>
+<edge source="teaching" target="algorithmic">
+  <data key="d0">2</data>
+</edge>
+<edge source="teaching" target="process">
+  <data key="d0">1</data>
+</edge>
+<edge source="algorithmic" target="knowledge">
+  <data key="d0">2</data>
+</edge>
+<edge source="knowledge" target="otherwise">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="helping">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="decides">
+  <data key="d0">1</data>
+</edge>
+<edge source="otherwise" target="instead">
+  <data key="d0">1</data>
+</edge>
+<edge source="instead" target="strategy">
+  <data key="d0">1</data>
+</edge>
+<edge source="strategy" target="complement">
+  <data key="d0">1</data>
+</edge>
+<edge source="complement" target="teaching">
+  <data key="d0">1</data>
+</edge>
+<edge source="helping" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="explicitly">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="reflect">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="head">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="crossing">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="insight">
+  <data key="d0">1</data>
+</edge>
+<edge source="student" target="spite">
+  <data key="d0">1</data>
+</edge>
+<edge source="explicitly" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="cultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="cultural" target="influence">
+  <data key="d0">1</data>
+</edge>
+<edge source="influence" target="situational">
+  <data key="d0">1</data>
+</edge>
+<edge source="situational" target="construction">
+  <data key="d0">1</data>
+</edge>
+<edge source="construction" target="ibse">
+  <data key="d0">1</data>
+</edge>
+<edge source="ibse" target="method">
+  <data key="d0">1</data>
+</edge>
+<edge source="method" target="useful">
+  <data key="d0">1</data>
+</edge>
+<edge source="useful" target="talking">
+  <data key="d0">1</data>
+</edge>
+<edge source="talking" target="science">
+  <data key="d0">2</data>
+</edge>
+<edge source="science" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="technology">
+  <data key="d0">3</data>
+</edge>
+<edge source="science" target="board">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="vaccination">
+  <data key="d0">1</data>
+</edge>
+<edge source="example" target="argue">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="enable">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="presented">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="reevaluate">
+  <data key="d0">1</data>
+</edge>
+<edge source="enable" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="reflect" target="skepticism">
+  <data key="d0">1</data>
+</edge>
+<edge source="skepticism" target="toward">
+  <data key="d0">1</data>
+</edge>
+<edge source="toward" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientific" target="medicine">
+  <data key="d0">2</data>
+</edge>
+<edge source="scientific" target="knowledge">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientific" target="medical">
+  <data key="d0">1</data>
+</edge>
+<edge source="medicine" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="medicine" target="result">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="provides">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="biomedical">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="process">
+  <data key="d0">1</data>
+</edge>
+<edge source="provides" target="opportunity">
+  <data key="d0">1</data>
+</edge>
+<edge source="opportunity" target="search">
+  <data key="d0">1</data>
+</edge>
+<edge source="search" target="document">
+  <data key="d0">1</data>
+</edge>
+<edge source="document" target="literature">
+  <data key="d0">1</data>
+</edge>
+<edge source="document" target="confirm">
+  <data key="d0">1</data>
+</edge>
+<edge source="literature" target="medium">
+  <data key="d0">1</data>
+</edge>
+<edge source="medium" target="find">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="document">
+  <data key="d0">1</data>
+</edge>
+<edge source="confirm" target="reject">
+  <data key="d0">1</data>
+</edge>
+<edge source="reject" target="personal">
+  <data key="d0">1</data>
+</edge>
+<edge source="personal" target="assumption">
+  <data key="d0">1</data>
+</edge>
+<edge source="assumption" target="culture">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="broker">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="goal">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="prefer">
+  <data key="d0">1</data>
+</edge>
+<edge source="culture" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="result" target="investigation">
+  <data key="d0">1</data>
+</edge>
+<edge source="investigation" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="presented" target="talking">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="cbc">
+  <data key="d0">1</data>
+</edge>
+<edge source="context" target="teacher">
+  <data key="d0">1</data>
+</edge>
+<edge source="teacher" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="professional">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="concept">
+  <data key="d0">1</data>
+</edge>
+<edge source="professional" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="different">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="different" target="role">
+  <data key="d0">1</data>
+</edge>
+<edge source="role" target="usually">
+  <data key="d0">1</data>
+</edge>
+<edge source="usually" target="process">
+  <data key="d0">1</data>
+</edge>
+<edge source="process" target="culture">
+  <data key="d0">1</data>
+</edge>
+<edge source="process" target="term">
+  <data key="d0">1</data>
+</edge>
+<edge source="process" target="indeed">
+  <data key="d0">1</data>
+</edge>
+<edge source="broker" target="aikenhead">
+  <data key="d0">1</data>
+</edge>
+<edge source="aikenhead" target="aim">
+  <data key="d0">1</data>
+</edge>
+<edge source="aim" target="directly">
+  <data key="d0">1</data>
+</edge>
+<edge source="directly" target="transmit">
+  <data key="d0">1</data>
+</edge>
+<edge source="transmit" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="head" target="advise">
+  <data key="d0">1</data>
+</edge>
+<edge source="advise" target="guide">
+  <data key="d0">1</data>
+</edge>
+<edge source="guide" target="encourage">
+  <data key="d0">1</data>
+</edge>
+<edge source="encourage" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="crossing" target="border">
+  <data key="d0">1</data>
+</edge>
+<edge source="border" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="medical" target="culture">
+  <data key="d0">2</data>
+</edge>
+<edge source="goal" target="cbc">
+  <data key="d0">1</data>
+</edge>
+<edge source="autonomous" target="acculturation">
+  <data key="d0">1</data>
+</edge>
+<edge source="acculturation" target="principle">
+  <data key="d0">1</data>
+</edge>
+<edge source="principle" target="leaf">
+  <data key="d0">1</data>
+</edge>
+<edge source="leaf" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="insight" target="technique">
+  <data key="d0">1</data>
+</edge>
+<edge source="technique" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="home" target="visited">
+  <data key="d0">1</data>
+</edge>
+<edge source="visited" target="medical">
+  <data key="d0">1</data>
+</edge>
+<edge source="prefer" target="connect">
+  <data key="d0">1</data>
+</edge>
+<edge source="connect" target="finding">
+  <data key="d0">1</data>
+</edge>
+<edge source="finding" target="everyday">
+  <data key="d0">1</data>
+</edge>
+<edge source="everyday" target="culture">
+  <data key="d0">1</data>
+</edge>
+<edge source="vaccination" target="case">
+  <data key="d0">1</data>
+</edge>
+<edge source="vaccination" target="least">
+  <data key="d0">1</data>
+</edge>
+<edge source="vaccination" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="case" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="student">
+  <data key="d0">1</data>
+</edge>
+<edge source="spite" target="substantial">
+  <data key="d0">1</data>
+</edge>
+<edge source="substantial" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="biomedical" target="knowledge">
+  <data key="d0">1</data>
+</edge>
+<edge source="decides" target="adhere">
+  <data key="d0">1</data>
+</edge>
+<edge source="adhere" target="alternative">
+  <data key="d0">1</data>
+</edge>
+<edge source="alternative" target="concept">
+  <data key="d0">1</data>
+</edge>
+<edge source="alternative" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="concept" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="concept" target="accepting">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="nevertheless">
+  <data key="d0">1</data>
+</edge>
+<edge source="nevertheless" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="reevaluate" target="position">
+  <data key="d0">1</data>
+</edge>
+<edge source="position" target="vaccination">
+  <data key="d0">1</data>
+</edge>
+<edge source="position" target="focused">
+  <data key="d0">1</data>
+</edge>
+<edge source="least" target="vaccination">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="term" target="cbc">
+  <data key="d0">1</data>
+</edge>
+<edge source="hybrid" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="alternative">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="research">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="increasingly">
+  <data key="d0">1</data>
+</edge>
+<edge source="accepting" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="seen">
+  <data key="d0">1</data>
+</edge>
+<edge source="seen" target="failure">
+  <data key="d0">1</data>
+</edge>
+<edge source="failure" target="teaching">
+  <data key="d0">1</data>
+</edge>
+<edge source="indeed" target="success">
+  <data key="d0">1</data>
+</edge>
+<edge source="success" target="roth">
+  <data key="d0">1</data>
+</edge>
+<edge source="roth" target="rise">
+  <data key="d0">1</data>
+</edge>
+<edge source="rise" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="stem" target="education">
+  <data key="d0">8</data>
+</edge>
+<edge source="education" target="thomas">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="fourth">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="increased">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="exist">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="positioned">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="necessary">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="emphasized">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="fleischman">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="preview">
+  <data key="d0">1</data>
+</edge>
+<edge source="thomas" target="robert">
+  <data key="d0">1</data>
+</edge>
+<edge source="robert" target="audrey">
+  <data key="d0">1</data>
+</edge>
+<edge source="robert" target="international">
+  <data key="d0">1</data>
+</edge>
+<edge source="robert" target="around">
+  <data key="d0">1</data>
+</edge>
+<edge source="audrey" target="conway">
+  <data key="d0">1</data>
+</edge>
+<edge source="conway" target="robert">
+  <data key="d0">1</data>
+</edge>
+<edge source="international" target="encyclopedia">
+  <data key="d0">1</data>
+</edge>
+<edge source="international" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="international" target="test">
+  <data key="d0">1</data>
+</edge>
+<edge source="encyclopedia" target="education">
+  <data key="d0">1</data>
+</edge>
+<edge source="fourth" target="edition">
+  <data key="d0">1</data>
+</edge>
+<edge source="edition" target="introduction">
+  <data key="d0">1</data>
+</edge>
+<edge source="introduction" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="engineering">
+  <data key="d0">3</data>
+</edge>
+<edge source="technology" target="australia">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="mathematics">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="educator">
+  <data key="d0">1</data>
+</edge>
+<edge source="mathematics" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="mathematics" target="international">
+  <data key="d0">1</data>
+</edge>
+<edge source="increased" target="popularity">
+  <data key="d0">1</data>
+</edge>
+<edge source="popularity" target="moore">
+  <data key="d0">1</data>
+</edge>
+<edge source="moore" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="ehlert">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="national">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="others">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="general">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="competing">
+  <data key="d0">1</data>
+</edge>
+<edge source="ehlert" target="robert">
+  <data key="d0">1</data>
+</edge>
+<edge source="around" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="policy">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="council">
+  <data key="d0">1</data>
+</edge>
+<edge source="policy" target="position">
+  <data key="d0">1</data>
+</edge>
+<edge source="focused" target="increasing">
+  <data key="d0">1</data>
+</edge>
+<edge source="increasing" target="access">
+  <data key="d0">1</data>
+</edge>
+<edge source="access" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="exist" target="many">
+  <data key="d0">1</data>
+</edge>
+<edge source="many" target="country">
+  <data key="d0">1</data>
+</edge>
+<edge source="country" target="including">
+  <data key="d0">1</data>
+</edge>
+<edge source="including" target="united">
+  <data key="d0">1</data>
+</edge>
+<edge source="united" target="state">
+  <data key="d0">1</data>
+</edge>
+<edge source="united" target="kingdom">
+  <data key="d0">1</data>
+</edge>
+<edge source="state" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="national" target="research">
+  <data key="d0">1</data>
+</edge>
+<edge source="national" target="security">
+  <data key="d0">1</data>
+</edge>
+<edge source="national" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="council" target="united">
+  <data key="d0">1</data>
+</edge>
+<edge source="kingdom" target="laconte">
+  <data key="d0">1</data>
+</edge>
+<edge source="laconte" target="ethiopia">
+  <data key="d0">1</data>
+</edge>
+<edge source="ethiopia" target="melak">
+  <data key="d0">1</data>
+</edge>
+<edge source="melak" target="singh">
+  <data key="d0">1</data>
+</edge>
+<edge source="singh" target="south">
+  <data key="d0">1</data>
+</edge>
+<edge source="south" target="korea">
+  <data key="d0">1</data>
+</edge>
+<edge source="korea" target="kang">
+  <data key="d0">1</data>
+</edge>
+<edge source="kang" target="korean">
+  <data key="d0">1</data>
+</edge>
+<edge source="korean" target="ministry">
+  <data key="d0">1</data>
+</edge>
+<edge source="ministry" target="education">
+  <data key="d0">1</data>
+</edge>
+<edge source="australia" target="office">
+  <data key="d0">1</data>
+</edge>
+<edge source="office" target="chief">
+  <data key="d0">1</data>
+</edge>
+<edge source="chief" target="scientist">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientist" target="indonesia">
+  <data key="d0">1</data>
+</edge>
+<edge source="indonesia" target="arivina">
+  <data key="d0">1</data>
+</edge>
+<edge source="arivina" target="jailani">
+  <data key="d0">1</data>
+</edge>
+<edge source="jailani" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="ramzan">
+  <data key="d0">1</data>
+</edge>
+<edge source="ramzan" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="positioned" target="solution">
+  <data key="d0">1</data>
+</edge>
+<edge source="solution" target="societal">
+  <data key="d0">1</data>
+</edge>
+<edge source="societal" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="example">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="national">
+  <data key="d0">1</data>
+</edge>
+<edge source="argue" target="stem">
+  <data key="d0">2</data>
+</edge>
+<edge source="necessary" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="function">
+  <data key="d0">1</data>
+</edge>
+<edge source="function" target="rapidly">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidly" target="changing">
+  <data key="d0">1</data>
+</edge>
+<edge source="changing" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="increasingly" target="driven">
+  <data key="d0">1</data>
+</edge>
+<edge source="driven" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="educator" target="association">
+  <data key="d0">1</data>
+</edge>
+<edge source="association" target="iteea">
+  <data key="d0">1</data>
+</edge>
+<edge source="iteea" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="others" target="argue">
+  <data key="d0">1</data>
+</edge>
+<edge source="emphasized" target="meet">
+  <data key="d0">1</data>
+</edge>
+<edge source="meet" target="national">
+  <data key="d0">1</data>
+</edge>
+<edge source="security" target="workforce">
+  <data key="d0">1</data>
+</edge>
+<edge source="workforce" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="board" target="maiorca">
+  <data key="d0">1</data>
+</edge>
+<edge source="maiorca" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="general" target="fear">
+  <data key="d0">1</data>
+</edge>
+<edge source="fear" target="falling">
+  <data key="d0">1</data>
+</edge>
+<edge source="falling" target="behind">
+  <data key="d0">1</data>
+</edge>
+<edge source="behind" target="international">
+  <data key="d0">1</data>
+</edge>
+<edge source="test" target="score">
+  <data key="d0">1</data>
+</edge>
+<edge source="score" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="drive">
+  <data key="d0">1</data>
+</edge>
+<edge source="drive" target="emphasis">
+  <data key="d0">1</data>
+</edge>
+<edge source="emphasis" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="fleischman" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="competing" target="rationale">
+  <data key="d0">1</data>
+</edge>
+<edge source="rationale" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="preview" target="diverse">
+  <data key="d0">1</data>
+</edge>
+<edge source="diverse" target="perception">
+  <data key="d0">1</data>
+</edge>
+<edge source="perception" target="found">
+  <data key="d0">1</data>
+</edge>
+<edge source="found" target="current">
+  <data key="d0">1</data>
+</edge>
+<edge source="current" target="literature">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,837 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="brazil"/>
+<node id="elimination"/>
+<node id="world"/>
+<node id="cup"/>
+<node id="quarterfinal"/>
+<node id="blow"/>
+<node id="richarlison"/>
+<node id="said"/>
+<node id="shortly"/>
+<node id="tournament"/>
+<node id="worse"/>
+<node id="losing"/>
+<node id="family"/>
+<node id="member"/>
+<node id="described"/>
+<node id="huge"/>
+<node id="pressure"/>
+<node id="wearing"/>
+<node id="jersey"/>
+<node id="september"/>
+<node id="opened"/>
+<node id="turbulent"/>
+<node id="time"/>
+<node id="field"/>
+<node id="seen"/>
+<node id="cry"/>
+<node id="bench"/>
+<node id="substituted"/>
+<node id="win"/>
+<node id="bolívia"/>
+<node id="one"/>
+<node id="issue"/>
+<node id="affecting"/>
+<node id="parted"/>
+<node id="way"/>
+<node id="agent"/>
+<node id="renato"/>
+<node id="velasco"/>
+<node id="reportedly"/>
+<node id="due"/>
+<node id="financial"/>
+<node id="dispute"/>
+<node id="money"/>
+<node id="stolen"/>
+<node id="played"/>
+<node id="man"/>
+<node id="peak"/>
+<node id="continued"/>
+<node id="reaching"/>
+<node id="limit"/>
+<node id="know"/>
+<node id="going"/>
+<node id="talk"/>
+<node id="killing"/>
+<node id="depression"/>
+<node id="wanted"/>
+<node id="give"/>
+<node id="even"/>
+<node id="seemed"/>
+<node id="mentally"/>
+<node id="strong"/>
+<node id="like"/>
+<node id="fell"/>
+<node id="apart"/>
+<node id="think"/>
+<node id="therapist"/>
+<node id="saved"/>
+<node id="life"/>
+<node id="thought"/>
+<node id="rubbish"/>
+<node id="google"/>
+<node id="searched"/>
+<node id="see"/>
+<node id="death"/>
+<node id="today"/>
+<node id="say"/>
+<node id="look"/>
+<node id="psychologist"/>
+<node id="need"/>
+<node id="nice"/>
+<node id="open"/>
+<node id="talking"/>
+<node id="person"/>
+<node id="came"/>
+<node id="thank"/>
+<node id="taking"/>
+<node id="football"/>
+<node id="outside"/>
+<node id="pitch"/>
+<node id="important"/>
+<node id="whether"/>
+<node id="save"/>
+<node id="prejudice"/>
+<node id="nonsense"/>
+<node id="crazy"/>
+<node id="people"/>
+<node id="anyone"/>
+<node id="go"/>
+<node id="insane"/>
+<node id="discovered"/>
+<node id="wonderful"/>
+<node id="best"/>
+<node id="thing"/>
+<node id="really"/>
+<node id="discovery"/>
+<node id="ever"/>
+<node id="forward"/>
+<node id="completed"/>
+<node id="million"/>
+<node id="transfer"/>
+<node id="everton"/>
+<node id="spur"/>
+<node id="july"/>
+<node id="cap"/>
+<node id="although"/>
+<node id="unused"/>
+<node id="substitute"/>
+<node id="fixture"/>
+<node id="international"/>
+<node id="window"/>
+<node id="england"/>
+<node id="saturday"/>
+<node id="spain"/>
+<node id="tuesday"/>
+<node id="tottenham"/>
+<node id="suffered"/>
+<node id="troubling"/>
+<node id="ready"/>
+<node id="battling"/>
+<node id="following"/>
+<node id="qatar"/>
+<node id="sought"/>
+<node id="psychological"/>
+<node id="help"/>
+<node id="saying"/>
+<node id="went"/>
+<node id="training"/>
+<node id="home"/>
+<node id="back"/>
+<node id="room"/>
+<node id="head"/>
+<node id="told"/>
+<node id="espn"/>
+<node id="brasil"/>
+<node id="dad"/>
+<node id="kind"/>
+<node id="sad"/>
+<node id="discovering"/>
+<node id="lived"/>
+<node id="seven"/>
+<node id="year"/>
+<node id="father"/>
+<node id="guy"/>
+<node id="chased"/>
+<node id="dream"/>
+<node id="want"/>
+<edge source="brazil" target="elimination">
+  <data key="d0">1</data>
+</edge>
+<edge source="brazil" target="jersey">
+  <data key="d0">1</data>
+</edge>
+<edge source="brazil" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="brazil" target="although">
+  <data key="d0">1</data>
+</edge>
+<edge source="brazil" target="tottenham">
+  <data key="d0">1</data>
+</edge>
+<edge source="elimination" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="cup">
+  <data key="d0">5</data>
+</edge>
+<edge source="world" target="football">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="outside">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="quarterfinal">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="man">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="seemed">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="qatar">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="discovering">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarterfinal" target="blow">
+  <data key="d0">1</data>
+</edge>
+<edge source="blow" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="richarlison" target="said">
+  <data key="d0">3</data>
+</edge>
+<edge source="richarlison" target="opened">
+  <data key="d0">1</data>
+</edge>
+<edge source="richarlison" target="continued">
+  <data key="d0">1</data>
+</edge>
+<edge source="richarlison" target="cap">
+  <data key="d0">1</data>
+</edge>
+<edge source="richarlison" target="told">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="shortly">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="suffered">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="sought">
+  <data key="d0">1</data>
+</edge>
+<edge source="shortly" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="worse">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="saying">
+  <data key="d0">1</data>
+</edge>
+<edge source="worse" target="losing">
+  <data key="d0">1</data>
+</edge>
+<edge source="losing" target="family">
+  <data key="d0">1</data>
+</edge>
+<edge source="family" target="member">
+  <data key="d0">1</data>
+</edge>
+<edge source="family" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="member" target="described">
+  <data key="d0">1</data>
+</edge>
+<edge source="described" target="huge">
+  <data key="d0">1</data>
+</edge>
+<edge source="huge" target="pressure">
+  <data key="d0">1</data>
+</edge>
+<edge source="pressure" target="wearing">
+  <data key="d0">1</data>
+</edge>
+<edge source="wearing" target="brazil">
+  <data key="d0">1</data>
+</edge>
+<edge source="jersey" target="september">
+  <data key="d0">1</data>
+</edge>
+<edge source="september" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="opened" target="turbulent">
+  <data key="d0">1</data>
+</edge>
+<edge source="turbulent" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="field">
+  <data key="d0">1</data>
+</edge>
+<edge source="field" target="seen">
+  <data key="d0">1</data>
+</edge>
+<edge source="seen" target="cry">
+  <data key="d0">1</data>
+</edge>
+<edge source="cry" target="bench">
+  <data key="d0">1</data>
+</edge>
+<edge source="bench" target="substituted">
+  <data key="d0">1</data>
+</edge>
+<edge source="substituted" target="brazil">
+  <data key="d0">1</data>
+</edge>
+<edge source="win" target="bolívia">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolívia" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="issue">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="nice">
+  <data key="d0">1</data>
+</edge>
+<edge source="issue" target="affecting">
+  <data key="d0">1</data>
+</edge>
+<edge source="affecting" target="parted">
+  <data key="d0">1</data>
+</edge>
+<edge source="parted" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="agent">
+  <data key="d0">1</data>
+</edge>
+<edge source="agent" target="renato">
+  <data key="d0">1</data>
+</edge>
+<edge source="renato" target="velasco">
+  <data key="d0">1</data>
+</edge>
+<edge source="velasco" target="reportedly">
+  <data key="d0">1</data>
+</edge>
+<edge source="reportedly" target="due">
+  <data key="d0">1</data>
+</edge>
+<edge source="due" target="financial">
+  <data key="d0">1</data>
+</edge>
+<edge source="financial" target="dispute">
+  <data key="d0">1</data>
+</edge>
+<edge source="dispute" target="money">
+  <data key="d0">1</data>
+</edge>
+<edge source="money" target="stolen">
+  <data key="d0">1</data>
+</edge>
+<edge source="stolen" target="played">
+  <data key="d0">1</data>
+</edge>
+<edge source="played" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="man" target="peak">
+  <data key="d0">1</data>
+</edge>
+<edge source="peak" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="continued" target="reaching">
+  <data key="d0">1</data>
+</edge>
+<edge source="reaching" target="limit">
+  <data key="d0">1</data>
+</edge>
+<edge source="limit" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="going">
+  <data key="d0">2</data>
+</edge>
+<edge source="know" target="went">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="head">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="killing">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="killing" target="depression">
+  <data key="d0">1</data>
+</edge>
+<edge source="depression" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="depression" target="following">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanted" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanted" target="see">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanted" target="go">
+  <data key="d0">2</data>
+</edge>
+<edge source="give" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="battling">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="kind">
+  <data key="d0">1</data>
+</edge>
+<edge source="give" target="crazy">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="seemed">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="google">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="went">
+  <data key="d0">1</data>
+</edge>
+<edge source="seemed" target="mentally">
+  <data key="d0">1</data>
+</edge>
+<edge source="seemed" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="mentally" target="strong">
+  <data key="d0">1</data>
+</edge>
+<edge source="strong" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="saved">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="talking">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="save">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="apart">
+  <data key="d0">1</data>
+</edge>
+<edge source="apart" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="therapist">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="anyone">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="crazy">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="insane">
+  <data key="d0">1</data>
+</edge>
+<edge source="therapist" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="saved" target="saved">
+  <data key="d0">1</data>
+</edge>
+<edge source="saved" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="thought">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="prejudice">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="forward">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="went">
+  <data key="d0">1</data>
+</edge>
+<edge source="thought" target="rubbish">
+  <data key="d0">1</data>
+</edge>
+<edge source="thought" target="nonsense">
+  <data key="d0">1</data>
+</edge>
+<edge source="thought" target="crazy">
+  <data key="d0">1</data>
+</edge>
+<edge source="thought" target="wonderful">
+  <data key="d0">1</data>
+</edge>
+<edge source="thought" target="ready">
+  <data key="d0">1</data>
+</edge>
+<edge source="rubbish" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="rubbish" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="rubbish" target="death">
+  <data key="d0">1</data>
+</edge>
+<edge source="google" target="searched">
+  <data key="d0">1</data>
+</edge>
+<edge source="searched" target="rubbish">
+  <data key="d0">1</data>
+</edge>
+<edge source="see" target="rubbish">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="today">
+  <data key="d0">1</data>
+</edge>
+<edge source="today" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="today" target="psychologist">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="psychologist">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="psychologist" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="psychologist" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="psychologist" target="came">
+  <data key="d0">1</data>
+</edge>
+<edge source="psychologist" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="psychologist">
+  <data key="d0">1</data>
+</edge>
+<edge source="nice" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="talking" target="person">
+  <data key="d0">1</data>
+</edge>
+<edge source="person" target="today">
+  <data key="d0">1</data>
+</edge>
+<edge source="came" target="thank">
+  <data key="d0">1</data>
+</edge>
+<edge source="thank" target="taking">
+  <data key="d0">1</data>
+</edge>
+<edge source="taking" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="football" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="outside" target="pitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="pitch" target="important">
+  <data key="d0">1</data>
+</edge>
+<edge source="important" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="save" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="prejudice" target="thought">
+  <data key="d0">1</data>
+</edge>
+<edge source="nonsense" target="thought">
+  <data key="d0">1</data>
+</edge>
+<edge source="crazy" target="family">
+  <data key="d0">1</data>
+</edge>
+<edge source="crazy" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="crazy" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="lived">
+  <data key="d0">1</data>
+</edge>
+<edge source="anyone" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="psychologist">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="father">
+  <data key="d0">1</data>
+</edge>
+<edge source="insane" target="discovered">
+  <data key="d0">1</data>
+</edge>
+<edge source="discovered" target="thought">
+  <data key="d0">1</data>
+</edge>
+<edge source="wonderful" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="discovery">
+  <data key="d0">2</data>
+</edge>
+<edge source="thing" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="discovery" target="ever">
+  <data key="d0">2</data>
+</edge>
+<edge source="ever" target="life">
+  <data key="d0">2</data>
+</edge>
+<edge source="forward" target="completed">
+  <data key="d0">1</data>
+</edge>
+<edge source="forward" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="completed" target="million">
+  <data key="d0">1</data>
+</edge>
+<edge source="million" target="transfer">
+  <data key="d0">1</data>
+</edge>
+<edge source="transfer" target="everton">
+  <data key="d0">1</data>
+</edge>
+<edge source="everton" target="spur">
+  <data key="d0">1</data>
+</edge>
+<edge source="spur" target="july">
+  <data key="d0">1</data>
+</edge>
+<edge source="july" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="cap" target="brazil">
+  <data key="d0">1</data>
+</edge>
+<edge source="although" target="unused">
+  <data key="d0">1</data>
+</edge>
+<edge source="unused" target="substitute">
+  <data key="d0">1</data>
+</edge>
+<edge source="substitute" target="fixture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fixture" target="international">
+  <data key="d0">1</data>
+</edge>
+<edge source="international" target="window">
+  <data key="d0">1</data>
+</edge>
+<edge source="window" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="saturday">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturday" target="spain">
+  <data key="d0">1</data>
+</edge>
+<edge source="spain" target="tuesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesday" target="brazil">
+  <data key="d0">1</data>
+</edge>
+<edge source="tottenham" target="forward">
+  <data key="d0">1</data>
+</edge>
+<edge source="suffered" target="troubling">
+  <data key="d0">1</data>
+</edge>
+<edge source="troubling" target="thought">
+  <data key="d0">1</data>
+</edge>
+<edge source="ready" target="give">
+  <data key="d0">1</data>
+</edge>
+<edge source="battling" target="depression">
+  <data key="d0">1</data>
+</edge>
+<edge source="following" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="following" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="qatar" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="sought" target="psychological">
+  <data key="d0">1</data>
+</edge>
+<edge source="psychological" target="help">
+  <data key="d0">1</data>
+</edge>
+<edge source="help" target="following">
+  <data key="d0">1</data>
+</edge>
+<edge source="saying" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="went" target="training">
+  <data key="d0">1</data>
+</edge>
+<edge source="went" target="told">
+  <data key="d0">1</data>
+</edge>
+<edge source="went" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="training" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="home" target="wanted">
+  <data key="d0">1</data>
+</edge>
+<edge source="home" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="room">
+  <data key="d0">1</data>
+</edge>
+<edge source="room" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="head" target="richarlison">
+  <data key="d0">1</data>
+</edge>
+<edge source="told" target="espn">
+  <data key="d0">1</data>
+</edge>
+<edge source="told" target="dad">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="brasil">
+  <data key="d0">1</data>
+</edge>
+<edge source="brasil" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="dad" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="kind" target="sad">
+  <data key="d0">1</data>
+</edge>
+<edge source="sad" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="discovering" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="lived" target="seven">
+  <data key="d0">1</data>
+</edge>
+<edge source="seven" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="crazy">
+  <data key="d0">1</data>
+</edge>
+<edge source="father" target="guy">
+  <data key="d0">1</data>
+</edge>
+<edge source="guy" target="chased">
+  <data key="d0">1</data>
+</edge>
+<edge source="chased" target="dream">
+  <data key="d0">1</data>
+</edge>
+<edge source="dream" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="give">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

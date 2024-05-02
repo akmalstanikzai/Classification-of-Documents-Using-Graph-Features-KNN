@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="sunday"/>
+<node id="barcelona"/>
+<node id="lost"/>
+<node id="real"/>
+<node id="madrid"/>
+<node id="edition"/>
+<node id="el"/>
+<node id="clásico"/>
+<node id="close"/>
+<node id="game"/>
+<node id="barça"/>
+<node id="twice"/>
+<node id="took"/>
+<node id="lead"/>
+<node id="roar"/>
+<node id="back"/>
+<node id="win"/>
+<node id="jude"/>
+<node id="bellingham"/>
+<node id="injury"/>
+<node id="time"/>
+<node id="goal"/>
+<node id="always"/>
+<node id="call"/>
+<node id="two"/>
+<node id="biggest"/>
+<node id="team"/>
+<node id="laliga"/>
+<node id="meeting"/>
+<node id="side"/>
+<node id="draw"/>
+<node id="carlo"/>
+<node id="ancelotti"/>
+<node id="look"/>
+<node id="wrestle"/>
+<node id="league"/>
+<node id="title"/>
+<node id="crowned"/>
+<node id="champion"/>
+<node id="last"/>
+<node id="year"/>
+<node id="los"/>
+<node id="blancos"/>
+<node id="point"/>
+<node id="clear"/>
+<node id="rival"/>
+<node id="top"/>
+<node id="six"/>
+<node id="play"/>
+<node id="chase"/>
+<node id="championship"/>
+<node id="contrast"/>
+<node id="pitch"/>
+<node id="however"/>
+<node id="chasm"/>
+<node id="grown"/>
+<node id="summer"/>
+<node id="expected"/>
+<node id="follow"/>
+<node id="arrival"/>
+<node id="midfielder"/>
+<node id="signed"/>
+<node id="borussia"/>
+<node id="dortmund"/>
+<node id="initial"/>
+<node id="million"/>
+<node id="finally"/>
+<node id="completing"/>
+<node id="deal"/>
+<node id="bring"/>
+<node id="france"/>
+<node id="paris"/>
+<node id="forward"/>
+<node id="kylian"/>
+<node id="mbappé"/>
+<node id="would"/>
+<node id="arrive"/>
+<node id="free"/>
+<node id="agent"/>
+<node id="though"/>
+<node id="sizable"/>
+<node id="salary"/>
+<node id="fee"/>
+<node id="meanwhile"/>
+<node id="dire"/>
+<node id="financial"/>
+<node id="strait"/>
+<node id="state"/>
+<node id="thing"/>
+<node id="even"/>
+<node id="sure"/>
+<node id="register"/>
+<node id="contract"/>
+<node id="extension"/>
+<node id="existing"/>
+<node id="player"/>
+<node id="due"/>
+<node id="rule"/>
+<node id="let"/>
+<node id="alone"/>
+<node id="new"/>
+<node id="familiar"/>
+<node id="story"/>
+<node id="recent"/>
+<node id="registration"/>
+<node id="often"/>
+<node id="completed"/>
+<node id="late"/>
+<node id="eve"/>
+<node id="season"/>
+<node id="budget"/>
+<node id="imposition"/>
+<node id="figure"/>
+<node id="revealed"/>
+<node id="blaugrana"/>
+<node id="annual"/>
+<node id="spending"/>
+<node id="cap"/>
+<node id="wage"/>
+<node id="amortisation"/>
+<node id="cost"/>
+<node id="transfer"/>
+<node id="divided"/>
+<node id="length"/>
+<node id="apply"/>
+<node id="value"/>
+<node id="signing"/>
+<node id="cut"/>
+<node id="excess"/>
+<node id="amount"/>
+<node id="according"/>
+<node id="calculation"/>
+<node id="must"/>
+<node id="work"/>
+<node id="get"/>
+<node id="able"/>
+<node id="operate"/>
+<node id="freely"/>
+<node id="market"/>
+<node id="limit"/>
+<node id="stand"/>
+<node id="impressive"/>
+<node id="success"/>
+<node id="run"/>
+<node id="quarterfinal"/>
+<node id="eliminated"/>
+<node id="psg"/>
+<node id="come"/>
+<node id="asset"/>
+<node id="sale"/>
+<node id="famously"/>
+<node id="dubbed"/>
+<node id="palancas"/>
+<node id="lever"/>
+<node id="english"/>
+<node id="funded"/>
+<node id="worth"/>
+<node id="despite"/>
+<node id="like"/>
+<node id="domestic"/>
+<node id="television"/>
+<node id="right"/>
+<node id="stake"/>
+<node id="production"/>
+<node id="company"/>
+<node id="studio"/>
+<node id="remain"/>
+<node id="delicate"/>
+<node id="position"/>
+<node id="case"/>
+<node id="bread"/>
+<node id="today"/>
+<node id="hunger"/>
+<node id="tomorrow"/>
+<node id="one"/>
+<node id="source"/>
+<node id="said"/>
+<node id="espn"/>
+<node id="spoke"/>
+<node id="various"/>
+<node id="people"/>
+<node id="knowledge"/>
+<node id="finance"/>
+<node id="find"/>
+<node id="bad"/>
+<node id="situation"/>
+<node id="whether"/>
+<node id="improved"/>
+<node id="president"/>
+<node id="joan"/>
+<node id="laporta"/>
+<node id="done"/>
+<node id="steer"/>
+<node id="club"/>
+<node id="direction"/>
+<node id="could"/>
+<node id="pull"/>
+<node id="best"/>
+<node id="entity"/>
+<node id="eventually"/>
+<node id="consider"/>
+<node id="selling"/>
+<node id="outside"/>
+<node id="investor"/>
+<node id="declined"/>
+<node id="comment"/>
+<edge source="sunday" target="barcelona">
+  <data key="d0">1</data>
+</edge>
+<edge source="barcelona" target="lost">
+  <data key="d0">1</data>
+</edge>
+<edge source="barcelona" target="declined">
+  <data key="d0">1</data>
+</edge>
+<edge source="lost" target="real">
+  <data key="d0">1</data>
+</edge>
+<edge source="real" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="edition">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="roar">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="meeting">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="expected">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="limit">
+  <data key="d0">1</data>
+</edge>
+<edge source="edition" target="el">
+  <data key="d0">1</data>
+</edge>
+<edge source="el" target="clásico">
+  <data key="d0">1</data>
+</edge>
+<edge source="clásico" target="close">
+  <data key="d0">1</data>
+</edge>
+<edge source="close" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="close" target="call">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="play">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="twice">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="draw">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="crowned">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="contrast">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="meanwhile">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="success">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="studio">
+  <data key="d0">1</data>
+</edge>
+<edge source="barça" target="finance">
+  <data key="d0">1</data>
+</edge>
+<edge source="twice" target="took">
+  <data key="d0">1</data>
+</edge>
+<edge source="took" target="lead">
+  <data key="d0">1</data>
+</edge>
+<edge source="lead" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="roar" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="asset">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="win" target="jude">
+  <data key="d0">1</data>
+</edge>
+<edge source="jude" target="bellingham">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellingham" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellingham" target="signed">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="goal">
+  <data key="d0">1</data>
+</edge>
+<edge source="goal" target="always">
+  <data key="d0">1</data>
+</edge>
+<edge source="always" target="close">
+  <data key="d0">1</data>
+</edge>
+<edge source="call" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="biggest">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="side">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="summer">
+  <data key="d0">1</data>
+</edge>
+<edge source="biggest" target="team">
+  <data key="d0">1</data>
+</edge>
+<edge source="team" target="laliga">
+  <data key="d0">1</data>
+</edge>
+<edge source="laliga" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="laliga" target="financial">
+  <data key="d0">1</data>
+</edge>
+<edge source="laliga" target="calculation">
+  <data key="d0">1</data>
+</edge>
+<edge source="meeting" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="side" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="side" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="draw" target="carlo">
+  <data key="d0">1</data>
+</edge>
+<edge source="carlo" target="ancelotti">
+  <data key="d0">1</data>
+</edge>
+<edge source="ancelotti" target="side">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="wrestle">
+  <data key="d0">1</data>
+</edge>
+<edge source="wrestle" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="title">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="six">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="recent">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="quarterfinal">
+  <data key="d0">1</data>
+</edge>
+<edge source="title" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="crowned" target="champion">
+  <data key="d0">1</data>
+</edge>
+<edge source="champion" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="champion" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="year">
+  <data key="d0">2</data>
+</edge>
+<edge source="year" target="los">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="run">
+  <data key="d0">1</data>
+</edge>
+<edge source="los" target="blancos">
+  <data key="d0">1</data>
+</edge>
+<edge source="blancos" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="clear">
+  <data key="d0">1</data>
+</edge>
+<edge source="clear" target="rival">
+  <data key="d0">1</data>
+</edge>
+<edge source="rival" target="top">
+  <data key="d0">1</data>
+</edge>
+<edge source="top" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="six" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="play" target="chase">
+  <data key="d0">1</data>
+</edge>
+<edge source="chase" target="championship">
+  <data key="d0">1</data>
+</edge>
+<edge source="championship" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="contrast" target="pitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="contrast" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="pitch" target="however">
+  <data key="d0">1</data>
+</edge>
+<edge source="however" target="chasm">
+  <data key="d0">1</data>
+</edge>
+<edge source="chasm" target="grown">
+  <data key="d0">1</data>
+</edge>
+<edge source="grown" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="summer" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="summer" target="familiar">
+  <data key="d0">1</data>
+</edge>
+<edge source="expected" target="follow">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="arrival">
+  <data key="d0">1</data>
+</edge>
+<edge source="arrival" target="midfielder">
+  <data key="d0">1</data>
+</edge>
+<edge source="midfielder" target="bellingham">
+  <data key="d0">1</data>
+</edge>
+<edge source="signed" target="borussia">
+  <data key="d0">1</data>
+</edge>
+<edge source="borussia" target="dortmund">
+  <data key="d0">1</data>
+</edge>
+<edge source="dortmund" target="initial">
+  <data key="d0">1</data>
+</edge>
+<edge source="initial" target="million">
+  <data key="d0">1</data>
+</edge>
+<edge source="million" target="finally">
+  <data key="d0">1</data>
+</edge>
+<edge source="finally" target="completing">
+  <data key="d0">1</data>
+</edge>
+<edge source="completing" target="deal">
+  <data key="d0">1</data>
+</edge>
+<edge source="deal" target="bring">
+  <data key="d0">1</data>
+</edge>
+<edge source="bring" target="france">
+  <data key="d0">1</data>
+</edge>
+<edge source="bring" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="france" target="paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="paris" target="forward">
+  <data key="d0">1</data>
+</edge>
+<edge source="forward" target="kylian">
+  <data key="d0">1</data>
+</edge>
+<edge source="kylian" target="mbappé">
+  <data key="d0">1</data>
+</edge>
+<edge source="mbappé" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="arrive">
+  <data key="d0">1</data>
+</edge>
+<edge source="arrive" target="free">
+  <data key="d0">1</data>
+</edge>
+<edge source="free" target="agent">
+  <data key="d0">1</data>
+</edge>
+<edge source="agent" target="though">
+  <data key="d0">1</data>
+</edge>
+<edge source="though" target="sizable">
+  <data key="d0">1</data>
+</edge>
+<edge source="sizable" target="salary">
+  <data key="d0">1</data>
+</edge>
+<edge source="salary" target="fee">
+  <data key="d0">1</data>
+</edge>
+<edge source="fee" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="fee" target="cut">
+  <data key="d0">1</data>
+</edge>
+<edge source="meanwhile" target="dire">
+  <data key="d0">1</data>
+</edge>
+<edge source="dire" target="financial">
+  <data key="d0">1</data>
+</edge>
+<edge source="financial" target="strait">
+  <data key="d0">1</data>
+</edge>
+<edge source="financial" target="rule">
+  <data key="d0">1</data>
+</edge>
+<edge source="financial" target="position">
+  <data key="d0">1</data>
+</edge>
+<edge source="strait" target="state">
+  <data key="d0">1</data>
+</edge>
+<edge source="state" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="sure">
+  <data key="d0">1</data>
+</edge>
+<edge source="sure" target="register">
+  <data key="d0">1</data>
+</edge>
+<edge source="register" target="contract">
+  <data key="d0">1</data>
+</edge>
+<edge source="contract" target="extension">
+  <data key="d0">1</data>
+</edge>
+<edge source="contract" target="apply">
+  <data key="d0">1</data>
+</edge>
+<edge source="extension" target="existing">
+  <data key="d0">1</data>
+</edge>
+<edge source="existing" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="due">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="summer">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="registration">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="entity">
+  <data key="d0">1</data>
+</edge>
+<edge source="due" target="laliga">
+  <data key="d0">1</data>
+</edge>
+<edge source="due" target="budget">
+  <data key="d0">1</data>
+</edge>
+<edge source="rule" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="let" target="alone">
+  <data key="d0">1</data>
+</edge>
+<edge source="alone" target="bring">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="familiar" target="story">
+  <data key="d0">1</data>
+</edge>
+<edge source="story" target="recent">
+  <data key="d0">1</data>
+</edge>
+<edge source="recent" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="recent" target="figure">
+  <data key="d0">1</data>
+</edge>
+<edge source="registration" target="often">
+  <data key="d0">1</data>
+</edge>
+<edge source="often" target="completed">
+  <data key="d0">1</data>
+</edge>
+<edge source="completed" target="late">
+  <data key="d0">1</data>
+</edge>
+<edge source="late" target="eve">
+  <data key="d0">1</data>
+</edge>
+<edge source="eve" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="due">
+  <data key="d0">1</data>
+</edge>
+<edge source="budget" target="imposition">
+  <data key="d0">1</data>
+</edge>
+<edge source="imposition" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="figure" target="revealed">
+  <data key="d0">1</data>
+</edge>
+<edge source="figure" target="able">
+  <data key="d0">1</data>
+</edge>
+<edge source="revealed" target="blaugrana">
+  <data key="d0">1</data>
+</edge>
+<edge source="blaugrana" target="annual">
+  <data key="d0">1</data>
+</edge>
+<edge source="annual" target="spending">
+  <data key="d0">1</data>
+</edge>
+<edge source="spending" target="cap">
+  <data key="d0">1</data>
+</edge>
+<edge source="cap" target="wage">
+  <data key="d0">1</data>
+</edge>
+<edge source="wage" target="amortisation">
+  <data key="d0">1</data>
+</edge>
+<edge source="amortisation" target="cost">
+  <data key="d0">1</data>
+</edge>
+<edge source="cost" target="transfer">
+  <data key="d0">1</data>
+</edge>
+<edge source="transfer" target="divided">
+  <data key="d0">1</data>
+</edge>
+<edge source="transfer" target="fee">
+  <data key="d0">1</data>
+</edge>
+<edge source="transfer" target="market">
+  <data key="d0">1</data>
+</edge>
+<edge source="transfer" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="divided" target="length">
+  <data key="d0">1</data>
+</edge>
+<edge source="length" target="contract">
+  <data key="d0">1</data>
+</edge>
+<edge source="apply" target="value">
+  <data key="d0">1</data>
+</edge>
+<edge source="value" target="signing">
+  <data key="d0">1</data>
+</edge>
+<edge source="signing" target="transfer">
+  <data key="d0">1</data>
+</edge>
+<edge source="signing" target="worth">
+  <data key="d0">1</data>
+</edge>
+<edge source="cut" target="excess">
+  <data key="d0">1</data>
+</edge>
+<edge source="excess" target="amount">
+  <data key="d0">1</data>
+</edge>
+<edge source="amount" target="according">
+  <data key="d0">1</data>
+</edge>
+<edge source="according" target="laliga">
+  <data key="d0">1</data>
+</edge>
+<edge source="calculation" target="must">
+  <data key="d0">1</data>
+</edge>
+<edge source="must" target="work">
+  <data key="d0">1</data>
+</edge>
+<edge source="work" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="figure">
+  <data key="d0">1</data>
+</edge>
+<edge source="able" target="operate">
+  <data key="d0">1</data>
+</edge>
+<edge source="operate" target="freely">
+  <data key="d0">1</data>
+</edge>
+<edge source="freely" target="transfer">
+  <data key="d0">1</data>
+</edge>
+<edge source="market" target="contrast">
+  <data key="d0">1</data>
+</edge>
+<edge source="limit" target="stand">
+  <data key="d0">1</data>
+</edge>
+<edge source="stand" target="impressive">
+  <data key="d0">1</data>
+</edge>
+<edge source="impressive" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="success" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="run" target="champion">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarterfinal" target="eliminated">
+  <data key="d0">1</data>
+</edge>
+<edge source="eliminated" target="psg">
+  <data key="d0">1</data>
+</edge>
+<edge source="psg" target="come">
+  <data key="d0">1</data>
+</edge>
+<edge source="come" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="asset" target="sale">
+  <data key="d0">1</data>
+</edge>
+<edge source="sale" target="famously">
+  <data key="d0">1</data>
+</edge>
+<edge source="sale" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="famously" target="dubbed">
+  <data key="d0">1</data>
+</edge>
+<edge source="dubbed" target="palancas">
+  <data key="d0">1</data>
+</edge>
+<edge source="palancas" target="lever">
+  <data key="d0">1</data>
+</edge>
+<edge source="palancas" target="case">
+  <data key="d0">1</data>
+</edge>
+<edge source="palancas" target="transfer">
+  <data key="d0">1</data>
+</edge>
+<edge source="lever" target="english">
+  <data key="d0">1</data>
+</edge>
+<edge source="english" target="funded">
+  <data key="d0">1</data>
+</edge>
+<edge source="funded" target="signing">
+  <data key="d0">1</data>
+</edge>
+<edge source="worth" target="despite">
+  <data key="d0">1</data>
+</edge>
+<edge source="despite" target="sale">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="domestic">
+  <data key="d0">1</data>
+</edge>
+<edge source="domestic" target="television">
+  <data key="d0">1</data>
+</edge>
+<edge source="television" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="stake">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="direction">
+  <data key="d0">1</data>
+</edge>
+<edge source="stake" target="production">
+  <data key="d0">1</data>
+</edge>
+<edge source="stake" target="club">
+  <data key="d0">1</data>
+</edge>
+<edge source="production" target="company">
+  <data key="d0">1</data>
+</edge>
+<edge source="company" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="studio" target="remain">
+  <data key="d0">1</data>
+</edge>
+<edge source="remain" target="delicate">
+  <data key="d0">1</data>
+</edge>
+<edge source="delicate" target="financial">
+  <data key="d0">1</data>
+</edge>
+<edge source="position" target="palancas">
+  <data key="d0">1</data>
+</edge>
+<edge source="case" target="bread">
+  <data key="d0">1</data>
+</edge>
+<edge source="bread" target="today">
+  <data key="d0">1</data>
+</edge>
+<edge source="today" target="hunger">
+  <data key="d0">1</data>
+</edge>
+<edge source="hunger" target="tomorrow">
+  <data key="d0">1</data>
+</edge>
+<edge source="tomorrow" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="source">
+  <data key="d0">1</data>
+</edge>
+<edge source="source" target="said">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="espn">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="spoke">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="story">
+  <data key="d0">1</data>
+</edge>
+<edge source="spoke" target="various">
+  <data key="d0">1</data>
+</edge>
+<edge source="various" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="knowledge">
+  <data key="d0">1</data>
+</edge>
+<edge source="knowledge" target="barça">
+  <data key="d0">1</data>
+</edge>
+<edge source="finance" target="find">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="bad">
+  <data key="d0">1</data>
+</edge>
+<edge source="bad" target="situation">
+  <data key="d0">1</data>
+</edge>
+<edge source="situation" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="improved">
+  <data key="d0">1</data>
+</edge>
+<edge source="improved" target="president">
+  <data key="d0">1</data>
+</edge>
+<edge source="president" target="joan">
+  <data key="d0">1</data>
+</edge>
+<edge source="joan" target="laporta">
+  <data key="d0">1</data>
+</edge>
+<edge source="laporta" target="done">
+  <data key="d0">1</data>
+</edge>
+<edge source="done" target="steer">
+  <data key="d0">1</data>
+</edge>
+<edge source="steer" target="club">
+  <data key="d0">1</data>
+</edge>
+<edge source="club" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="club" target="outside">
+  <data key="d0">1</data>
+</edge>
+<edge source="direction" target="could">
+  <data key="d0">1</data>
+</edge>
+<edge source="could" target="pull">
+  <data key="d0">1</data>
+</edge>
+<edge source="pull" target="palancas">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="entity" target="eventually">
+  <data key="d0">1</data>
+</edge>
+<edge source="eventually" target="consider">
+  <data key="d0">1</data>
+</edge>
+<edge source="consider" target="selling">
+  <data key="d0">1</data>
+</edge>
+<edge source="selling" target="stake">
+  <data key="d0">1</data>
+</edge>
+<edge source="outside" target="investor">
+  <data key="d0">1</data>
+</edge>
+<edge source="investor" target="barcelona">
+  <data key="d0">1</data>
+</edge>
+<edge source="declined" target="comment">
+  <data key="d0">1</data>
+</edge>
+<edge source="comment" target="espn">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

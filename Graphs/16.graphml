@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="milind"/>
+<node id="sohoni"/>
+<node id="teach"/>
+<node id="centre"/>
+<node id="technology"/>
+<node id="alternative"/>
+<node id="rural"/>
+<node id="area"/>
+<node id="computer"/>
+<node id="science"/>
+<node id="engineering"/>
+<node id="department"/>
+<node id="iit"/>
+<node id="bombay"/>
+<node id="advocating"/>
+<node id="development"/>
+<node id="vernacular"/>
+<node id="idea"/>
+<node id="way"/>
+<node id="school"/>
+<node id="university"/>
+<node id="approach"/>
+<node id="education"/>
+<node id="challenging"/>
+<node id="big"/>
+<node id="hegemony"/>
+<node id="stem"/>
+<node id="cell"/>
+<node id="nanotechnology"/>
+<node id="poster"/>
+<node id="boy"/>
+<node id="machine"/>
+<node id="intelligence"/>
+<node id="asks"/>
+<node id="deliver"/>
+<node id="deeply"/>
+<node id="involved"/>
+<node id="finding"/>
+<node id="local"/>
+<node id="regional"/>
+<node id="people"/>
+<node id="led"/>
+<node id="solution"/>
+<node id="actual"/>
+<node id="problem"/>
+<node id="chulha"/>
+<node id="cultural"/>
+<node id="object"/>
+<node id="scientific"/>
+<node id="third"/>
+<node id="eye"/>
+<node id="explores"/>
+<node id="role"/>
+<node id="expectation"/>
+<node id="public"/>
+<node id="health"/>
+<node id="turn"/>
+<node id="consumer"/>
+<node id="rather"/>
+<node id="producer"/>
+<node id="forget"/>
+<node id="stopped"/>
+<node id="serving"/>
+<node id="need"/>
+<node id="educator"/>
+<node id="reaction"/>
+<node id="vaccine"/>
+<node id="hesitancy"/>
+<node id="country"/>
+<node id="would"/>
+<node id="like"/>
+<node id="collapse"/>
+<node id="two"/>
+<node id="temperament"/>
+<node id="think"/>
+<node id="failed"/>
+<node id="u"/>
+<node id="first"/>
+<node id="made"/>
+<node id="rational"/>
+<node id="choice"/>
+<node id="wave"/>
+<node id="death"/>
+<node id="see"/>
+<node id="especially"/>
+<node id="without"/>
+<node id="comorbidities"/>
+<node id="second"/>
+<node id="came"/>
+<node id="disappeared"/>
+<node id="quite"/>
+<node id="fast"/>
+<node id="saw"/>
+<node id="killing"/>
+<node id="sure"/>
+<node id="enough"/>
+<node id="lined"/>
+<node id="say"/>
+<node id="calculate"/>
+<node id="human"/>
+<node id="cost"/>
+<node id="covid"/>
+<node id="pandemic"/>
+<node id="studied"/>
+<node id="central"/>
+<node id="kendriya"/>
+<node id="vidyalayas"/>
+<node id="textbook"/>
+<node id="good"/>
+<node id="class"/>
+<node id="focussing"/>
+<node id="competitive"/>
+<node id="exam"/>
+<node id="national"/>
+<node id="instead"/>
+<node id="wish"/>
+<node id="exercise"/>
+<node id="let"/>
+<node id="visit"/>
+<node id="bus"/>
+<node id="depot"/>
+<node id="farmer"/>
+<node id="find"/>
+<node id="yield"/>
+<node id="phc"/>
+<node id="talk"/>
+<node id="nurse"/>
+<node id="compounder"/>
+<node id="doctor"/>
+<node id="getting"/>
+<node id="familiar"/>
+<node id="primary"/>
+<node id="something"/>
+<node id="provides"/>
+<node id="critical"/>
+<node id="service"/>
+<node id="helped"/>
+<node id="lot"/>
+<node id="spend"/>
+<node id="time"/>
+<node id="asha"/>
+<node id="accredited"/>
+<node id="social"/>
+<node id="activist"/>
+<node id="worker"/>
+<node id="notepad"/>
+<node id="name"/>
+<node id="village"/>
+<node id="disease"/>
+<node id="family"/>
+<node id="medical"/>
+<node id="emergency"/>
+<node id="x"/>
+<node id="much"/>
+<node id="diabetes"/>
+<node id="none"/>
+<node id="bigger"/>
+<node id="awareness"/>
+<node id="built"/>
+<node id="saying"/>
+<node id="speak"/>
+<node id="context"/>
+<node id="look"/>
+<node id="main"/>
+<node id="government"/>
+<node id="populated"/>
+<node id="scientist"/>
+<node id="space"/>
+<node id="atomic"/>
+<node id="energy"/>
+<node id="defence"/>
+<node id="okay"/>
+<node id="missile"/>
+<node id="men"/>
+<node id="woman"/>
+<node id="really"/>
+<node id="developed"/>
+<node id="world"/>
+<node id="sadak"/>
+<node id="bijli"/>
+<node id="pani"/>
+<edge source="milind" target="sohoni">
+  <data key="d0">1</data>
+</edge>
+<edge source="sohoni" target="teach">
+  <data key="d0">1</data>
+</edge>
+<edge source="sohoni" target="asks">
+  <data key="d0">1</data>
+</edge>
+<edge source="teach" target="centre">
+  <data key="d0">1</data>
+</edge>
+<edge source="centre" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="centre" target="something">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="alternative">
+  <data key="d0">1</data>
+</edge>
+<edge source="alternative" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="rural" target="area">
+  <data key="d0">1</data>
+</edge>
+<edge source="area" target="computer">
+  <data key="d0">1</data>
+</edge>
+<edge source="computer" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="engineering">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="education">
+  <data key="d0">6</data>
+</edge>
+<edge source="science" target="hegemony">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="deliver">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="rather">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="stopped">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="educator">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="speak">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="developed">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="department">
+  <data key="d0">1</data>
+</edge>
+<edge source="department" target="iit">
+  <data key="d0">1</data>
+</edge>
+<edge source="department" target="populated">
+  <data key="d0">1</data>
+</edge>
+<edge source="iit" target="bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="bombay" target="advocating">
+  <data key="d0">1</data>
+</edge>
+<edge source="advocating" target="development">
+  <data key="d0">1</data>
+</edge>
+<edge source="development" target="vernacular">
+  <data key="d0">1</data>
+</edge>
+<edge source="vernacular" target="idea">
+  <data key="d0">1</data>
+</edge>
+<edge source="idea" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="school">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="failed">
+  <data key="d0">1</data>
+</edge>
+<edge source="school" target="university">
+  <data key="d0">1</data>
+</edge>
+<edge source="school" target="kendriya">
+  <data key="d0">1</data>
+</edge>
+<edge source="school" target="textbook">
+  <data key="d0">1</data>
+</edge>
+<edge source="university" target="approach">
+  <data key="d0">1</data>
+</edge>
+<edge source="approach" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="challenging">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="expectation">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="failed">
+  <data key="d0">2</data>
+</edge>
+<edge source="education" target="instead">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="built">
+  <data key="d0">1</data>
+</edge>
+<edge source="education" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenging" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="science">
+  <data key="d0">4</data>
+</edge>
+<edge source="big" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="hegemony" target="stem">
+  <data key="d0">1</data>
+</edge>
+<edge source="stem" target="cell">
+  <data key="d0">1</data>
+</edge>
+<edge source="cell" target="nanotechnology">
+  <data key="d0">1</data>
+</edge>
+<edge source="nanotechnology" target="poster">
+  <data key="d0">1</data>
+</edge>
+<edge source="poster" target="boy">
+  <data key="d0">1</data>
+</edge>
+<edge source="boy" target="machine">
+  <data key="d0">1</data>
+</edge>
+<edge source="machine" target="intelligence">
+  <data key="d0">1</data>
+</edge>
+<edge source="intelligence" target="sohoni">
+  <data key="d0">1</data>
+</edge>
+<edge source="asks" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="deliver" target="deeply">
+  <data key="d0">1</data>
+</edge>
+<edge source="deeply" target="involved">
+  <data key="d0">1</data>
+</edge>
+<edge source="involved" target="finding">
+  <data key="d0">1</data>
+</edge>
+<edge source="finding" target="local">
+  <data key="d0">1</data>
+</edge>
+<edge source="local" target="regional">
+  <data key="d0">1</data>
+</edge>
+<edge source="regional" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="led">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="made">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="see">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="sure">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="lined">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="village">
+  <data key="d0">1</data>
+</edge>
+<edge source="people" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="led" target="solution">
+  <data key="d0">1</data>
+</edge>
+<edge source="solution" target="actual">
+  <data key="d0">1</data>
+</edge>
+<edge source="actual" target="problem">
+  <data key="d0">1</data>
+</edge>
+<edge source="problem" target="chulha">
+  <data key="d0">1</data>
+</edge>
+<edge source="chulha" target="cultural">
+  <data key="d0">1</data>
+</edge>
+<edge source="cultural" target="object">
+  <data key="d0">1</data>
+</edge>
+<edge source="object" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="object" target="third">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientific" target="object">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientific" target="temperament">
+  <data key="d0">1</data>
+</edge>
+<edge source="third" target="eye">
+  <data key="d0">1</data>
+</edge>
+<edge source="eye" target="explores">
+  <data key="d0">1</data>
+</edge>
+<edge source="explores" target="role">
+  <data key="d0">1</data>
+</edge>
+<edge source="role" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="expectation" target="public">
+  <data key="d0">1</data>
+</edge>
+<edge source="public" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="turn">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="centre">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="service">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="activist">
+  <data key="d0">1</data>
+</edge>
+<edge source="turn" target="consumer">
+  <data key="d0">1</data>
+</edge>
+<edge source="consumer" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="rather" target="producer">
+  <data key="d0">1</data>
+</edge>
+<edge source="producer" target="forget">
+  <data key="d0">1</data>
+</edge>
+<edge source="forget" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopped" target="serving">
+  <data key="d0">1</data>
+</edge>
+<edge source="serving" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="vaccine">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="saw">
+  <data key="d0">1</data>
+</edge>
+<edge source="educator" target="reaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="reaction" target="vaccine">
+  <data key="d0">1</data>
+</edge>
+<edge source="vaccine" target="hesitancy">
+  <data key="d0">3</data>
+</edge>
+<edge source="vaccine" target="especially">
+  <data key="d0">1</data>
+</edge>
+<edge source="hesitancy" target="country">
+  <data key="d0">1</data>
+</edge>
+<edge source="hesitancy" target="think">
+  <data key="d0">2</data>
+</edge>
+<edge source="hesitancy" target="disappeared">
+  <data key="d0">1</data>
+</edge>
+<edge source="hesitancy" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="country" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="helped">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="collapse">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="collapse" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="scientific">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="temperament" target="vaccine">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="bigger">
+  <data key="d0">1</data>
+</edge>
+<edge source="failed" target="u">
+  <data key="d0">2</data>
+</edge>
+<edge source="failed" target="calculate">
+  <data key="d0">1</data>
+</edge>
+<edge source="u" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="u" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="vaccine">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="wave">
+  <data key="d0">1</data>
+</edge>
+<edge source="made" target="rational">
+  <data key="d0">1</data>
+</edge>
+<edge source="rational" target="choice">
+  <data key="d0">1</data>
+</edge>
+<edge source="rational" target="hesitancy">
+  <data key="d0">1</data>
+</edge>
+<edge source="choice" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="wave" target="death">
+  <data key="d0">1</data>
+</edge>
+<edge source="wave" target="came">
+  <data key="d0">1</data>
+</edge>
+<edge source="wave" target="killing">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="see" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="especially" target="without">
+  <data key="d0">1</data>
+</edge>
+<edge source="without" target="comorbidities">
+  <data key="d0">1</data>
+</edge>
+<edge source="comorbidities" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="wave">
+  <data key="d0">2</data>
+</edge>
+<edge source="came" target="hesitancy">
+  <data key="d0">1</data>
+</edge>
+<edge source="disappeared" target="quite">
+  <data key="d0">1</data>
+</edge>
+<edge source="quite" target="fast">
+  <data key="d0">1</data>
+</edge>
+<edge source="fast" target="rational">
+  <data key="d0">1</data>
+</edge>
+<edge source="saw" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="killing" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="sure" target="enough">
+  <data key="d0">1</data>
+</edge>
+<edge source="enough" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="lined" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="calculate" target="human">
+  <data key="d0">1</data>
+</edge>
+<edge source="human" target="cost">
+  <data key="d0">1</data>
+</edge>
+<edge source="cost" target="covid">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid" target="pandemic">
+  <data key="d0">1</data>
+</edge>
+<edge source="pandemic" target="studied">
+  <data key="d0">1</data>
+</edge>
+<edge source="studied" target="central">
+  <data key="d0">1</data>
+</edge>
+<edge source="central" target="school">
+  <data key="d0">2</data>
+</edge>
+<edge source="central" target="government">
+  <data key="d0">1</data>
+</edge>
+<edge source="kendriya" target="vidyalayas">
+  <data key="d0">1</data>
+</edge>
+<edge source="vidyalayas" target="central">
+  <data key="d0">1</data>
+</edge>
+<edge source="textbook" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="textbook" target="exercise">
+  <data key="d0">1</data>
+</edge>
+<edge source="good" target="class">
+  <data key="d0">1</data>
+</edge>
+<edge source="good" target="farmer">
+  <data key="d0">1</data>
+</edge>
+<edge source="class" target="focussing">
+  <data key="d0">1</data>
+</edge>
+<edge source="focussing" target="competitive">
+  <data key="d0">1</data>
+</edge>
+<edge source="competitive" target="exam">
+  <data key="d0">1</data>
+</edge>
+<edge source="exam" target="national">
+  <data key="d0">1</data>
+</edge>
+<edge source="national" target="education">
+  <data key="d0">1</data>
+</edge>
+<edge source="instead" target="wish">
+  <data key="d0">1</data>
+</edge>
+<edge source="wish" target="textbook">
+  <data key="d0">1</data>
+</edge>
+<edge source="exercise" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="let" target="visit">
+  <data key="d0">3</data>
+</edge>
+<edge source="visit" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="visit" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="visit" target="phc">
+  <data key="d0">1</data>
+</edge>
+<edge source="bus" target="depot">
+  <data key="d0">1</data>
+</edge>
+<edge source="depot" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="farmer" target="find">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="yield">
+  <data key="d0">1</data>
+</edge>
+<edge source="yield" target="let">
+  <data key="d0">1</data>
+</edge>
+<edge source="phc" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="phc" target="primary">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="nurse">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="compounder">
+  <data key="d0">1</data>
+</edge>
+<edge source="talk" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="nurse" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="compounder" target="talk">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="getting">
+  <data key="d0">1</data>
+</edge>
+<edge source="getting" target="familiar">
+  <data key="d0">1</data>
+</edge>
+<edge source="familiar" target="phc">
+  <data key="d0">1</data>
+</edge>
+<edge source="primary" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="something" target="provides">
+  <data key="d0">1</data>
+</edge>
+<edge source="provides" target="critical">
+  <data key="d0">1</data>
+</edge>
+<edge source="critical" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="service" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="helped" target="lot">
+  <data key="d0">1</data>
+</edge>
+<edge source="lot" target="spend">
+  <data key="d0">1</data>
+</edge>
+<edge source="spend" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="asha">
+  <data key="d0">1</data>
+</edge>
+<edge source="asha" target="accredited">
+  <data key="d0">1</data>
+</edge>
+<edge source="accredited" target="social">
+  <data key="d0">1</data>
+</edge>
+<edge source="social" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="activist" target="worker">
+  <data key="d0">1</data>
+</edge>
+<edge source="worker" target="notepad">
+  <data key="d0">1</data>
+</edge>
+<edge source="notepad" target="name">
+  <data key="d0">1</data>
+</edge>
+<edge source="name" target="people">
+  <data key="d0">1</data>
+</edge>
+<edge source="village" target="disease">
+  <data key="d0">1</data>
+</edge>
+<edge source="village" target="much">
+  <data key="d0">1</data>
+</edge>
+<edge source="village" target="none">
+  <data key="d0">1</data>
+</edge>
+<edge source="disease" target="family">
+  <data key="d0">1</data>
+</edge>
+<edge source="family" target="medical">
+  <data key="d0">1</data>
+</edge>
+<edge source="medical" target="emergency">
+  <data key="d0">1</data>
+</edge>
+<edge source="emergency" target="x">
+  <data key="d0">1</data>
+</edge>
+<edge source="x" target="village">
+  <data key="d0">1</data>
+</edge>
+<edge source="much" target="diabetes">
+  <data key="d0">1</data>
+</edge>
+<edge source="much" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="diabetes" target="village">
+  <data key="d0">1</data>
+</edge>
+<edge source="none" target="think">
+  <data key="d0">1</data>
+</edge>
+<edge source="bigger" target="awareness">
+  <data key="d0">1</data>
+</edge>
+<edge source="awareness" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="built" target="saying">
+  <data key="d0">1</data>
+</edge>
+<edge source="saying" target="science">
+  <data key="d0">2</data>
+</edge>
+<edge source="speak" target="context">
+  <data key="d0">1</data>
+</edge>
+<edge source="context" target="saying">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="main">
+  <data key="d0">1</data>
+</edge>
+<edge source="main" target="central">
+  <data key="d0">1</data>
+</edge>
+<edge source="government" target="department">
+  <data key="d0">1</data>
+</edge>
+<edge source="populated" target="scientist">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientist" target="space">
+  <data key="d0">1</data>
+</edge>
+<edge source="space" target="atomic">
+  <data key="d0">1</data>
+</edge>
+<edge source="atomic" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="defence">
+  <data key="d0">1</data>
+</edge>
+<edge source="defence" target="okay">
+  <data key="d0">1</data>
+</edge>
+<edge source="okay" target="missile">
+  <data key="d0">1</data>
+</edge>
+<edge source="missile" target="men">
+  <data key="d0">1</data>
+</edge>
+<edge source="men" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="much">
+  <data key="d0">1</data>
+</edge>
+<edge source="really" target="sadak">
+  <data key="d0">1</data>
+</edge>
+<edge source="developed" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="really">
+  <data key="d0">1</data>
+</edge>
+<edge source="sadak" target="bijli">
+  <data key="d0">1</data>
+</edge>
+<edge source="bijli" target="pani">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

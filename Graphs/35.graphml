@@ -1,0 +1,1051 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="kevin"/>
+<node id="durant"/>
+<node id="heard"/>
+<node id="pop"/>
+<node id="right"/>
+<node id="leg"/>
+<node id="roar"/>
+<node id="nearly"/>
+<node id="fan"/>
+<node id="inside"/>
+<node id="scotiabank"/>
+<node id="arena"/>
+<node id="toronto"/>
+<node id="collapsed"/>
+<node id="floor"/>
+<node id="holding"/>
+<node id="pinching"/>
+<node id="heel"/>
+<node id="second"/>
+<node id="quarter"/>
+<node id="game"/>
+<node id="nba"/>
+<node id="final"/>
+<node id="sat"/>
+<node id="member"/>
+<node id="golden"/>
+<node id="state"/>
+<node id="warrior"/>
+<node id="memory"/>
+<node id="basketball"/>
+<node id="career"/>
+<node id="flashed"/>
+<node id="eye"/>
+<node id="fearing"/>
+<node id="end"/>
+<node id="one"/>
+<node id="seemed"/>
+<node id="recognizable"/>
+<node id="gazed"/>
+<node id="around"/>
+<node id="court"/>
+<node id="crowd"/>
+<node id="trying"/>
+<node id="soak"/>
+<node id="moment"/>
+<node id="helped"/>
+<node id="locker"/>
+<node id="room"/>
+<node id="foot"/>
+<node id="feel"/>
+<node id="fully"/>
+<node id="attached"/>
+<node id="doctor"/>
+<node id="performed"/>
+<node id="known"/>
+<node id="thompson"/>
+<node id="test"/>
+<node id="determine"/>
+<node id="integrity"/>
+<node id="achilles"/>
+<node id="tendon"/>
+<node id="essential"/>
+<node id="band"/>
+<node id="tissue"/>
+<node id="help"/>
+<node id="connect"/>
+<node id="calf"/>
+<node id="muscle"/>
+<node id="patient"/>
+<node id="lie"/>
+<node id="face"/>
+<node id="hanging"/>
+<node id="edge"/>
+<node id="table"/>
+<node id="bed"/>
+<node id="squeeze"/>
+<node id="see"/>
+<node id="move"/>
+<node id="likely"/>
+<node id="torn"/>
+<node id="squeezed"/>
+<node id="nothing"/>
+<node id="moved"/>
+<node id="looked"/>
+<node id="specialist"/>
+<node id="nearby"/>
+<node id="official"/>
+<node id="fell"/>
+<node id="silent"/>
+<node id="doubt"/>
+<node id="soon"/>
+<node id="crept"/>
+<node id="done"/>
+<node id="recalled"/>
+<node id="thinking"/>
+<node id="even"/>
+<node id="came"/>
+<node id="back"/>
+<node id="maybe"/>
+<node id="average"/>
+<node id="point"/>
+<node id="regular"/>
+<node id="season"/>
+<node id="complete"/>
+<node id="postseason"/>
+<node id="underway"/>
+<node id="everything"/>
+<node id="need"/>
+<node id="follow"/>
+<node id="along"/>
+<node id="another"/>
+<node id="epic"/>
+<node id="title"/>
+<node id="chase"/>
+<node id="told"/>
+<node id="espn"/>
+<node id="hearing"/>
+<node id="event"/>
+<node id="five"/>
+<node id="year"/>
+<node id="ago"/>
+<node id="still"/>
+<node id="serve"/>
+<node id="flashbulb"/>
+<node id="remembers"/>
+<node id="vividly"/>
+<node id="followed"/>
+<node id="week"/>
+<node id="month"/>
+<node id="ahead"/>
+<node id="series"/>
+<node id="tedious"/>
+<node id="milestone"/>
+<node id="starting"/>
+<node id="learning"/>
+<node id="walk"/>
+<node id="run"/>
+<node id="jump"/>
+<node id="represent"/>
+<node id="unheralded"/>
+<node id="aspect"/>
+<node id="hall"/>
+<node id="fame"/>
+<node id="unrelenting"/>
+<node id="burn"/>
+<node id="return"/>
+<node id="player"/>
+<node id="efficient"/>
+<node id="effective"/>
+<node id="felt"/>
+<node id="momentous"/>
+<node id="reached"/>
+<node id="played"/>
+<node id="first"/>
+<node id="time"/>
+<node id="playing"/>
+<node id="many"/>
+<node id="since"/>
+<node id="phoenix"/>
+<node id="sun"/>
+<node id="round"/>
+<node id="playoff"/>
+<node id="minnesota"/>
+<node id="timberwolves"/>
+<node id="called"/>
+<node id="upon"/>
+<node id="save"/>
+<node id="teetering"/>
+<node id="coming"/>
+<node id="friday"/>
+<node id="night"/>
+<node id="et"/>
+<node id="owner"/>
+<node id="mat"/>
+<node id="ishbia"/>
+<node id="went"/>
+<node id="february"/>
+<node id="sending"/>
+<node id="mikal"/>
+<node id="bridge"/>
+<node id="cam"/>
+<node id="johnson"/>
+<node id="four"/>
+<node id="draft"/>
+<node id="pick"/>
+<node id="swap"/>
+<node id="brooklyn"/>
+<node id="net"/>
+<node id="exchange"/>
+<node id="star"/>
+<node id="swingman"/>
+<node id="later"/>
+<node id="dealt"/>
+<node id="guard"/>
+<node id="bradley"/>
+<node id="beal"/>
+<node id="new"/>
+<node id="big"/>
+<node id="three"/>
+<node id="shooting"/>
+<node id="devin"/>
+<node id="booker"/>
+<node id="poised"/>
+<node id="championship"/>
+<node id="contention"/>
+<node id="injury"/>
+<node id="uneven"/>
+<node id="play"/>
+<node id="interfered"/>
+<node id="constant"/>
+<node id="averaging"/>
+<node id="minute"/>
+<node id="made"/>
+<node id="appearance"/>
+<edge source="kevin" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="heard">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="sat">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="foot">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="recalled">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="remembers">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="hall">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="reached">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="called">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="february">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="beal">
+  <data key="d0">1</data>
+</edge>
+<edge source="durant" target="constant">
+  <data key="d0">1</data>
+</edge>
+<edge source="heard" target="pop">
+  <data key="d0">1</data>
+</edge>
+<edge source="pop" target="right">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="leg">
+  <data key="d0">1</data>
+</edge>
+<edge source="right" target="calf">
+  <data key="d0">1</data>
+</edge>
+<edge source="leg" target="roar">
+  <data key="d0">1</data>
+</edge>
+<edge source="leg" target="pinching">
+  <data key="d0">1</data>
+</edge>
+<edge source="roar" target="nearly">
+  <data key="d0">1</data>
+</edge>
+<edge source="nearly" target="fan">
+  <data key="d0">1</data>
+</edge>
+<edge source="fan" target="inside">
+  <data key="d0">1</data>
+</edge>
+<edge source="inside" target="scotiabank">
+  <data key="d0">1</data>
+</edge>
+<edge source="inside" target="room">
+  <data key="d0">1</data>
+</edge>
+<edge source="scotiabank" target="arena">
+  <data key="d0">1</data>
+</edge>
+<edge source="arena" target="toronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="toronto" target="collapsed">
+  <data key="d0">1</data>
+</edge>
+<edge source="collapsed" target="floor">
+  <data key="d0">1</data>
+</edge>
+<edge source="floor" target="holding">
+  <data key="d0">1</data>
+</edge>
+<edge source="holding" target="leg">
+  <data key="d0">1</data>
+</edge>
+<edge source="pinching" target="heel">
+  <data key="d0">1</data>
+</edge>
+<edge source="heel" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="heel" target="patient">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="quarter">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarter" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="nba">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="maybe">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="coming">
+  <data key="d0">1</data>
+</edge>
+<edge source="nba" target="final">
+  <data key="d0">1</data>
+</edge>
+<edge source="nba" target="appearance">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="moment">
+  <data key="d0">1</data>
+</edge>
+<edge source="sat" target="member">
+  <data key="d0">1</data>
+</edge>
+<edge source="member" target="golden">
+  <data key="d0">1</data>
+</edge>
+<edge source="golden" target="state">
+  <data key="d0">1</data>
+</edge>
+<edge source="state" target="warrior">
+  <data key="d0">1</data>
+</edge>
+<edge source="warrior" target="memory">
+  <data key="d0">1</data>
+</edge>
+<edge source="warrior" target="official">
+  <data key="d0">1</data>
+</edge>
+<edge source="memory" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="memory" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="basketball" target="career">
+  <data key="d0">1</data>
+</edge>
+<edge source="career" target="flashed">
+  <data key="d0">1</data>
+</edge>
+<edge source="career" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="career" target="unrelenting">
+  <data key="d0">1</data>
+</edge>
+<edge source="flashed" target="eye">
+  <data key="d0">1</data>
+</edge>
+<edge source="eye" target="fearing">
+  <data key="d0">1</data>
+</edge>
+<edge source="fearing" target="end">
+  <data key="d0">1</data>
+</edge>
+<edge source="end" target="career">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="seemed">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="efficient">
+  <data key="d0">1</data>
+</edge>
+<edge source="seemed" target="recognizable">
+  <data key="d0">1</data>
+</edge>
+<edge source="seemed" target="poised">
+  <data key="d0">1</data>
+</edge>
+<edge source="recognizable" target="gazed">
+  <data key="d0">1</data>
+</edge>
+<edge source="gazed" target="around">
+  <data key="d0">1</data>
+</edge>
+<edge source="around" target="court">
+  <data key="d0">1</data>
+</edge>
+<edge source="around" target="specialist">
+  <data key="d0">1</data>
+</edge>
+<edge source="court" target="crowd">
+  <data key="d0">1</data>
+</edge>
+<edge source="crowd" target="trying">
+  <data key="d0">1</data>
+</edge>
+<edge source="trying" target="soak">
+  <data key="d0">1</data>
+</edge>
+<edge source="soak" target="final">
+  <data key="d0">1</data>
+</edge>
+<edge source="moment" target="helped">
+  <data key="d0">1</data>
+</edge>
+<edge source="helped" target="locker">
+  <data key="d0">1</data>
+</edge>
+<edge source="locker" target="room">
+  <data key="d0">1</data>
+</edge>
+<edge source="room" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="room" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="room" target="fell">
+  <data key="d0">1</data>
+</edge>
+<edge source="foot" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="foot" target="hanging">
+  <data key="d0">1</data>
+</edge>
+<edge source="foot" target="move">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="fully">
+  <data key="d0">1</data>
+</edge>
+<edge source="fully" target="attached">
+  <data key="d0">1</data>
+</edge>
+<edge source="attached" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="performed">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="squeeze">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="squeezed">
+  <data key="d0">1</data>
+</edge>
+<edge source="doctor" target="looked">
+  <data key="d0">1</data>
+</edge>
+<edge source="performed" target="known">
+  <data key="d0">1</data>
+</edge>
+<edge source="known" target="thompson">
+  <data key="d0">1</data>
+</edge>
+<edge source="thompson" target="test">
+  <data key="d0">1</data>
+</edge>
+<edge source="test" target="determine">
+  <data key="d0">1</data>
+</edge>
+<edge source="determine" target="integrity">
+  <data key="d0">1</data>
+</edge>
+<edge source="integrity" target="achilles">
+  <data key="d0">1</data>
+</edge>
+<edge source="achilles" target="tendon">
+  <data key="d0">1</data>
+</edge>
+<edge source="tendon" target="essential">
+  <data key="d0">1</data>
+</edge>
+<edge source="tendon" target="likely">
+  <data key="d0">1</data>
+</edge>
+<edge source="essential" target="band">
+  <data key="d0">1</data>
+</edge>
+<edge source="band" target="tissue">
+  <data key="d0">1</data>
+</edge>
+<edge source="tissue" target="help">
+  <data key="d0">1</data>
+</edge>
+<edge source="help" target="connect">
+  <data key="d0">1</data>
+</edge>
+<edge source="help" target="save">
+  <data key="d0">1</data>
+</edge>
+<edge source="connect" target="calf">
+  <data key="d0">1</data>
+</edge>
+<edge source="calf" target="muscle">
+  <data key="d0">1</data>
+</edge>
+<edge source="calf" target="see">
+  <data key="d0">1</data>
+</edge>
+<edge source="calf" target="nothing">
+  <data key="d0">1</data>
+</edge>
+<edge source="muscle" target="heel">
+  <data key="d0">1</data>
+</edge>
+<edge source="patient" target="lie">
+  <data key="d0">1</data>
+</edge>
+<edge source="lie" target="face">
+  <data key="d0">1</data>
+</edge>
+<edge source="face" target="foot">
+  <data key="d0">1</data>
+</edge>
+<edge source="hanging" target="edge">
+  <data key="d0">1</data>
+</edge>
+<edge source="edge" target="table">
+  <data key="d0">1</data>
+</edge>
+<edge source="table" target="bed">
+  <data key="d0">1</data>
+</edge>
+<edge source="bed" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="squeeze" target="calf">
+  <data key="d0">1</data>
+</edge>
+<edge source="see" target="foot">
+  <data key="d0">1</data>
+</edge>
+<edge source="move" target="tendon">
+  <data key="d0">1</data>
+</edge>
+<edge source="likely" target="torn">
+  <data key="d0">1</data>
+</edge>
+<edge source="torn" target="inside">
+  <data key="d0">1</data>
+</edge>
+<edge source="squeezed" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="nothing" target="moved">
+  <data key="d0">1</data>
+</edge>
+<edge source="moved" target="doctor">
+  <data key="d0">1</data>
+</edge>
+<edge source="looked" target="around">
+  <data key="d0">1</data>
+</edge>
+<edge source="looked" target="room">
+  <data key="d0">1</data>
+</edge>
+<edge source="specialist" target="nearby">
+  <data key="d0">1</data>
+</edge>
+<edge source="nearby" target="warrior">
+  <data key="d0">1</data>
+</edge>
+<edge source="official" target="looked">
+  <data key="d0">1</data>
+</edge>
+<edge source="fell" target="silent">
+  <data key="d0">1</data>
+</edge>
+<edge source="silent" target="doubt">
+  <data key="d0">1</data>
+</edge>
+<edge source="doubt" target="soon">
+  <data key="d0">1</data>
+</edge>
+<edge source="soon" target="crept">
+  <data key="d0">1</data>
+</edge>
+<edge source="crept" target="done">
+  <data key="d0">1</data>
+</edge>
+<edge source="done" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="recalled" target="thinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="thinking" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="thinking" target="told">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="came">
+  <data key="d0">1</data>
+</edge>
+<edge source="came" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="maybe">
+  <data key="d0">1</data>
+</edge>
+<edge source="maybe" target="average">
+  <data key="d0">1</data>
+</edge>
+<edge source="maybe" target="maybe">
+  <data key="d0">1</data>
+</edge>
+<edge source="maybe" target="regular">
+  <data key="d0">1</data>
+</edge>
+<edge source="average" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="point" target="minute">
+  <data key="d0">1</data>
+</edge>
+<edge source="regular" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="complete">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="phoenix">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="made">
+  <data key="d0">1</data>
+</edge>
+<edge source="complete" target="postseason">
+  <data key="d0">1</data>
+</edge>
+<edge source="postseason" target="underway">
+  <data key="d0">1</data>
+</edge>
+<edge source="underway" target="everything">
+  <data key="d0">1</data>
+</edge>
+<edge source="everything" target="need">
+  <data key="d0">1</data>
+</edge>
+<edge source="need" target="follow">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="along">
+  <data key="d0">1</data>
+</edge>
+<edge source="along" target="another">
+  <data key="d0">1</data>
+</edge>
+<edge source="another" target="epic">
+  <data key="d0">1</data>
+</edge>
+<edge source="another" target="played">
+  <data key="d0">1</data>
+</edge>
+<edge source="epic" target="title">
+  <data key="d0">1</data>
+</edge>
+<edge source="title" target="chase">
+  <data key="d0">1</data>
+</edge>
+<edge source="chase" target="thinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="told" target="espn">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="hearing">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="hearing" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="five">
+  <data key="d0">1</data>
+</edge>
+<edge source="five" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="ago">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="ahead">
+  <data key="d0">1</data>
+</edge>
+<edge source="ago" target="still">
+  <data key="d0">1</data>
+</edge>
+<edge source="still" target="serve">
+  <data key="d0">1</data>
+</edge>
+<edge source="serve" target="flashbulb">
+  <data key="d0">1</data>
+</edge>
+<edge source="flashbulb" target="memory">
+  <data key="d0">1</data>
+</edge>
+<edge source="remembers" target="vividly">
+  <data key="d0">1</data>
+</edge>
+<edge source="vividly" target="followed">
+  <data key="d0">1</data>
+</edge>
+<edge source="followed" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="month">
+  <data key="d0">1</data>
+</edge>
+<edge source="month" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="month" target="later">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahead" target="series">
+  <data key="d0">1</data>
+</edge>
+<edge source="series" target="tedious">
+  <data key="d0">1</data>
+</edge>
+<edge source="tedious" target="milestone">
+  <data key="d0">1</data>
+</edge>
+<edge source="milestone" target="starting">
+  <data key="d0">1</data>
+</edge>
+<edge source="milestone" target="felt">
+  <data key="d0">1</data>
+</edge>
+<edge source="starting" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="walk">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="run">
+  <data key="d0">1</data>
+</edge>
+<edge source="learning" target="jump">
+  <data key="d0">1</data>
+</edge>
+<edge source="walk" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="run" target="learning">
+  <data key="d0">1</data>
+</edge>
+<edge source="jump" target="represent">
+  <data key="d0">1</data>
+</edge>
+<edge source="represent" target="unheralded">
+  <data key="d0">1</data>
+</edge>
+<edge source="unheralded" target="aspect">
+  <data key="d0">1</data>
+</edge>
+<edge source="aspect" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="hall" target="fame">
+  <data key="d0">1</data>
+</edge>
+<edge source="fame" target="career">
+  <data key="d0">1</data>
+</edge>
+<edge source="unrelenting" target="burn">
+  <data key="d0">1</data>
+</edge>
+<edge source="burn" target="return">
+  <data key="d0">1</data>
+</edge>
+<edge source="return" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="efficient" target="effective">
+  <data key="d0">1</data>
+</edge>
+<edge source="effective" target="milestone">
+  <data key="d0">1</data>
+</edge>
+<edge source="felt" target="momentous">
+  <data key="d0">1</data>
+</edge>
+<edge source="momentous" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="reached" target="another">
+  <data key="d0">1</data>
+</edge>
+<edge source="played" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="round">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="playing">
+  <data key="d0">1</data>
+</edge>
+<edge source="playing" target="many">
+  <data key="d0">1</data>
+</edge>
+<edge source="many" target="since">
+  <data key="d0">1</data>
+</edge>
+<edge source="since" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="phoenix" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="phoenix" target="et">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="owner">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="dealt">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="seemed">
+  <data key="d0">1</data>
+</edge>
+<edge source="round" target="playoff">
+  <data key="d0">1</data>
+</edge>
+<edge source="playoff" target="minnesota">
+  <data key="d0">1</data>
+</edge>
+<edge source="minnesota" target="timberwolves">
+  <data key="d0">1</data>
+</edge>
+<edge source="timberwolves" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="called" target="upon">
+  <data key="d0">1</data>
+</edge>
+<edge source="upon" target="help">
+  <data key="d0">1</data>
+</edge>
+<edge source="save" target="teetering">
+  <data key="d0">1</data>
+</edge>
+<edge source="teetering" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="coming" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="friday" target="night">
+  <data key="d0">1</data>
+</edge>
+<edge source="night" target="phoenix">
+  <data key="d0">1</data>
+</edge>
+<edge source="et" target="espn">
+  <data key="d0">1</data>
+</edge>
+<edge source="owner" target="mat">
+  <data key="d0">1</data>
+</edge>
+<edge source="mat" target="ishbia">
+  <data key="d0">1</data>
+</edge>
+<edge source="ishbia" target="went">
+  <data key="d0">1</data>
+</edge>
+<edge source="went" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="february" target="sending">
+  <data key="d0">1</data>
+</edge>
+<edge source="sending" target="mikal">
+  <data key="d0">1</data>
+</edge>
+<edge source="mikal" target="bridge">
+  <data key="d0">1</data>
+</edge>
+<edge source="bridge" target="cam">
+  <data key="d0">1</data>
+</edge>
+<edge source="cam" target="johnson">
+  <data key="d0">1</data>
+</edge>
+<edge source="johnson" target="four">
+  <data key="d0">1</data>
+</edge>
+<edge source="four" target="draft">
+  <data key="d0">1</data>
+</edge>
+<edge source="draft" target="pick">
+  <data key="d0">1</data>
+</edge>
+<edge source="pick" target="pick">
+  <data key="d0">1</data>
+</edge>
+<edge source="pick" target="swap">
+  <data key="d0">1</data>
+</edge>
+<edge source="swap" target="brooklyn">
+  <data key="d0">1</data>
+</edge>
+<edge source="brooklyn" target="net">
+  <data key="d0">1</data>
+</edge>
+<edge source="net" target="exchange">
+  <data key="d0">1</data>
+</edge>
+<edge source="exchange" target="star">
+  <data key="d0">1</data>
+</edge>
+<edge source="star" target="swingman">
+  <data key="d0">1</data>
+</edge>
+<edge source="star" target="guard">
+  <data key="d0">1</data>
+</edge>
+<edge source="star" target="shooting">
+  <data key="d0">1</data>
+</edge>
+<edge source="swingman" target="month">
+  <data key="d0">1</data>
+</edge>
+<edge source="later" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="dealt" target="star">
+  <data key="d0">1</data>
+</edge>
+<edge source="guard" target="bradley">
+  <data key="d0">1</data>
+</edge>
+<edge source="guard" target="devin">
+  <data key="d0">1</data>
+</edge>
+<edge source="bradley" target="beal">
+  <data key="d0">1</data>
+</edge>
+<edge source="beal" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="beal" target="star">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="three">
+  <data key="d0">1</data>
+</edge>
+<edge source="three" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="shooting" target="guard">
+  <data key="d0">1</data>
+</edge>
+<edge source="devin" target="booker">
+  <data key="d0">1</data>
+</edge>
+<edge source="booker" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="poised" target="championship">
+  <data key="d0">1</data>
+</edge>
+<edge source="championship" target="contention">
+  <data key="d0">1</data>
+</edge>
+<edge source="contention" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="uneven">
+  <data key="d0">1</data>
+</edge>
+<edge source="uneven" target="play">
+  <data key="d0">1</data>
+</edge>
+<edge source="play" target="interfered">
+  <data key="d0">1</data>
+</edge>
+<edge source="interfered" target="durant">
+  <data key="d0">1</data>
+</edge>
+<edge source="constant" target="averaging">
+  <data key="d0">1</data>
+</edge>
+<edge source="averaging" target="point">
+  <data key="d0">1</data>
+</edge>
+<edge source="minute" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="made" target="nba">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

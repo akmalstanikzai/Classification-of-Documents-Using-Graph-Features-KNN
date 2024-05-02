@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="mind"/>
+<node id="posh"/>
+<node id="reflection"/>
+<node id="prosperity"/>
+<node id="devoting"/>
+<node id="child"/>
+<node id="husband"/>
+<node id="creation"/>
+<node id="mom"/>
+<node id="brand"/>
+<node id="paradigm"/>
+<node id="principle"/>
+<node id="sharing"/>
+<node id="new"/>
+<node id="generation"/>
+<node id="mother"/>
+<node id="strive"/>
+<node id="marvelous"/>
+<node id="woman"/>
+<node id="time"/>
+<node id="nebens"/>
+<node id="former"/>
+<node id="magazine"/>
+<node id="editor"/>
+<node id="negrin"/>
+<node id="actress"/>
+<node id="savvy"/>
+<node id="businesswoman"/>
+<node id="busy"/>
+<node id="devoted"/>
+<node id="wife"/>
+<node id="dedicated"/>
+<node id="past"/>
+<node id="two"/>
+<node id="year"/>
+<node id="toward"/>
+<node id="inception"/>
+<node id="living"/>
+<node id="life"/>
+<node id="hit"/>
+<node id="bookstore"/>
+<node id="spring"/>
+<node id="day"/>
+<node id="web"/>
+<node id="site"/>
+<node id="expanding"/>
+<node id="offering"/>
+<node id="daily"/>
+<node id="basis"/>
+<node id="partnership"/>
+<node id="begin"/>
+<node id="talented"/>
+<node id="first"/>
+<node id="met"/>
+<node id="preschool"/>
+<node id="westport"/>
+<node id="ct"/>
+<node id="clever"/>
+<node id="developed"/>
+<node id="conversation"/>
+<node id="struggle"/>
+<node id="among"/>
+<node id="crave"/>
+<node id="keep"/>
+<node id="current"/>
+<node id="trend"/>
+<node id="simply"/>
+<node id="visit"/>
+<node id="attractive"/>
+<node id="efficient"/>
+<node id="sign"/>
+<node id="receive"/>
+<node id="pick"/>
+<node id="feature"/>
+<node id="product"/>
+<node id="present"/>
+<node id="pertinent"/>
+<node id="tidbit"/>
+<node id="information"/>
+<node id="archived"/>
+<node id="one"/>
+<node id="five"/>
+<node id="category"/>
+<node id="affect"/>
+<node id="every"/>
+<node id="fashion"/>
+<node id="beauty"/>
+<node id="make"/>
+<node id="part"/>
+<node id="lifestyle"/>
+<node id="say"/>
+<node id="thing"/>
+<node id="thinking"/>
+<node id="research"/>
+<node id="break"/>
+<node id="quick"/>
+<node id="bit"/>
+<node id="launched"/>
+<node id="duo"/>
+<node id="featured"/>
+<node id="item"/>
+<node id="personally"/>
+<node id="adored"/>
+<node id="well"/>
+<node id="suggested"/>
+<node id="friend"/>
+<node id="word"/>
+<node id="spread"/>
+<node id="review"/>
+<node id="pr"/>
+<node id="company"/>
+<node id="started"/>
+<node id="send"/>
+<node id="latest"/>
+<node id="greatest"/>
+<node id="particularly"/>
+<node id="unique"/>
+<node id="country"/>
+<node id="access"/>
+<node id="unlike"/>
+<node id="found"/>
+<node id="particular"/>
+<node id="region"/>
+<node id="candy"/>
+<node id="promotes"/>
+<node id="sold"/>
+<node id="phone"/>
+<node id="live"/>
+<node id="far"/>
+<node id="big"/>
+<node id="city"/>
+<node id="york"/>
+<node id="wherever"/>
+<node id="easily"/>
+<node id="get"/>
+<node id="according"/>
+<node id="infuse"/>
+<node id="little"/>
+<node id="everything"/>
+<node id="must"/>
+<node id="develop"/>
+<node id="mindset"/>
+<node id="put"/>
+<node id="together"/>
+<node id="help"/>
+<node id="course"/>
+<node id="purchase"/>
+<node id="fashionable"/>
+<node id="lafolie"/>
+<node id="knitwear"/>
+<node id="warm"/>
+<node id="winter"/>
+<node id="personalize"/>
+<node id="family"/>
+<node id="ralph"/>
+<node id="lauren"/>
+<node id="dud"/>
+<node id="learn"/>
+<node id="airport"/>
+<node id="long"/>
+<node id="layover"/>
+<node id="order"/>
+<node id="travel"/>
+<node id="pack"/>
+<node id="nail"/>
+<node id="polish"/>
+<node id="remover"/>
+<node id="pad"/>
+<node id="click"/>
+<node id="mouse"/>
+<node id="proud"/>
+<node id="know"/>
+<node id="many"/>
+<node id="creator"/>
+<node id="stay"/>
+<node id="ahead"/>
+<node id="identify"/>
+<node id="desire"/>
+<node id="target"/>
+<node id="audience"/>
+<edge source="mind" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="posh" target="reflection">
+  <data key="d0">1</data>
+</edge>
+<edge source="posh" target="mom">
+  <data key="d0">7</data>
+</edge>
+<edge source="posh" target="partnership">
+  <data key="d0">1</data>
+</edge>
+<edge source="posh" target="everything">
+  <data key="d0">1</data>
+</edge>
+<edge source="reflection" target="prosperity">
+  <data key="d0">1</data>
+</edge>
+<edge source="prosperity" target="devoting">
+  <data key="d0">1</data>
+</edge>
+<edge source="devoting" target="child">
+  <data key="d0">1</data>
+</edge>
+<edge source="child" target="husband">
+  <data key="d0">1</data>
+</edge>
+<edge source="child" target="actress">
+  <data key="d0">1</data>
+</edge>
+<edge source="child" target="preschool">
+  <data key="d0">1</data>
+</edge>
+<edge source="husband" target="creation">
+  <data key="d0">1</data>
+</edge>
+<edge source="creation" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="brand">
+  <data key="d0">2</data>
+</edge>
+<edge source="mom" target="devoted">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="life">
+  <data key="d0">2</data>
+</edge>
+<edge source="mom" target="crave">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="visit">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="pick">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="lifestyle">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="particularly">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="part">
+  <data key="d0">1</data>
+</edge>
+<edge source="mom" target="live">
+  <data key="d0">2</data>
+</edge>
+<edge source="mom" target="creator">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="living">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="developed">
+  <data key="d0">1</data>
+</edge>
+<edge source="paradigm" target="principle">
+  <data key="d0">1</data>
+</edge>
+<edge source="principle" target="sharing">
+  <data key="d0">1</data>
+</edge>
+<edge source="sharing" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="generation">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="york">
+  <data key="d0">1</data>
+</edge>
+<edge source="generation" target="mother">
+  <data key="d0">1</data>
+</edge>
+<edge source="mother" target="strive">
+  <data key="d0">1</data>
+</edge>
+<edge source="mother" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="mother" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="strive" target="marvelous">
+  <data key="d0">1</data>
+</edge>
+<edge source="marvelous" target="mother">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="infuse">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="nebens">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="mother">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="nebens" target="former">
+  <data key="d0">1</data>
+</edge>
+<edge source="nebens" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="former" target="magazine">
+  <data key="d0">1</data>
+</edge>
+<edge source="former" target="child">
+  <data key="d0">1</data>
+</edge>
+<edge source="magazine" target="editor">
+  <data key="d0">1</data>
+</edge>
+<edge source="editor" target="negrin">
+  <data key="d0">1</data>
+</edge>
+<edge source="negrin" target="former">
+  <data key="d0">1</data>
+</edge>
+<edge source="negrin" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="actress" target="savvy">
+  <data key="d0">1</data>
+</edge>
+<edge source="savvy" target="businesswoman">
+  <data key="d0">1</data>
+</edge>
+<edge source="businesswoman" target="busy">
+  <data key="d0">1</data>
+</edge>
+<edge source="busy" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="devoted" target="wife">
+  <data key="d0">1</data>
+</edge>
+<edge source="wife" target="dedicated">
+  <data key="d0">1</data>
+</edge>
+<edge source="dedicated" target="past">
+  <data key="d0">1</data>
+</edge>
+<edge source="past" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="talented">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="toward">
+  <data key="d0">1</data>
+</edge>
+<edge source="toward" target="inception">
+  <data key="d0">1</data>
+</edge>
+<edge source="inception" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="living" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="hit">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="life" target="research">
+  <data key="d0">1</data>
+</edge>
+<edge source="hit" target="bookstore">
+  <data key="d0">1</data>
+</edge>
+<edge source="bookstore" target="spring">
+  <data key="d0">1</data>
+</edge>
+<edge source="spring" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="web">
+  <data key="d0">1</data>
+</edge>
+<edge source="web" target="site">
+  <data key="d0">2</data>
+</edge>
+<edge source="web" target="phone">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="expanding">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="sign">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="duo">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="feature">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="promotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="site" target="course">
+  <data key="d0">1</data>
+</edge>
+<edge source="expanding" target="offering">
+  <data key="d0">1</data>
+</edge>
+<edge source="offering" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="basis">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="pick">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="candy">
+  <data key="d0">1</data>
+</edge>
+<edge source="basis" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="partnership" target="begin">
+  <data key="d0">1</data>
+</edge>
+<edge source="begin" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="talented" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="met">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="launched">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="must">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="know">
+  <data key="d0">1</data>
+</edge>
+<edge source="met" target="child">
+  <data key="d0">1</data>
+</edge>
+<edge source="preschool" target="westport">
+  <data key="d0">1</data>
+</edge>
+<edge source="westport" target="ct">
+  <data key="d0">1</data>
+</edge>
+<edge source="ct" target="clever">
+  <data key="d0">1</data>
+</edge>
+<edge source="clever" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="clever" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="developed" target="conversation">
+  <data key="d0">1</data>
+</edge>
+<edge source="conversation" target="struggle">
+  <data key="d0">1</data>
+</edge>
+<edge source="struggle" target="among">
+  <data key="d0">1</data>
+</edge>
+<edge source="among" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="crave" target="keep">
+  <data key="d0">1</data>
+</edge>
+<edge source="keep" target="current">
+  <data key="d0">1</data>
+</edge>
+<edge source="keep" target="little">
+  <data key="d0">1</data>
+</edge>
+<edge source="current" target="trend">
+  <data key="d0">1</data>
+</edge>
+<edge source="trend" target="simply">
+  <data key="d0">1</data>
+</edge>
+<edge source="trend" target="identify">
+  <data key="d0">1</data>
+</edge>
+<edge source="simply" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="visit" target="attractive">
+  <data key="d0">1</data>
+</edge>
+<edge source="attractive" target="efficient">
+  <data key="d0">1</data>
+</edge>
+<edge source="efficient" target="web">
+  <data key="d0">1</data>
+</edge>
+<edge source="sign" target="receive">
+  <data key="d0">1</data>
+</edge>
+<edge source="receive" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="pick" target="feature">
+  <data key="d0">1</data>
+</edge>
+<edge source="pick" target="archived">
+  <data key="d0">1</data>
+</edge>
+<edge source="pick" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="feature" target="product">
+  <data key="d0">2</data>
+</edge>
+<edge source="feature" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="present">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="suggested">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="review">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="found">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="sold">
+  <data key="d0">1</data>
+</edge>
+<edge source="product" target="feature">
+  <data key="d0">1</data>
+</edge>
+<edge source="present" target="pertinent">
+  <data key="d0">1</data>
+</edge>
+<edge source="pertinent" target="tidbit">
+  <data key="d0">1</data>
+</edge>
+<edge source="tidbit" target="information">
+  <data key="d0">1</data>
+</edge>
+<edge source="information" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="archived" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="five">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="warm">
+  <data key="d0">1</data>
+</edge>
+<edge source="five" target="category">
+  <data key="d0">1</data>
+</edge>
+<edge source="category" target="affect">
+  <data key="d0">1</data>
+</edge>
+<edge source="category" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="affect" target="every">
+  <data key="d0">1</data>
+</edge>
+<edge source="every" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="every" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashion" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="category">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="part">
+  <data key="d0">1</data>
+</edge>
+<edge source="part" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="part" target="country">
+  <data key="d0">1</data>
+</edge>
+<edge source="lifestyle" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="nebens">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="wherever">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="thinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="thinking" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="research" target="break">
+  <data key="d0">1</data>
+</edge>
+<edge source="break" target="quick">
+  <data key="d0">1</data>
+</edge>
+<edge source="quick" target="bit">
+  <data key="d0">1</data>
+</edge>
+<edge source="quick" target="clever">
+  <data key="d0">1</data>
+</edge>
+<edge source="bit" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="bit" target="posh">
+  <data key="d0">1</data>
+</edge>
+<edge source="launched" target="site">
+  <data key="d0">1</data>
+</edge>
+<edge source="duo" target="featured">
+  <data key="d0">1</data>
+</edge>
+<edge source="duo" target="every">
+  <data key="d0">1</data>
+</edge>
+<edge source="featured" target="item">
+  <data key="d0">1</data>
+</edge>
+<edge source="item" target="personally">
+  <data key="d0">1</data>
+</edge>
+<edge source="personally" target="adored">
+  <data key="d0">1</data>
+</edge>
+<edge source="adored" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="suggested" target="friend">
+  <data key="d0">1</data>
+</edge>
+<edge source="friend" target="word">
+  <data key="d0">1</data>
+</edge>
+<edge source="word" target="spread">
+  <data key="d0">1</data>
+</edge>
+<edge source="spread" target="quick">
+  <data key="d0">1</data>
+</edge>
+<edge source="review" target="pr">
+  <data key="d0">1</data>
+</edge>
+<edge source="pr" target="company">
+  <data key="d0">1</data>
+</edge>
+<edge source="company" target="started">
+  <data key="d0">1</data>
+</edge>
+<edge source="started" target="send">
+  <data key="d0">1</data>
+</edge>
+<edge source="send" target="latest">
+  <data key="d0">1</data>
+</edge>
+<edge source="latest" target="greatest">
+  <data key="d0">1</data>
+</edge>
+<edge source="greatest" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="particularly" target="unique">
+  <data key="d0">1</data>
+</edge>
+<edge source="unique" target="pick">
+  <data key="d0">1</data>
+</edge>
+<edge source="country" target="access">
+  <data key="d0">1</data>
+</edge>
+<edge source="access" target="unlike">
+  <data key="d0">1</data>
+</edge>
+<edge source="access" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="unlike" target="site">
+  <data key="d0">1</data>
+</edge>
+<edge source="found" target="particular">
+  <data key="d0">1</data>
+</edge>
+<edge source="particular" target="region">
+  <data key="d0">1</data>
+</edge>
+<edge source="region" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="candy" target="site">
+  <data key="d0">1</data>
+</edge>
+<edge source="promotes" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="sold" target="web">
+  <data key="d0">1</data>
+</edge>
+<edge source="phone" target="mom">
+  <data key="d0">1</data>
+</edge>
+<edge source="live" target="far">
+  <data key="d0">1</data>
+</edge>
+<edge source="live" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="far" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="city">
+  <data key="d0">1</data>
+</edge>
+<edge source="city" target="access">
+  <data key="d0">1</data>
+</edge>
+<edge source="york" target="negrin">
+  <data key="d0">1</data>
+</edge>
+<edge source="wherever" target="easily">
+  <data key="d0">1</data>
+</edge>
+<edge source="easily" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="according">
+  <data key="d0">1</data>
+</edge>
+<edge source="according" target="duo">
+  <data key="d0">1</data>
+</edge>
+<edge source="infuse" target="little">
+  <data key="d0">1</data>
+</edge>
+<edge source="little" target="bit">
+  <data key="d0">1</data>
+</edge>
+<edge source="little" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="everything" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="must" target="develop">
+  <data key="d0">1</data>
+</edge>
+<edge source="develop" target="mindset">
+  <data key="d0">1</data>
+</edge>
+<edge source="mindset" target="put">
+  <data key="d0">1</data>
+</edge>
+<edge source="put" target="together">
+  <data key="d0">1</data>
+</edge>
+<edge source="together" target="help">
+  <data key="d0">1</data>
+</edge>
+<edge source="help" target="site">
+  <data key="d0">1</data>
+</edge>
+<edge source="course" target="purchase">
+  <data key="d0">1</data>
+</edge>
+<edge source="purchase" target="fashionable">
+  <data key="d0">1</data>
+</edge>
+<edge source="fashionable" target="lafolie">
+  <data key="d0">1</data>
+</edge>
+<edge source="lafolie" target="knitwear">
+  <data key="d0">1</data>
+</edge>
+<edge source="knitwear" target="keep">
+  <data key="d0">1</data>
+</edge>
+<edge source="warm" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="winter" target="personalize">
+  <data key="d0">1</data>
+</edge>
+<edge source="personalize" target="family">
+  <data key="d0">1</data>
+</edge>
+<edge source="family" target="ralph">
+  <data key="d0">1</data>
+</edge>
+<edge source="ralph" target="lauren">
+  <data key="d0">1</data>
+</edge>
+<edge source="lauren" target="dud">
+  <data key="d0">1</data>
+</edge>
+<edge source="dud" target="learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="learn" target="airport">
+  <data key="d0">1</data>
+</edge>
+<edge source="airport" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="layover">
+  <data key="d0">1</data>
+</edge>
+<edge source="layover" target="order">
+  <data key="d0">1</data>
+</edge>
+<edge source="order" target="travel">
+  <data key="d0">1</data>
+</edge>
+<edge source="travel" target="pack">
+  <data key="d0">1</data>
+</edge>
+<edge source="pack" target="nail">
+  <data key="d0">1</data>
+</edge>
+<edge source="nail" target="polish">
+  <data key="d0">1</data>
+</edge>
+<edge source="polish" target="remover">
+  <data key="d0">1</data>
+</edge>
+<edge source="remover" target="pad">
+  <data key="d0">1</data>
+</edge>
+<edge source="pad" target="click">
+  <data key="d0">1</data>
+</edge>
+<edge source="click" target="mouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="mouse" target="proud">
+  <data key="d0">1</data>
+</edge>
+<edge source="proud" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="know" target="many">
+  <data key="d0">1</data>
+</edge>
+<edge source="many" target="product">
+  <data key="d0">1</data>
+</edge>
+<edge source="creator" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="ahead">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahead" target="trend">
+  <data key="d0">1</data>
+</edge>
+<edge source="identify" target="desire">
+  <data key="d0">1</data>
+</edge>
+<edge source="desire" target="target">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="audience">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

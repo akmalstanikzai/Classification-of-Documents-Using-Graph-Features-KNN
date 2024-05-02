@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="wear"/>
+<node id="moisturizer"/>
+<node id="spf"/>
+<node id="although"/>
+<node id="tip"/>
+<node id="essential"/>
+<node id="heed"/>
+<node id="proper"/>
+<node id="sun"/>
+<node id="protection"/>
+<node id="another"/>
+<node id="smoking"/>
+<node id="cause"/>
+<node id="age"/>
+<node id="spot"/>
+<node id="wrinkle"/>
+<node id="around"/>
+<node id="mouth"/>
+<node id="keep"/>
+<node id="hand"/>
+<node id="away"/>
+<node id="face"/>
+<node id="carry"/>
+<node id="plethora"/>
+<node id="bacteria"/>
+<node id="germ"/>
+<node id="agent"/>
+<node id="exfoliate"/>
+<node id="daily"/>
+<node id="may"/>
+<node id="irritate"/>
+<node id="skin"/>
+<node id="causing"/>
+<node id="dry"/>
+<node id="rather"/>
+<node id="every"/>
+<node id="day"/>
+<node id="sensitive"/>
+<node id="twice"/>
+<node id="week"/>
+<node id="use"/>
+<node id="gentle"/>
+<node id="scrub"/>
+<node id="round"/>
+<node id="bead"/>
+<node id="winter"/>
+<node id="even"/>
+<node id="oily"/>
+<node id="harsh"/>
+<node id="outdoor"/>
+<node id="air"/>
+<node id="indoor"/>
+<node id="heating"/>
+<node id="drain"/>
+<node id="moisture"/>
+<node id="choose"/>
+<node id="lightweight"/>
+<node id="combat"/>
+<node id="dryness"/>
+<node id="restore"/>
+<node id="suppleness"/>
+<node id="realize"/>
+<node id="individuality"/>
+<node id="make"/>
+<node id="person"/>
+<node id="beautiful"/>
+<node id="beauty"/>
+<node id="true"/>
+<node id="conforming"/>
+<node id="society"/>
+<node id="boring"/>
+<node id="standard"/>
+<node id="ashamed"/>
+<node id="come"/>
+<node id="shopping"/>
+<node id="finding"/>
+<node id="perfect"/>
+<node id="pair"/>
+<node id="jean"/>
+<node id="one"/>
+<node id="hardest"/>
+<node id="thing"/>
+<node id="ton"/>
+<node id="different"/>
+<node id="style"/>
+<node id="wash"/>
+<node id="cut"/>
+<node id="matter"/>
+<node id="worse"/>
+<node id="often"/>
+<node id="seems"/>
+<node id="like"/>
+<node id="brand"/>
+<node id="sizing"/>
+<node id="system"/>
+<node id="find"/>
+<node id="unique"/>
+<node id="without"/>
+<node id="getting"/>
+<node id="frustrated"/>
+<node id="follow"/>
+<node id="easy"/>
+<node id="step"/>
+<node id="experience"/>
+<node id="hopefully"/>
+<node id="leaf"/>
+<node id="dynamite"/>
+<node id="denim"/>
+<node id="first"/>
+<node id="remember"/>
+<node id="also"/>
+<node id="always"/>
+<node id="try"/>
+<node id="purchase"/>
+<node id="wise"/>
+<node id="take"/>
+<node id="three"/>
+<node id="dressing"/>
+<node id="room"/>
+<node id="including"/>
+<node id="usual"/>
+<node id="size"/>
+<node id="according"/>
+<node id="body"/>
+<node id="type"/>
+<node id="petite"/>
+<node id="look"/>
+<node id="short"/>
+<node id="inseam"/>
+<node id="skinny"/>
+<node id="linear"/>
+<node id="good"/>
+<node id="place"/>
+<node id="start"/>
+<node id="want"/>
+<node id="hit"/>
+<node id="inch"/>
+<node id="floor"/>
+<node id="bunching"/>
+<node id="avoid"/>
+<node id="pencil"/>
+<node id="taper"/>
+<node id="bunch"/>
+<node id="bottom"/>
+<node id="curvier"/>
+<node id="straight"/>
+<node id="trouser"/>
+<node id="lighter"/>
+<node id="tall"/>
+<node id="woman"/>
+<node id="inseams"/>
+<node id="long"/>
+<node id="well"/>
+<node id="low"/>
+<node id="rise"/>
+<node id="waisted"/>
+<node id="lady"/>
+<node id="torso"/>
+<node id="appear"/>
+<node id="longer"/>
+<node id="pocket"/>
+<node id="add"/>
+<node id="balance"/>
+<node id="outfit"/>
+<edge source="wear" target="moisturizer">
+  <data key="d0">1</data>
+</edge>
+<edge source="moisturizer" target="spf">
+  <data key="d0">1</data>
+</edge>
+<edge source="moisturizer" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="moisturizer" target="combat">
+  <data key="d0">1</data>
+</edge>
+<edge source="spf" target="although">
+  <data key="d0">1</data>
+</edge>
+<edge source="although" target="tip">
+  <data key="d0">1</data>
+</edge>
+<edge source="tip" target="essential">
+  <data key="d0">1</data>
+</edge>
+<edge source="essential" target="heed">
+  <data key="d0">1</data>
+</edge>
+<edge source="heed" target="proper">
+  <data key="d0">1</data>
+</edge>
+<edge source="proper" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="protection">
+  <data key="d0">1</data>
+</edge>
+<edge source="protection" target="another">
+  <data key="d0">1</data>
+</edge>
+<edge source="another" target="smoking">
+  <data key="d0">1</data>
+</edge>
+<edge source="smoking" target="cause">
+  <data key="d0">1</data>
+</edge>
+<edge source="cause" target="age">
+  <data key="d0">1</data>
+</edge>
+<edge source="age" target="spot">
+  <data key="d0">1</data>
+</edge>
+<edge source="spot" target="wrinkle">
+  <data key="d0">1</data>
+</edge>
+<edge source="wrinkle" target="around">
+  <data key="d0">1</data>
+</edge>
+<edge source="around" target="mouth">
+  <data key="d0">1</data>
+</edge>
+<edge source="mouth" target="keep">
+  <data key="d0">1</data>
+</edge>
+<edge source="keep" target="hand">
+  <data key="d0">1</data>
+</edge>
+<edge source="hand" target="away">
+  <data key="d0">1</data>
+</edge>
+<edge source="hand" target="carry">
+  <data key="d0">1</data>
+</edge>
+<edge source="away" target="face">
+  <data key="d0">1</data>
+</edge>
+<edge source="face" target="hand">
+  <data key="d0">1</data>
+</edge>
+<edge source="face" target="scrub">
+  <data key="d0">1</data>
+</edge>
+<edge source="carry" target="plethora">
+  <data key="d0">1</data>
+</edge>
+<edge source="plethora" target="bacteria">
+  <data key="d0">1</data>
+</edge>
+<edge source="bacteria" target="germ">
+  <data key="d0">1</data>
+</edge>
+<edge source="germ" target="agent">
+  <data key="d0">1</data>
+</edge>
+<edge source="agent" target="exfoliate">
+  <data key="d0">1</data>
+</edge>
+<edge source="exfoliate" target="daily">
+  <data key="d0">1</data>
+</edge>
+<edge source="exfoliate" target="every">
+  <data key="d0">1</data>
+</edge>
+<edge source="exfoliate" target="twice">
+  <data key="d0">1</data>
+</edge>
+<edge source="daily" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="irritate">
+  <data key="d0">1</data>
+</edge>
+<edge source="irritate" target="skin">
+  <data key="d0">1</data>
+</edge>
+<edge source="skin" target="causing">
+  <data key="d0">1</data>
+</edge>
+<edge source="skin" target="exfoliate">
+  <data key="d0">1</data>
+</edge>
+<edge source="skin" target="harsh">
+  <data key="d0">1</data>
+</edge>
+<edge source="skin" target="choose">
+  <data key="d0">1</data>
+</edge>
+<edge source="causing" target="dry">
+  <data key="d0">1</data>
+</edge>
+<edge source="dry" target="rather">
+  <data key="d0">1</data>
+</edge>
+<edge source="dry" target="sensitive">
+  <data key="d0">1</data>
+</edge>
+<edge source="dry" target="outdoor">
+  <data key="d0">1</data>
+</edge>
+<edge source="rather" target="exfoliate">
+  <data key="d0">1</data>
+</edge>
+<edge source="every" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="dry">
+  <data key="d0">1</data>
+</edge>
+<edge source="sensitive" target="skin">
+  <data key="d0">1</data>
+</edge>
+<edge source="twice" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="use">
+  <data key="d0">1</data>
+</edge>
+<edge source="use" target="gentle">
+  <data key="d0">1</data>
+</edge>
+<edge source="use" target="moisturizer">
+  <data key="d0">1</data>
+</edge>
+<edge source="gentle" target="face">
+  <data key="d0">1</data>
+</edge>
+<edge source="scrub" target="round">
+  <data key="d0">1</data>
+</edge>
+<edge source="round" target="bead">
+  <data key="d0">1</data>
+</edge>
+<edge source="bead" target="use">
+  <data key="d0">1</data>
+</edge>
+<edge source="winter" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="oily">
+  <data key="d0">1</data>
+</edge>
+<edge source="oily" target="skin">
+  <data key="d0">1</data>
+</edge>
+<edge source="harsh" target="dry">
+  <data key="d0">1</data>
+</edge>
+<edge source="outdoor" target="air">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="indoor">
+  <data key="d0">1</data>
+</edge>
+<edge source="indoor" target="heating">
+  <data key="d0">1</data>
+</edge>
+<edge source="heating" target="drain">
+  <data key="d0">1</data>
+</edge>
+<edge source="drain" target="moisture">
+  <data key="d0">1</data>
+</edge>
+<edge source="moisture" target="skin">
+  <data key="d0">1</data>
+</edge>
+<edge source="choose" target="lightweight">
+  <data key="d0">1</data>
+</edge>
+<edge source="choose" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="lightweight" target="moisturizer">
+  <data key="d0">1</data>
+</edge>
+<edge source="combat" target="dryness">
+  <data key="d0">1</data>
+</edge>
+<edge source="dryness" target="restore">
+  <data key="d0">1</data>
+</edge>
+<edge source="restore" target="suppleness">
+  <data key="d0">1</data>
+</edge>
+<edge source="suppleness" target="realize">
+  <data key="d0">1</data>
+</edge>
+<edge source="realize" target="individuality">
+  <data key="d0">1</data>
+</edge>
+<edge source="individuality" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="person">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="matter">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="torso">
+  <data key="d0">1</data>
+</edge>
+<edge source="person" target="beautiful">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="beauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="ashamed">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="true">
+  <data key="d0">1</data>
+</edge>
+<edge source="true" target="conforming">
+  <data key="d0">1</data>
+</edge>
+<edge source="conforming" target="society">
+  <data key="d0">1</data>
+</edge>
+<edge source="society" target="boring">
+  <data key="d0">1</data>
+</edge>
+<edge source="boring" target="standard">
+  <data key="d0">1</data>
+</edge>
+<edge source="standard" target="beautiful">
+  <data key="d0">1</data>
+</edge>
+<edge source="ashamed" target="come">
+  <data key="d0">1</data>
+</edge>
+<edge source="come" target="shopping">
+  <data key="d0">1</data>
+</edge>
+<edge source="shopping" target="finding">
+  <data key="d0">1</data>
+</edge>
+<edge source="shopping" target="experience">
+  <data key="d0">1</data>
+</edge>
+<edge source="finding" target="perfect">
+  <data key="d0">1</data>
+</edge>
+<edge source="perfect" target="pair">
+  <data key="d0">3</data>
+</edge>
+<edge source="pair" target="jean">
+  <data key="d0">4</data>
+</edge>
+<edge source="jean" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="unique">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="purchase">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="dressing">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="sizing">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="according">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="short">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="linear">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="hit">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="taper">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="lighter">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="low">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="jean" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="hardest">
+  <data key="d0">1</data>
+</edge>
+<edge source="hardest" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="ton">
+  <data key="d0">1</data>
+</edge>
+<edge source="thing" target="remember">
+  <data key="d0">1</data>
+</edge>
+<edge source="ton" target="different">
+  <data key="d0">1</data>
+</edge>
+<edge source="different" target="style">
+  <data key="d0">1</data>
+</edge>
+<edge source="style" target="wash">
+  <data key="d0">1</data>
+</edge>
+<edge source="style" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="wash" target="cut">
+  <data key="d0">1</data>
+</edge>
+<edge source="wash" target="tall">
+  <data key="d0">1</data>
+</edge>
+<edge source="cut" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="cut" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="cut" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="matter" target="worse">
+  <data key="d0">1</data>
+</edge>
+<edge source="worse" target="often">
+  <data key="d0">1</data>
+</edge>
+<edge source="often" target="seems">
+  <data key="d0">1</data>
+</edge>
+<edge source="seems" target="like">
+  <data key="d0">1</data>
+</edge>
+<edge source="like" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="sizing">
+  <data key="d0">1</data>
+</edge>
+<edge source="brand" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="sizing" target="system">
+  <data key="d0">2</data>
+</edge>
+<edge source="system" target="find">
+  <data key="d0">1</data>
+</edge>
+<edge source="system" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="find" target="perfect">
+  <data key="d0">1</data>
+</edge>
+<edge source="unique" target="without">
+  <data key="d0">1</data>
+</edge>
+<edge source="without" target="getting">
+  <data key="d0">1</data>
+</edge>
+<edge source="without" target="bunching">
+  <data key="d0">1</data>
+</edge>
+<edge source="getting" target="frustrated">
+  <data key="d0">1</data>
+</edge>
+<edge source="frustrated" target="follow">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="easy">
+  <data key="d0">1</data>
+</edge>
+<edge source="easy" target="step">
+  <data key="d0">1</data>
+</edge>
+<edge source="step" target="shopping">
+  <data key="d0">1</data>
+</edge>
+<edge source="experience" target="hopefully">
+  <data key="d0">1</data>
+</edge>
+<edge source="hopefully" target="leaf">
+  <data key="d0">1</data>
+</edge>
+<edge source="leaf" target="dynamite">
+  <data key="d0">1</data>
+</edge>
+<edge source="dynamite" target="denim">
+  <data key="d0">1</data>
+</edge>
+<edge source="denim" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="thing">
+  <data key="d0">1</data>
+</edge>
+<edge source="remember" target="perfect">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="always">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="always" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="try" target="straight">
+  <data key="d0">1</data>
+</edge>
+<edge source="purchase" target="wise">
+  <data key="d0">1</data>
+</edge>
+<edge source="wise" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="three">
+  <data key="d0">1</data>
+</edge>
+<edge source="three" target="pair">
+  <data key="d0">1</data>
+</edge>
+<edge source="dressing" target="room">
+  <data key="d0">1</data>
+</edge>
+<edge source="room" target="including">
+  <data key="d0">1</data>
+</edge>
+<edge source="including" target="usual">
+  <data key="d0">1</data>
+</edge>
+<edge source="usual" target="size">
+  <data key="d0">1</data>
+</edge>
+<edge source="size" target="size">
+  <data key="d0">2</data>
+</edge>
+<edge source="size" target="brand">
+  <data key="d0">1</data>
+</edge>
+<edge source="according" target="body">
+  <data key="d0">1</data>
+</edge>
+<edge source="body" target="type">
+  <data key="d0">1</data>
+</edge>
+<edge source="type" target="petite">
+  <data key="d0">1</data>
+</edge>
+<edge source="petite" target="petite">
+  <data key="d0">1</data>
+</edge>
+<edge source="petite" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="jean">
+  <data key="d0">3</data>
+</edge>
+<edge source="look" target="curvier">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="inseams">
+  <data key="d0">1</data>
+</edge>
+<edge source="short" target="inseam">
+  <data key="d0">1</data>
+</edge>
+<edge source="short" target="waisted">
+  <data key="d0">2</data>
+</edge>
+<edge source="inseam" target="skinny">
+  <data key="d0">1</data>
+</edge>
+<edge source="inseam" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="skinny" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="linear" target="cut">
+  <data key="d0">1</data>
+</edge>
+<edge source="good" target="place">
+  <data key="d0">1</data>
+</edge>
+<edge source="place" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="want" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="hit" target="inch">
+  <data key="d0">1</data>
+</edge>
+<edge source="inch" target="floor">
+  <data key="d0">1</data>
+</edge>
+<edge source="floor" target="without">
+  <data key="d0">1</data>
+</edge>
+<edge source="bunching" target="avoid">
+  <data key="d0">1</data>
+</edge>
+<edge source="avoid" target="pencil">
+  <data key="d0">1</data>
+</edge>
+<edge source="pencil" target="cut">
+  <data key="d0">1</data>
+</edge>
+<edge source="taper" target="bunch">
+  <data key="d0">1</data>
+</edge>
+<edge source="bunch" target="bottom">
+  <data key="d0">1</data>
+</edge>
+<edge source="bottom" target="want">
+  <data key="d0">1</data>
+</edge>
+<edge source="curvier" target="try">
+  <data key="d0">1</data>
+</edge>
+<edge source="straight" target="trouser">
+  <data key="d0">1</data>
+</edge>
+<edge source="trouser" target="style">
+  <data key="d0">1</data>
+</edge>
+<edge source="lighter" target="wash">
+  <data key="d0">1</data>
+</edge>
+<edge source="tall" target="tall">
+  <data key="d0">1</data>
+</edge>
+<edge source="tall" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="inseam">
+  <data key="d0">1</data>
+</edge>
+<edge source="inseams" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="pocket">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="jean">
+  <data key="d0">1</data>
+</edge>
+<edge source="low" target="rise">
+  <data key="d0">1</data>
+</edge>
+<edge source="rise" target="short">
+  <data key="d0">1</data>
+</edge>
+<edge source="waisted" target="lady">
+  <data key="d0">1</data>
+</edge>
+<edge source="waisted" target="choose">
+  <data key="d0">1</data>
+</edge>
+<edge source="lady" target="short">
+  <data key="d0">1</data>
+</edge>
+<edge source="torso" target="appear">
+  <data key="d0">1</data>
+</edge>
+<edge source="appear" target="longer">
+  <data key="d0">1</data>
+</edge>
+<edge source="longer" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="pocket" target="add">
+  <data key="d0">1</data>
+</edge>
+<edge source="add" target="balance">
+  <data key="d0">1</data>
+</edge>
+<edge source="balance" target="outfit">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

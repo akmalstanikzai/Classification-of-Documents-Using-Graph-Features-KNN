@@ -1,0 +1,981 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="countdown"/>
+<node id="well"/>
+<node id="truly"/>
+<node id="begun"/>
+<node id="paris"/>
+<node id="olympics"/>
+<node id="closing"/>
+<node id="espn"/>
+<node id="india"/>
+<node id="take"/>
+<node id="closer"/>
+<node id="look"/>
+<node id="top"/>
+<node id="indian"/>
+<node id="medal"/>
+<node id="game"/>
+<node id="currently"/>
+<node id="faring"/>
+<node id="prepare"/>
+<node id="event"/>
+<node id="first"/>
+<node id="installment"/>
+<node id="track"/>
+<node id="athlete"/>
+<node id="day"/>
+<node id="start"/>
+<node id="neeraj"/>
+<node id="chopra"/>
+<node id="reigning"/>
+<node id="olympic"/>
+<node id="world"/>
+<node id="champion"/>
+<node id="yet"/>
+<node id="season"/>
+<node id="soon"/>
+<node id="doha"/>
+<node id="diamond"/>
+<node id="league"/>
+<node id="may"/>
+<node id="challenging"/>
+<node id="usual"/>
+<node id="candidate"/>
+<node id="plus"/>
+<node id="tyro"/>
+<node id="called"/>
+<node id="max"/>
+<node id="dehning"/>
+<node id="youngest"/>
+<node id="entrant"/>
+<node id="club"/>
+<node id="worried"/>
+<node id="though"/>
+<node id="feel"/>
+<node id="matter"/>
+<node id="much"/>
+<node id="distance"/>
+<node id="cover"/>
+<node id="say"/>
+<node id="past"/>
+<node id="year"/>
+<node id="one"/>
+<node id="done"/>
+<node id="better"/>
+<node id="head"/>
+<node id="landmark"/>
+<node id="teen"/>
+<node id="sensation"/>
+<node id="newest"/>
+<node id="rival"/>
+<node id="medalist"/>
+<node id="pv"/>
+<node id="sindhu"/>
+<node id="horror"/>
+<node id="showing"/>
+<node id="glimpse"/>
+<node id="old"/>
+<node id="self"/>
+<node id="half"/>
+<node id="led"/>
+<node id="inexperienced"/>
+<node id="team"/>
+<node id="unexpected"/>
+<node id="badminton"/>
+<node id="asia"/>
+<node id="championship"/>
+<node id="triumph"/>
+<node id="reached"/>
+<node id="quarter"/>
+<node id="french"/>
+<node id="open"/>
+<node id="madrid"/>
+<node id="master"/>
+<node id="still"/>
+<node id="long"/>
+<node id="way"/>
+<node id="go"/>
+<node id="hit"/>
+<node id="kind"/>
+<node id="form"/>
+<node id="forget"/>
+<node id="trademark"/>
+<node id="fight"/>
+<node id="seems"/>
+<node id="back"/>
+<node id="recovery"/>
+<node id="going"/>
+<node id="opted"/>
+<node id="uber"/>
+<node id="cup"/>
+<node id="next"/>
+<node id="big"/>
+<node id="bwf"/>
+<node id="thailand"/>
+<node id="anmol"/>
+<node id="kharb"/>
+<node id="bookend"/>
+<node id="glorious"/>
+<node id="herald"/>
+<node id="bright"/>
+<node id="future"/>
+<node id="woman"/>
+<node id="mirabai"/>
+<node id="chanu"/>
+<node id="struggled"/>
+<node id="major"/>
+<node id="injury"/>
+<node id="trouble"/>
+<node id="post"/>
+<node id="remarkable"/>
+<node id="silver"/>
+<node id="late"/>
+<node id="managed"/>
+<node id="qualify"/>
+<node id="resilient"/>
+<node id="performance"/>
+<node id="nowhere"/>
+<node id="near"/>
+<node id="finishing"/>
+<node id="outside"/>
+<node id="last"/>
+<node id="asian"/>
+<node id="disappointing"/>
+<node id="recently"/>
+<node id="concluded"/>
+<node id="iwf"/>
+<node id="unlikely"/>
+<node id="participate"/>
+<node id="continues"/>
+<node id="road"/>
+<node id="full"/>
+<node id="qualified"/>
+<node id="gold"/>
+<node id="men"/>
+<node id="hockey"/>
+<node id="hope"/>
+<node id="turning"/>
+<node id="bronze"/>
+<node id="brighter"/>
+<node id="colour"/>
+<node id="aid"/>
+<node id="cause"/>
+<node id="ditched"/>
+<node id="philosophy"/>
+<node id="chaos"/>
+<node id="served"/>
+<node id="control"/>
+<node id="action"/>
+<node id="pro"/>
+<node id="early"/>
+<node id="june"/>
+<node id="facing"/>
+<node id="argentina"/>
+<node id="belgium"/>
+<node id="germany"/>
+<node id="great"/>
+<node id="britain"/>
+<node id="winning"/>
+<node id="thus"/>
+<node id="booking"/>
+<node id="ticket"/>
+<node id="nikhat"/>
+<node id="zareen"/>
+<node id="appeared"/>
+<node id="tournament"/>
+<node id="strandja"/>
+<node id="memorial"/>
+<node id="february"/>
+<node id="gone"/>
+<node id="ass"/>
+<node id="confident"/>
+<node id="mood"/>
+<node id="sofia"/>
+<node id="show"/>
+<node id="good"/>
+<node id="health"/>
+<edge source="countdown" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="truly">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="opted">
+  <data key="d0">1</data>
+</edge>
+<edge source="well" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="truly" target="begun">
+  <data key="d0">1</data>
+</edge>
+<edge source="begun" target="paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="paris" target="olympics">
+  <data key="d0">1</data>
+</edge>
+<edge source="paris" target="hope">
+  <data key="d0">1</data>
+</edge>
+<edge source="paris" target="nikhat">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympics" target="closing">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympics" target="neeraj">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympics" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympics" target="asian">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympics" target="action">
+  <data key="d0">1</data>
+</edge>
+<edge source="closing" target="espn">
+  <data key="d0">1</data>
+</edge>
+<edge source="espn" target="india">
+  <data key="d0">1</data>
+</edge>
+<edge source="india" target="take">
+  <data key="d0">1</data>
+</edge>
+<edge source="india" target="team">
+  <data key="d0">1</data>
+</edge>
+<edge source="take" target="closer">
+  <data key="d0">1</data>
+</edge>
+<edge source="closer" target="look">
+  <data key="d0">1</data>
+</edge>
+<edge source="look" target="top">
+  <data key="d0">1</data>
+</edge>
+<edge source="top" target="indian">
+  <data key="d0">1</data>
+</edge>
+<edge source="top" target="form">
+  <data key="d0">1</data>
+</edge>
+<edge source="indian" target="medal">
+  <data key="d0">1</data>
+</edge>
+<edge source="indian" target="woman">
+  <data key="d0">1</data>
+</edge>
+<edge source="medal" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="medal" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="currently">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="finishing">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="gold">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="pro">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="thus">
+  <data key="d0">1</data>
+</edge>
+<edge source="currently" target="faring">
+  <data key="d0">1</data>
+</edge>
+<edge source="faring" target="prepare">
+  <data key="d0">1</data>
+</edge>
+<edge source="prepare" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="thailand">
+  <data key="d0">1</data>
+</edge>
+<edge source="event" target="continues">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="installment">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="half">
+  <data key="d0">1</data>
+</edge>
+<edge source="installment" target="track">
+  <data key="d0">1</data>
+</edge>
+<edge source="track" target="athlete">
+  <data key="d0">1</data>
+</edge>
+<edge source="athlete" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="much">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="say">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="olympics">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="neeraj" target="chopra">
+  <data key="d0">2</data>
+</edge>
+<edge source="chopra" target="reigning">
+  <data key="d0">1</data>
+</edge>
+<edge source="chopra" target="worried">
+  <data key="d0">1</data>
+</edge>
+<edge source="chopra" target="head">
+  <data key="d0">1</data>
+</edge>
+<edge source="reigning" target="olympic">
+  <data key="d0">1</data>
+</edge>
+<edge source="reigning" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympic" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="olympic" target="medalist">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="champion">
+  <data key="d0">2</data>
+</edge>
+<edge source="world" target="championship">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="cup">
+  <data key="d0">1</data>
+</edge>
+<edge source="champion" target="yet">
+  <data key="d0">1</data>
+</edge>
+<edge source="champion" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="yet" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="soon">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="usual">
+  <data key="d0">1</data>
+</edge>
+<edge source="season" target="teen">
+  <data key="d0">1</data>
+</edge>
+<edge source="soon" target="doha">
+  <data key="d0">1</data>
+</edge>
+<edge source="doha" target="diamond">
+  <data key="d0">1</data>
+</edge>
+<edge source="diamond" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="league" target="late">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="challenging">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="early">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenging" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="usual" target="candidate">
+  <data key="d0">1</data>
+</edge>
+<edge source="candidate" target="plus">
+  <data key="d0">1</data>
+</edge>
+<edge source="plus" target="tyro">
+  <data key="d0">1</data>
+</edge>
+<edge source="tyro" target="called">
+  <data key="d0">1</data>
+</edge>
+<edge source="called" target="max">
+  <data key="d0">1</data>
+</edge>
+<edge source="max" target="dehning">
+  <data key="d0">1</data>
+</edge>
+<edge source="dehning" target="youngest">
+  <data key="d0">1</data>
+</edge>
+<edge source="dehning" target="newest">
+  <data key="d0">1</data>
+</edge>
+<edge source="youngest" target="entrant">
+  <data key="d0">1</data>
+</edge>
+<edge source="entrant" target="club">
+  <data key="d0">1</data>
+</edge>
+<edge source="club" target="chopra">
+  <data key="d0">1</data>
+</edge>
+<edge source="worried" target="though">
+  <data key="d0">1</data>
+</edge>
+<edge source="though" target="feel">
+  <data key="d0">1</data>
+</edge>
+<edge source="though" target="finishing">
+  <data key="d0">1</data>
+</edge>
+<edge source="feel" target="matter">
+  <data key="d0">1</data>
+</edge>
+<edge source="matter" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="much" target="distance">
+  <data key="d0">1</data>
+</edge>
+<edge source="distance" target="cover">
+  <data key="d0">1</data>
+</edge>
+<edge source="cover" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="say" target="past">
+  <data key="d0">1</data>
+</edge>
+<edge source="past" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="asian">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="done">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="one" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="done" target="better">
+  <data key="d0">1</data>
+</edge>
+<edge source="better" target="neeraj">
+  <data key="d0">1</data>
+</edge>
+<edge source="head" target="landmark">
+  <data key="d0">1</data>
+</edge>
+<edge source="landmark" target="season">
+  <data key="d0">1</data>
+</edge>
+<edge source="teen" target="sensation">
+  <data key="d0">1</data>
+</edge>
+<edge source="sensation" target="dehning">
+  <data key="d0">1</data>
+</edge>
+<edge source="newest" target="rival">
+  <data key="d0">1</data>
+</edge>
+<edge source="rival" target="olympic">
+  <data key="d0">1</data>
+</edge>
+<edge source="medalist" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="medalist" target="men">
+  <data key="d0">1</data>
+</edge>
+<edge source="pv" target="sindhu">
+  <data key="d0">2</data>
+</edge>
+<edge source="sindhu" target="horror">
+  <data key="d0">1</data>
+</edge>
+<edge source="sindhu" target="anmol">
+  <data key="d0">1</data>
+</edge>
+<edge source="horror" target="showing">
+  <data key="d0">1</data>
+</edge>
+<edge source="showing" target="glimpse">
+  <data key="d0">1</data>
+</edge>
+<edge source="glimpse" target="old">
+  <data key="d0">1</data>
+</edge>
+<edge source="old" target="self">
+  <data key="d0">1</data>
+</edge>
+<edge source="self" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="half" target="led">
+  <data key="d0">1</data>
+</edge>
+<edge source="led" target="inexperienced">
+  <data key="d0">1</data>
+</edge>
+<edge source="inexperienced" target="india">
+  <data key="d0">1</data>
+</edge>
+<edge source="team" target="unexpected">
+  <data key="d0">1</data>
+</edge>
+<edge source="team" target="championship">
+  <data key="d0">1</data>
+</edge>
+<edge source="team" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="unexpected" target="badminton">
+  <data key="d0">1</data>
+</edge>
+<edge source="badminton" target="asia">
+  <data key="d0">1</data>
+</edge>
+<edge source="badminton" target="mirabai">
+  <data key="d0">1</data>
+</edge>
+<edge source="asia" target="team">
+  <data key="d0">1</data>
+</edge>
+<edge source="championship" target="triumph">
+  <data key="d0">1</data>
+</edge>
+<edge source="championship" target="silver">
+  <data key="d0">1</data>
+</edge>
+<edge source="triumph" target="reached">
+  <data key="d0">1</data>
+</edge>
+<edge source="triumph" target="herald">
+  <data key="d0">1</data>
+</edge>
+<edge source="reached" target="quarter">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarter" target="french">
+  <data key="d0">1</data>
+</edge>
+<edge source="french" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="madrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="master">
+  <data key="d0">1</data>
+</edge>
+<edge source="madrid" target="master">
+  <data key="d0">1</data>
+</edge>
+<edge source="master" target="still">
+  <data key="d0">1</data>
+</edge>
+<edge source="master" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="still" target="long">
+  <data key="d0">1</data>
+</edge>
+<edge source="still" target="managed">
+  <data key="d0">1</data>
+</edge>
+<edge source="long" target="way">
+  <data key="d0">1</data>
+</edge>
+<edge source="way" target="go">
+  <data key="d0">1</data>
+</edge>
+<edge source="go" target="hit">
+  <data key="d0">1</data>
+</edge>
+<edge source="hit" target="kind">
+  <data key="d0">1</data>
+</edge>
+<edge source="kind" target="form">
+  <data key="d0">1</data>
+</edge>
+<edge source="form" target="forget">
+  <data key="d0">1</data>
+</edge>
+<edge source="form" target="though">
+  <data key="d0">1</data>
+</edge>
+<edge source="forget" target="trademark">
+  <data key="d0">1</data>
+</edge>
+<edge source="trademark" target="fight">
+  <data key="d0">1</data>
+</edge>
+<edge source="fight" target="seems">
+  <data key="d0">1</data>
+</edge>
+<edge source="seems" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="seems" target="going">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="recovery">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="next">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="resilient">
+  <data key="d0">1</data>
+</edge>
+<edge source="recovery" target="seems">
+  <data key="d0">1</data>
+</edge>
+<edge source="recovery" target="qualified">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="going" target="paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="opted" target="uber">
+  <data key="d0">1</data>
+</edge>
+<edge source="uber" target="cup">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="unlikely">
+  <data key="d0">1</data>
+</edge>
+<edge source="next" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="bwf">
+  <data key="d0">1</data>
+</edge>
+<edge source="big" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="bwf" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="thailand" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="anmol" target="kharb">
+  <data key="d0">1</data>
+</edge>
+<edge source="kharb" target="bookend">
+  <data key="d0">1</data>
+</edge>
+<edge source="bookend" target="glorious">
+  <data key="d0">1</data>
+</edge>
+<edge source="glorious" target="triumph">
+  <data key="d0">1</data>
+</edge>
+<edge source="herald" target="bright">
+  <data key="d0">1</data>
+</edge>
+<edge source="bright" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="indian">
+  <data key="d0">1</data>
+</edge>
+<edge source="woman" target="badminton">
+  <data key="d0">1</data>
+</edge>
+<edge source="mirabai" target="chanu">
+  <data key="d0">1</data>
+</edge>
+<edge source="mirabai" target="still">
+  <data key="d0">1</data>
+</edge>
+<edge source="chanu" target="struggled">
+  <data key="d0">1</data>
+</edge>
+<edge source="struggled" target="major">
+  <data key="d0">1</data>
+</edge>
+<edge source="major" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="trouble">
+  <data key="d0">1</data>
+</edge>
+<edge source="trouble" target="post">
+  <data key="d0">1</data>
+</edge>
+<edge source="post" target="remarkable">
+  <data key="d0">1</data>
+</edge>
+<edge source="remarkable" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="silver" target="late">
+  <data key="d0">1</data>
+</edge>
+<edge source="silver" target="gone">
+  <data key="d0">1</data>
+</edge>
+<edge source="late" target="mirabai">
+  <data key="d0">1</data>
+</edge>
+<edge source="late" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="managed" target="qualify">
+  <data key="d0">1</data>
+</edge>
+<edge source="qualify" target="olympics">
+  <data key="d0">1</data>
+</edge>
+<edge source="resilient" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="nowhere">
+  <data key="d0">1</data>
+</edge>
+<edge source="performance" target="sofia">
+  <data key="d0">1</data>
+</edge>
+<edge source="nowhere" target="near">
+  <data key="d0">1</data>
+</edge>
+<edge source="near" target="top">
+  <data key="d0">1</data>
+</edge>
+<edge source="finishing" target="outside">
+  <data key="d0">1</data>
+</edge>
+<edge source="finishing" target="disappointing">
+  <data key="d0">1</data>
+</edge>
+<edge source="outside" target="medal">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="asian" target="game">
+  <data key="d0">3</data>
+</edge>
+<edge source="disappointing" target="recently">
+  <data key="d0">1</data>
+</edge>
+<edge source="recently" target="concluded">
+  <data key="d0">1</data>
+</edge>
+<edge source="concluded" target="iwf">
+  <data key="d0">1</data>
+</edge>
+<edge source="iwf" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="unlikely" target="participate">
+  <data key="d0">1</data>
+</edge>
+<edge source="participate" target="event">
+  <data key="d0">1</data>
+</edge>
+<edge source="continues" target="road">
+  <data key="d0">1</data>
+</edge>
+<edge source="road" target="full">
+  <data key="d0">1</data>
+</edge>
+<edge source="full" target="recovery">
+  <data key="d0">1</data>
+</edge>
+<edge source="qualified" target="olympics">
+  <data key="d0">1</data>
+</edge>
+<edge source="gold" target="medalist">
+  <data key="d0">1</data>
+</edge>
+<edge source="men" target="hockey">
+  <data key="d0">1</data>
+</edge>
+<edge source="hockey" target="team">
+  <data key="d0">1</data>
+</edge>
+<edge source="hope" target="turning">
+  <data key="d0">1</data>
+</edge>
+<edge source="turning" target="bronze">
+  <data key="d0">1</data>
+</edge>
+<edge source="bronze" target="brighter">
+  <data key="d0">1</data>
+</edge>
+<edge source="bronze" target="asian">
+  <data key="d0">1</data>
+</edge>
+<edge source="brighter" target="colour">
+  <data key="d0">1</data>
+</edge>
+<edge source="colour" target="aid">
+  <data key="d0">1</data>
+</edge>
+<edge source="aid" target="cause">
+  <data key="d0">1</data>
+</edge>
+<edge source="cause" target="ditched">
+  <data key="d0">1</data>
+</edge>
+<edge source="ditched" target="philosophy">
+  <data key="d0">1</data>
+</edge>
+<edge source="philosophy" target="chaos">
+  <data key="d0">1</data>
+</edge>
+<edge source="chaos" target="served">
+  <data key="d0">1</data>
+</edge>
+<edge source="served" target="well">
+  <data key="d0">1</data>
+</edge>
+<edge source="control" target="olympics">
+  <data key="d0">1</data>
+</edge>
+<edge source="action" target="big">
+  <data key="d0">1</data>
+</edge>
+<edge source="pro" target="league">
+  <data key="d0">1</data>
+</edge>
+<edge source="early" target="june">
+  <data key="d0">1</data>
+</edge>
+<edge source="june" target="facing">
+  <data key="d0">1</data>
+</edge>
+<edge source="facing" target="argentina">
+  <data key="d0">1</data>
+</edge>
+<edge source="argentina" target="belgium">
+  <data key="d0">1</data>
+</edge>
+<edge source="belgium" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="great">
+  <data key="d0">1</data>
+</edge>
+<edge source="great" target="britain">
+  <data key="d0">1</data>
+</edge>
+<edge source="britain" target="winning">
+  <data key="d0">1</data>
+</edge>
+<edge source="winning" target="bronze">
+  <data key="d0">1</data>
+</edge>
+<edge source="thus" target="booking">
+  <data key="d0">1</data>
+</edge>
+<edge source="booking" target="ticket">
+  <data key="d0">1</data>
+</edge>
+<edge source="ticket" target="paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="nikhat" target="zareen">
+  <data key="d0">1</data>
+</edge>
+<edge source="nikhat" target="confident">
+  <data key="d0">1</data>
+</edge>
+<edge source="zareen" target="appeared">
+  <data key="d0">1</data>
+</edge>
+<edge source="appeared" target="one">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="strandja">
+  <data key="d0">1</data>
+</edge>
+<edge source="tournament" target="ass">
+  <data key="d0">1</data>
+</edge>
+<edge source="strandja" target="memorial">
+  <data key="d0">1</data>
+</edge>
+<edge source="memorial" target="february">
+  <data key="d0">1</data>
+</edge>
+<edge source="february" target="silver">
+  <data key="d0">1</data>
+</edge>
+<edge source="gone" target="tournament">
+  <data key="d0">1</data>
+</edge>
+<edge source="ass" target="nikhat">
+  <data key="d0">1</data>
+</edge>
+<edge source="confident" target="mood">
+  <data key="d0">1</data>
+</edge>
+<edge source="mood" target="performance">
+  <data key="d0">1</data>
+</edge>
+<edge source="sofia" target="show">
+  <data key="d0">1</data>
+</edge>
+<edge source="show" target="reigning">
+  <data key="d0">1</data>
+</edge>
+<edge source="good" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="form">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

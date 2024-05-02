@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="espncricinfo"/>
+<node id="revealed"/>
+<node id="month"/>
+<node id="overton"/>
+<node id="line"/>
+<node id="maiden"/>
+<node id="making"/>
+<node id="significant"/>
+<node id="stride"/>
+<node id="allrounder"/>
+<node id="rob"/>
+<node id="key"/>
+<node id="england"/>
+<node id="managing"/>
+<node id="director"/>
+<node id="monitoring"/>
+<node id="progress"/>
+<node id="since"/>
+<node id="return"/>
+<node id="injury"/>
+<node id="last"/>
+<node id="summer"/>
+<node id="said"/>
+<node id="felt"/>
+<node id="close"/>
+<node id="selection"/>
+<node id="even"/>
+<node id="ben"/>
+<node id="stokes"/>
+<node id="withdrawal"/>
+<node id="ruled"/>
+<node id="surrey"/>
+<node id="county"/>
+<node id="championship"/>
+<node id="fixture"/>
+<node id="kent"/>
+<node id="week"/>
+<node id="back"/>
+<node id="issue"/>
+<node id="feature"/>
+<node id="hampshire"/>
+<node id="initial"/>
+<node id="scan"/>
+<node id="returned"/>
+<node id="unclear"/>
+<node id="result"/>
+<node id="due"/>
+<node id="another"/>
+<node id="two"/>
+<node id="time"/>
+<node id="short"/>
+<node id="period"/>
+<node id="rest"/>
+<node id="named"/>
+<node id="provisional"/>
+<node id="squad"/>
+<node id="meet"/>
+<node id="icc"/>
+<node id="may"/>
+<node id="deadline"/>
+<node id="panel"/>
+<node id="chair"/>
+<node id="next"/>
+<node id="day"/>
+<node id="finalise"/>
+<node id="likely"/>
+<node id="group"/>
+<node id="face"/>
+<node id="pakistan"/>
+<node id="four"/>
+<node id="detail"/>
+<node id="iron"/>
+<node id="duckett"/>
+<node id="contention"/>
+<node id="spare"/>
+<node id="batter"/>
+<node id="tom"/>
+<node id="hartley"/>
+<node id="get"/>
+<node id="nod"/>
+<node id="second"/>
+<node id="spinner"/>
+<node id="ahead"/>
+<node id="rehan"/>
+<node id="ahmed"/>
+<node id="jofra"/>
+<node id="archer"/>
+<node id="set"/>
+<node id="given"/>
+<node id="chance"/>
+<node id="prove"/>
+<node id="fitness"/>
+<node id="year"/>
+<node id="recent"/>
+<node id="international"/>
+<node id="appearance"/>
+<node id="uncertainty"/>
+<node id="also"/>
+<node id="open"/>
+<node id="door"/>
+<node id="chris"/>
+<node id="jordan"/>
+<node id="recalled"/>
+<node id="left"/>
+<node id="lost"/>
+<node id="west"/>
+<node id="indie"/>
+<node id="december"/>
+<node id="consistent"/>
+<node id="identity"/>
+<node id="wicketkeeper"/>
+<node id="discussion"/>
+<node id="new"/>
+<node id="fielding"/>
+<node id="penalty"/>
+<node id="slow"/>
+<node id="challenging"/>
+<node id="buttler"/>
+<node id="captain"/>
+<node id="side"/>
+<node id="keeping"/>
+<node id="wicket"/>
+<node id="phil"/>
+<node id="salt"/>
+<node id="took"/>
+<node id="glove"/>
+<node id="final"/>
+<node id="caribbean"/>
+<node id="tour"/>
+<node id="jonny"/>
+<node id="bairstow"/>
+<node id="alternative"/>
+<node id="ecb"/>
+<node id="yet"/>
+<node id="indicated"/>
+<node id="publicly"/>
+<node id="whether"/>
+<node id="allow"/>
+<node id="player"/>
+<node id="stay"/>
+<node id="ipl"/>
+<node id="knockout"/>
+<node id="stage"/>
+<node id="franchise"/>
+<node id="qualify"/>
+<node id="would"/>
+<node id="rule"/>
+<node id="first"/>
+<node id="recently"/>
+<node id="scored"/>
+<node id="unbeaten"/>
+<node id="hundred"/>
+<node id="rajasthan"/>
+<node id="royal"/>
+<node id="miss"/>
+<node id="start"/>
+<node id="series"/>
+<node id="regardless"/>
+<node id="paternity"/>
+<node id="leave"/>
+<node id="expected"/>
+<node id="name"/>
+<node id="tuesday"/>
+<node id="morning"/>
+<node id="make"/>
+<node id="change"/>
+<node id="keen"/>
+<node id="avoid"/>
+<node id="repeat"/>
+<node id="debacle"/>
+<node id="ensued"/>
+<node id="harry"/>
+<node id="brook"/>
+<node id="drafted"/>
+<node id="world"/>
+<node id="cup"/>
+<node id="late"/>
+<node id="notice"/>
+<node id="omission"/>
+<node id="wicketkeeping"/>
+<node id="option"/>
+<node id="rizwan"/>
+<node id="absence"/>
+<node id="haseebullah"/>
+<node id="featured"/>
+<node id="usman"/>
+<node id="khan"/>
+<node id="kept"/>
+<node id="game"/>
+<node id="multan"/>
+<node id="sultan"/>
+<node id="earlier"/>
+<node id="psl"/>
+<edge source="espncricinfo" target="revealed">
+  <data key="d0">1</data>
+</edge>
+<edge source="revealed" target="month">
+  <data key="d0">1</data>
+</edge>
+<edge source="month" target="overton">
+  <data key="d0">1</data>
+</edge>
+<edge source="month" target="identity">
+  <data key="d0">1</data>
+</edge>
+<edge source="overton" target="line">
+  <data key="d0">1</data>
+</edge>
+<edge source="overton" target="said">
+  <data key="d0">1</data>
+</edge>
+<edge source="overton" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="line" target="maiden">
+  <data key="d0">1</data>
+</edge>
+<edge source="maiden" target="making">
+  <data key="d0">1</data>
+</edge>
+<edge source="making" target="significant">
+  <data key="d0">1</data>
+</edge>
+<edge source="making" target="challenging">
+  <data key="d0">1</data>
+</edge>
+<edge source="significant" target="stride">
+  <data key="d0">1</data>
+</edge>
+<edge source="stride" target="allrounder">
+  <data key="d0">1</data>
+</edge>
+<edge source="allrounder" target="rob">
+  <data key="d0">1</data>
+</edge>
+<edge source="rob" target="key">
+  <data key="d0">1</data>
+</edge>
+<edge source="key" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="key" target="chair">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="managing">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="named">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="selection">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="wicketkeeper">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="caribbean">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="player">
+  <data key="d0">1</data>
+</edge>
+<edge source="england" target="expected">
+  <data key="d0">1</data>
+</edge>
+<edge source="managing" target="director">
+  <data key="d0">1</data>
+</edge>
+<edge source="director" target="monitoring">
+  <data key="d0">1</data>
+</edge>
+<edge source="monitoring" target="progress">
+  <data key="d0">1</data>
+</edge>
+<edge source="progress" target="since">
+  <data key="d0">1</data>
+</edge>
+<edge source="since" target="return">
+  <data key="d0">1</data>
+</edge>
+<edge source="return" target="injury">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="injury" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="summer">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="month">
+  <data key="d0">1</data>
+</edge>
+<edge source="last" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="summer" target="overton">
+  <data key="d0">1</data>
+</edge>
+<edge source="said" target="felt">
+  <data key="d0">1</data>
+</edge>
+<edge source="felt" target="close">
+  <data key="d0">1</data>
+</edge>
+<edge source="close" target="selection">
+  <data key="d0">1</data>
+</edge>
+<edge source="selection" target="even">
+  <data key="d0">1</data>
+</edge>
+<edge source="selection" target="panel">
+  <data key="d0">1</data>
+</edge>
+<edge source="even" target="ben">
+  <data key="d0">1</data>
+</edge>
+<edge source="ben" target="stokes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ben" target="duckett">
+  <data key="d0">1</data>
+</edge>
+<edge source="stokes" target="withdrawal">
+  <data key="d0">1</data>
+</edge>
+<edge source="withdrawal" target="ruled">
+  <data key="d0">1</data>
+</edge>
+<edge source="ruled" target="surrey">
+  <data key="d0">1</data>
+</edge>
+<edge source="surrey" target="county">
+  <data key="d0">1</data>
+</edge>
+<edge source="county" target="championship">
+  <data key="d0">1</data>
+</edge>
+<edge source="championship" target="fixture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fixture" target="kent">
+  <data key="d0">1</data>
+</edge>
+<edge source="kent" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="back">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="initial">
+  <data key="d0">1</data>
+</edge>
+<edge source="week" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="back" target="issue">
+  <data key="d0">1</data>
+</edge>
+<edge source="issue" target="feature">
+  <data key="d0">1</data>
+</edge>
+<edge source="feature" target="hampshire">
+  <data key="d0">1</data>
+</edge>
+<edge source="hampshire" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="initial" target="scan">
+  <data key="d0">1</data>
+</edge>
+<edge source="initial" target="omission">
+  <data key="d0">1</data>
+</edge>
+<edge source="scan" target="returned">
+  <data key="d0">1</data>
+</edge>
+<edge source="scan" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="returned" target="unclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="unclear" target="result">
+  <data key="d0">1</data>
+</edge>
+<edge source="result" target="due">
+  <data key="d0">1</data>
+</edge>
+<edge source="due" target="another">
+  <data key="d0">1</data>
+</edge>
+<edge source="another" target="scan">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="week">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="unbeaten">
+  <data key="d0">1</data>
+</edge>
+<edge source="two" target="game">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="short">
+  <data key="d0">1</data>
+</edge>
+<edge source="time" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="short" target="period">
+  <data key="d0">1</data>
+</edge>
+<edge source="period" target="rest">
+  <data key="d0">1</data>
+</edge>
+<edge source="rest" target="time">
+  <data key="d0">1</data>
+</edge>
+<edge source="named" target="provisional">
+  <data key="d0">2</data>
+</edge>
+<edge source="provisional" target="squad">
+  <data key="d0">2</data>
+</edge>
+<edge source="squad" target="meet">
+  <data key="d0">1</data>
+</edge>
+<edge source="squad" target="likely">
+  <data key="d0">1</data>
+</edge>
+<edge source="squad" target="given">
+  <data key="d0">1</data>
+</edge>
+<edge source="squad" target="lost">
+  <data key="d0">1</data>
+</edge>
+<edge source="squad" target="tuesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="squad" target="late">
+  <data key="d0">1</data>
+</edge>
+<edge source="meet" target="icc">
+  <data key="d0">1</data>
+</edge>
+<edge source="meet" target="next">
+  <data key="d0">1</data>
+</edge>
+<edge source="icc" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="icc" target="new">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="deadline">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="detail">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="may" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="deadline" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="panel" target="key">
+  <data key="d0">1</data>
+</edge>
+<edge source="chair" target="meet">
+  <data key="d0">1</data>
+</edge>
+<edge source="next" target="day">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="finalise">
+  <data key="d0">1</data>
+</edge>
+<edge source="day" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="finalise" target="squad">
+  <data key="d0">1</data>
+</edge>
+<edge source="likely" target="group">
+  <data key="d0">1</data>
+</edge>
+<edge source="likely" target="get">
+  <data key="d0">1</data>
+</edge>
+<edge source="likely" target="miss">
+  <data key="d0">1</data>
+</edge>
+<edge source="group" target="face">
+  <data key="d0">1</data>
+</edge>
+<edge source="face" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="four">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="year">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="buttler">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="series">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="make">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakistan" target="wicketkeeping">
+  <data key="d0">1</data>
+</edge>
+<edge source="four" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="detail" target="iron">
+  <data key="d0">1</data>
+</edge>
+<edge source="iron" target="ben">
+  <data key="d0">1</data>
+</edge>
+<edge source="duckett" target="contention">
+  <data key="d0">1</data>
+</edge>
+<edge source="contention" target="spare">
+  <data key="d0">1</data>
+</edge>
+<edge source="spare" target="batter">
+  <data key="d0">1</data>
+</edge>
+<edge source="batter" target="tom">
+  <data key="d0">1</data>
+</edge>
+<edge source="tom" target="hartley">
+  <data key="d0">1</data>
+</edge>
+<edge source="hartley" target="likely">
+  <data key="d0">1</data>
+</edge>
+<edge source="get" target="nod">
+  <data key="d0">1</data>
+</edge>
+<edge source="nod" target="second">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="spinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="second" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="spinner" target="ahead">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahead" target="rehan">
+  <data key="d0">1</data>
+</edge>
+<edge source="rehan" target="ahmed">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahmed" target="jofra">
+  <data key="d0">1</data>
+</edge>
+<edge source="jofra" target="archer">
+  <data key="d0">1</data>
+</edge>
+<edge source="archer" target="set">
+  <data key="d0">1</data>
+</edge>
+<edge source="set" target="named">
+  <data key="d0">1</data>
+</edge>
+<edge source="given" target="chance">
+  <data key="d0">1</data>
+</edge>
+<edge source="chance" target="prove">
+  <data key="d0">1</data>
+</edge>
+<edge source="prove" target="fitness">
+  <data key="d0">1</data>
+</edge>
+<edge source="fitness" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="recent">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="ensued">
+  <data key="d0">1</data>
+</edge>
+<edge source="year" target="psl">
+  <data key="d0">1</data>
+</edge>
+<edge source="recent" target="international">
+  <data key="d0">1</data>
+</edge>
+<edge source="international" target="appearance">
+  <data key="d0">1</data>
+</edge>
+<edge source="appearance" target="uncertainty">
+  <data key="d0">1</data>
+</edge>
+<edge source="uncertainty" target="overton">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="open">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="discussion">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="keeping">
+  <data key="d0">1</data>
+</edge>
+<edge source="also" target="kept">
+  <data key="d0">1</data>
+</edge>
+<edge source="open" target="door">
+  <data key="d0">1</data>
+</edge>
+<edge source="door" target="chris">
+  <data key="d0">1</data>
+</edge>
+<edge source="chris" target="jordan">
+  <data key="d0">1</data>
+</edge>
+<edge source="jordan" target="recalled">
+  <data key="d0">1</data>
+</edge>
+<edge source="jordan" target="left">
+  <data key="d0">1</data>
+</edge>
+<edge source="recalled" target="jordan">
+  <data key="d0">1</data>
+</edge>
+<edge source="left" target="squad">
+  <data key="d0">1</data>
+</edge>
+<edge source="lost" target="west">
+  <data key="d0">1</data>
+</edge>
+<edge source="west" target="indie">
+  <data key="d0">1</data>
+</edge>
+<edge source="indie" target="december">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="consistent">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="jonny">
+  <data key="d0">1</data>
+</edge>
+<edge source="consistent" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="identity" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="wicketkeeper" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="discussion" target="icc">
+  <data key="d0">1</data>
+</edge>
+<edge source="new" target="fielding">
+  <data key="d0">1</data>
+</edge>
+<edge source="fielding" target="penalty">
+  <data key="d0">1</data>
+</edge>
+<edge source="penalty" target="slow">
+  <data key="d0">1</data>
+</edge>
+<edge source="slow" target="making">
+  <data key="d0">1</data>
+</edge>
+<edge source="challenging" target="buttler">
+  <data key="d0">1</data>
+</edge>
+<edge source="buttler" target="captain">
+  <data key="d0">1</data>
+</edge>
+<edge source="buttler" target="recently">
+  <data key="d0">1</data>
+</edge>
+<edge source="captain" target="side">
+  <data key="d0">1</data>
+</edge>
+<edge source="side" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="keeping" target="wicket">
+  <data key="d0">1</data>
+</edge>
+<edge source="wicket" target="phil">
+  <data key="d0">1</data>
+</edge>
+<edge source="wicket" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="phil" target="salt">
+  <data key="d0">1</data>
+</edge>
+<edge source="salt" target="took">
+  <data key="d0">1</data>
+</edge>
+<edge source="took" target="glove">
+  <data key="d0">1</data>
+</edge>
+<edge source="glove" target="final">
+  <data key="d0">1</data>
+</edge>
+<edge source="final" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="caribbean" target="tour">
+  <data key="d0">1</data>
+</edge>
+<edge source="tour" target="december">
+  <data key="d0">1</data>
+</edge>
+<edge source="jonny" target="bairstow">
+  <data key="d0">1</data>
+</edge>
+<edge source="bairstow" target="alternative">
+  <data key="d0">1</data>
+</edge>
+<edge source="alternative" target="ecb">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecb" target="yet">
+  <data key="d0">1</data>
+</edge>
+<edge source="yet" target="indicated">
+  <data key="d0">1</data>
+</edge>
+<edge source="yet" target="usman">
+  <data key="d0">1</data>
+</edge>
+<edge source="indicated" target="publicly">
+  <data key="d0">1</data>
+</edge>
+<edge source="publicly" target="whether">
+  <data key="d0">1</data>
+</edge>
+<edge source="whether" target="allow">
+  <data key="d0">1</data>
+</edge>
+<edge source="allow" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="player" target="stay">
+  <data key="d0">1</data>
+</edge>
+<edge source="stay" target="ipl">
+  <data key="d0">1</data>
+</edge>
+<edge source="ipl" target="knockout">
+  <data key="d0">1</data>
+</edge>
+<edge source="knockout" target="stage">
+  <data key="d0">1</data>
+</edge>
+<edge source="stage" target="franchise">
+  <data key="d0">1</data>
+</edge>
+<edge source="franchise" target="qualify">
+  <data key="d0">1</data>
+</edge>
+<edge source="qualify" target="would">
+  <data key="d0">1</data>
+</edge>
+<edge source="would" target="rule">
+  <data key="d0">1</data>
+</edge>
+<edge source="rule" target="first">
+  <data key="d0">1</data>
+</edge>
+<edge source="first" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="recently" target="scored">
+  <data key="d0">1</data>
+</edge>
+<edge source="scored" target="two">
+  <data key="d0">1</data>
+</edge>
+<edge source="unbeaten" target="hundred">
+  <data key="d0">1</data>
+</edge>
+<edge source="hundred" target="rajasthan">
+  <data key="d0">1</data>
+</edge>
+<edge source="rajasthan" target="royal">
+  <data key="d0">1</data>
+</edge>
+<edge source="royal" target="likely">
+  <data key="d0">1</data>
+</edge>
+<edge source="miss" target="start">
+  <data key="d0">1</data>
+</edge>
+<edge source="start" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="series" target="regardless">
+  <data key="d0">1</data>
+</edge>
+<edge source="regardless" target="paternity">
+  <data key="d0">1</data>
+</edge>
+<edge source="paternity" target="leave">
+  <data key="d0">1</data>
+</edge>
+<edge source="leave" target="england">
+  <data key="d0">1</data>
+</edge>
+<edge source="expected" target="name">
+  <data key="d0">1</data>
+</edge>
+<edge source="name" target="squad">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesday" target="morning">
+  <data key="d0">1</data>
+</edge>
+<edge source="morning" target="may">
+  <data key="d0">1</data>
+</edge>
+<edge source="make" target="change">
+  <data key="d0">1</data>
+</edge>
+<edge source="change" target="keen">
+  <data key="d0">1</data>
+</edge>
+<edge source="keen" target="avoid">
+  <data key="d0">1</data>
+</edge>
+<edge source="avoid" target="repeat">
+  <data key="d0">1</data>
+</edge>
+<edge source="repeat" target="debacle">
+  <data key="d0">1</data>
+</edge>
+<edge source="debacle" target="last">
+  <data key="d0">1</data>
+</edge>
+<edge source="ensued" target="harry">
+  <data key="d0">1</data>
+</edge>
+<edge source="harry" target="brook">
+  <data key="d0">1</data>
+</edge>
+<edge source="brook" target="drafted">
+  <data key="d0">1</data>
+</edge>
+<edge source="drafted" target="world">
+  <data key="d0">1</data>
+</edge>
+<edge source="world" target="cup">
+  <data key="d0">1</data>
+</edge>
+<edge source="cup" target="squad">
+  <data key="d0">1</data>
+</edge>
+<edge source="late" target="notice">
+  <data key="d0">1</data>
+</edge>
+<edge source="notice" target="initial">
+  <data key="d0">1</data>
+</edge>
+<edge source="omission" target="pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="wicketkeeping" target="option">
+  <data key="d0">1</data>
+</edge>
+<edge source="option" target="rizwan">
+  <data key="d0">1</data>
+</edge>
+<edge source="rizwan" target="absence">
+  <data key="d0">1</data>
+</edge>
+<edge source="absence" target="haseebullah">
+  <data key="d0">1</data>
+</edge>
+<edge source="haseebullah" target="featured">
+  <data key="d0">1</data>
+</edge>
+<edge source="featured" target="yet">
+  <data key="d0">1</data>
+</edge>
+<edge source="usman" target="khan">
+  <data key="d0">1</data>
+</edge>
+<edge source="khan" target="also">
+  <data key="d0">1</data>
+</edge>
+<edge source="kept" target="wicket">
+  <data key="d0">1</data>
+</edge>
+<edge source="game" target="multan">
+  <data key="d0">1</data>
+</edge>
+<edge source="multan" target="sultan">
+  <data key="d0">1</data>
+</edge>
+<edge source="sultan" target="earlier">
+  <data key="d0">1</data>
+</edge>
+<edge source="earlier" target="year">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
